@@ -1,5 +1,14 @@
 [
   {
+    "case_id": "x-ai-llc-v-bonta",
+    "case_name": "X.AI LLC v. Bonta",
+    "entry_date": "2026-07-24",
+    "summary": "The AI Coalition for Data Integrity and related parties submitted an amicus brief as docket entry 43 in this Ninth Circuit appeal, with the clerk confirming the filing on July 24, 2026. No paper copies were required.",
+    "significance": "minor_update",
+    "entry_number": "44",
+    "logged_at": "2026-07-26T14:45:01Z"
+  },
+  {
     "case_id": "elsevier-inc-v-meta-platforms-inc",
     "case_name": "Elsevier Inc. v. Meta Platforms, Inc.",
     "entry_date": "2026-07-23",
