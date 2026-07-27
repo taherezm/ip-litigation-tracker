@@ -128,10 +128,10 @@
     "id:73668919",
     "id:73662357"
   ],
-  "entries_updated": 1,
+  "entries_updated": 5,
   "docket_update_complete": true,
-  "summaries_generated": 1,
-  "docket_last_run_date": "2026-07-26",
+  "summaries_generated": 5,
+  "docket_last_run_date": "2026-07-27",
   "courtlistener_rate_limited": false,
   "docket_entry_cap_reached": false,
   "summaries_deferred": 0,

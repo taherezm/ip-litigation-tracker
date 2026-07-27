@@ -1,5 +1,50 @@
 [
   {
+    "case_id": "cognella-inc-v-anthropic-pbc",
+    "case_name": "Cognella, Inc. v. Anthropic PBC",
+    "entry_date": "2026-07-24",
+    "summary": "Plaintiff Cognella, Inc. filed an administrative motion asking the court to set a consolidated briefing schedule and hearing date, supported by a declaration from attorney Elizabeth Brannen and a proposed order. Responses to the motion are due by July 28, 2026.",
+    "significance": "minor_update",
+    "entry_number": "31",
+    "logged_at": "2026-07-27T15:54:59Z"
+  },
+  {
+    "case_id": "elsevier-inc-v-meta-platforms-inc",
+    "case_name": "Elsevier Inc. v. Meta Platforms, Inc.",
+    "entry_date": "2026-07-24",
+    "summary": "Judge P. Kevin Castel granted a letter motion for a conference and rescheduled it to September 15, 2026 at 3:00 PM in Courtroom 11D, where argument on a pending motion to transfer the case will also be heard.",
+    "significance": "minor_update",
+    "entry_number": "89",
+    "logged_at": "2026-07-27T15:54:59Z"
+  },
+  {
+    "case_id": "university-of-tennessee-research-foundation-v-anthropic-pbc",
+    "case_name": "University of Tennessee Research Foundation v. Anthropic PBC",
+    "entry_date": "2026-07-24",
+    "summary": "The court granted the University of Tennessee Research Foundation's motion to allow three outside attorneys—Dorian S. Berger, Daniel P. Hipskind, and Erin E. McCracken—to appear in this case on its behalf. Judge Jennifer L. Hall signed the order on July 24, 2026.",
+    "significance": "minor_update",
+    "entry_number": "472162150",
+    "logged_at": "2026-07-27T15:54:59Z"
+  },
+  {
+    "case_id": "university-of-tennessee-research-foundation-v-anthropic-pbc",
+    "case_name": "University of Tennessee Research Foundation v. Anthropic PBC",
+    "entry_date": "2026-07-24",
+    "summary": "The court received a $150 pro hac vice fee payment by credit card for three attorneys — Dorian S. Berger, Daniel P. Hipskind, and Erin E. McCracken — seeking admission to appear in this case, related to a previously filed motion for pro hac vice admission.",
+    "significance": "minor_update",
+    "entry_number": "8",
+    "logged_at": "2026-07-27T15:54:59Z"
+  },
+  {
+    "case_id": "university-of-tennessee-research-foundation-v-anthropic-pbc",
+    "case_name": "University of Tennessee Research Foundation v. Anthropic PBC",
+    "entry_date": "2026-07-24",
+    "summary": "Plaintiff University of Tennessee Research Foundation moved to admit three outside attorneys — Dorian S. Berger, Daniel P. Hipskind, and Erin E. McCracken — to appear in this case on a pro hac vice basis, meaning they are licensed elsewhere but seek permission to practice before this court for this matter. The motion was filed by local counsel Michael Farnan on July 24, 2026.",
+    "significance": "minor_update",
+    "entry_number": "7",
+    "logged_at": "2026-07-27T15:54:59Z"
+  },
+  {
     "case_id": "x-ai-llc-v-bonta",
     "case_name": "X.AI LLC v. Bonta",
     "entry_date": "2026-07-24",
