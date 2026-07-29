@@ -1,5 +1,41 @@
 [
   {
+    "case_id": "cognella-inc-v-anthropic-pbc",
+    "case_name": "Cognella, Inc. v. Anthropic PBC",
+    "entry_date": "2026-07-28",
+    "summary": "Anthropic PBC filed a response opposing Cognella's administrative motion to set a consolidated briefing schedule and hearing date.",
+    "significance": "minor_update",
+    "entry_number": "32",
+    "logged_at": "2026-07-29T15:22:18Z"
+  },
+  {
+    "case_id": "ted-entertainment-inc-v-openai-inc",
+    "case_name": "Ted Entertainment, Inc. v. OpenAI Inc.",
+    "entry_date": "2026-07-27",
+    "summary": "Multiple OpenAI entities moved to dismiss the plaintiffs' class action complaint, with the court scheduled to hear oral argument on December 17, 2026; plaintiffs' responses are due August 10, 2026, and OpenAI's replies are due August 17, 2026.",
+    "significance": "minor_update",
+    "entry_number": "24",
+    "logged_at": "2026-07-29T15:22:18Z"
+  },
+  {
+    "case_id": "kogon-v-google-llc",
+    "case_name": "Kogon v. Google, LLC",
+    "entry_date": "2026-07-27",
+    "summary": "Plaintiffs Attack the Sound LLC, James Burjek, Stan Burjek, Berk Ergoz, Magnus Fiennes, Hamza Jilani, Sam Kogon, Michael Mell, Arjun Singh, Maatkara Wilson, and David Woulard filed a sur-reply opposing Google's motion to dismiss, responding to arguments Google raised in its earlier reply brief.",
+    "significance": "minor_update",
+    "entry_number": "32",
+    "logged_at": "2026-07-29T15:22:18Z"
+  },
+  {
+    "case_id": "kogon-v-google-llc",
+    "case_name": "Kogon v. Google, LLC",
+    "entry_date": "2026-07-27",
+    "summary": "The court granted plaintiff's motion for leave to file a sur-reply, meaning plaintiff is permitted to submit an additional brief responding to Google's reply in an ongoing motion. The sur-reply will be entered as a separate item on the docket.",
+    "significance": "minor_update",
+    "entry_number": "31",
+    "logged_at": "2026-07-29T15:22:18Z"
+  },
+  {
     "case_id": "ted-entertainment-inc-v-apple-inc",
     "case_name": "Ted Entertainment, Inc. v. Apple, Inc.",
     "entry_date": "2026-07-27",
