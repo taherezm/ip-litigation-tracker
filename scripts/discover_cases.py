@@ -53,7 +53,10 @@ MAX_RETRIES = 3
 ANTHROPIC_TIMEOUT = 30.0
 DEFAULT_MAX_DISCOVERY_CANDIDATES = 5
 MAX_REJECTED_DOCKETS = 500
-DISCOVERY_CURSOR_VERSION = 1
+DISCOVERY_CURSOR_VERSION = 2
+MAX_EVIDENCE_SNIPPETS = 8
+MAX_EVIDENCE_SNIPPET_CHARS = 1_600
+MAX_CLASSIFIER_EVIDENCE_CHARS = 8_000
 AI_TERMS = (
     "ai",
     "artificial intelligence",
@@ -67,6 +70,27 @@ AI_TERMS = (
     "training data",
     "stable diffusion",
     "neural network",
+)
+STRONG_AI_TERMS = (
+    "artificial intelligence",
+    "generative ai",
+    "generative artificial intelligence",
+    "ai-generated",
+    "ai-powered",
+    "openai",
+    "anthropic",
+    "chatgpt",
+    "large language model",
+    "llm",
+    "machine learning",
+    "training data",
+    "stable diffusion",
+    "neural network",
+    "deep learning",
+    "foundation model",
+    "text-to-image",
+    "voice cloning",
+    "deepfake",
 )
 IP_CLAIM_TERMS = (
     ("copyright infringement", ("copyright", "17:501")),
@@ -113,6 +137,9 @@ SEARCH_QUERIES = [
     '"AI-generated" copyright',
     '"deep learning" "trade secret"',
     '"machine learning" patent infringement',
+    '"artificial intelligence" "patent infringement"',
+    '"AI" "patent infringement"',
+    '"neural network" patent',
     '"DMCA" "artificial intelligence"',
     'copyright "foundation model"',
     '"text and data mining" copyright',
@@ -126,7 +153,6 @@ SEARCH_QUERIES = [
     '"data breach" "trade secret"',
     '"algorithm" patent',
     '"machine learning" copyright',
-    '"neural network" patent',
     '"computer implemented" patent',
     '"autonomous vehicle" patent',
     '"biometric" privacy',
@@ -294,6 +320,131 @@ def first_value(data: dict[str, Any], keys: tuple[str, ...]) -> Any:
     return ""
 
 
+def strong_ai_tags(value: Any) -> list[str]:
+    """Return substantive AI phrases without treating arbitrary OCR ``ai`` as evidence."""
+
+    text = clean_text(value)
+    lowered = text.lower()
+    tags = [term for term in STRONG_AI_TERMS if term_in_text(lowered, term)]
+    contextual_ai = re.search(
+        r"(?<![A-Za-z0-9])AI(?:[-–— ]+(?i:"
+        r"powered|generated|assisted|driven|based|enabled|recipient|validation|"
+        r"system|model|technology|software|tool|platform|product|feature|training|"
+        r"algorithm|capability|function|service|security|email|engine"
+        r"))\b",
+        text,
+    )
+    if contextual_ai and "contextual AI" not in tags:
+        tags.append("contextual AI")
+    return tags
+
+
+def is_administrative_ai_evidence(value: Any) -> bool:
+    """Identify court instructions about lawyers' AI use, not merits evidence."""
+
+    text = clean_text(value)
+    if not text or not strong_ai_tags(text):
+        return False
+    lowered = text.lower()
+    if re.search(r"\b(?:standing|administrative|general) order\b", lowered):
+        return True
+    has_actor = any(term_in_text(lowered, term) for term in ("attorney", "counsel", "court", "judge"))
+    has_filing = any(
+        term_in_text(lowered, term)
+        for term in ("filing", "pleading", "brief", "submission", "certificate", "certification")
+    )
+    has_disclosure = any(
+        term_in_text(lowered, term)
+        for term in ("certify", "certification", "disclose", "disclosure", "notice of use")
+    )
+    return has_actor and has_filing and has_disclosure
+
+
+def bounded_evidence_snippets(values: list[Any]) -> list[str]:
+    snippets: list[str] = []
+    seen: set[str] = set()
+    total_chars = 0
+    for value in values:
+        text = clean_text(value)
+        if not text or is_administrative_ai_evidence(text):
+            continue
+        text = text[:MAX_EVIDENCE_SNIPPET_CHARS].strip()
+        normalized = normalize_sentence_for_dedupe(text)
+        if not normalized or normalized in seen:
+            continue
+        remaining = MAX_CLASSIFIER_EVIDENCE_CHARS - total_chars
+        if remaining <= 0 or len(snippets) >= MAX_EVIDENCE_SNIPPETS:
+            break
+        text = text[:remaining].strip()
+        if not text:
+            break
+        seen.add(normalized)
+        snippets.append(text)
+        total_chars += len(text)
+    return snippets
+
+
+def result_evidence_snippets(result: dict[str, Any]) -> list[str]:
+    records: list[str] = []
+    root_text = " — ".join(
+        clean_text(result.get(key))
+        for key in ("description", "short_description", "snippet", "plain_text", "text")
+        if clean_text(result.get(key))
+    )
+    if root_text:
+        records.append(root_text)
+    recap_documents = result.get("recap_documents")
+    if isinstance(recap_documents, list):
+        for document in recap_documents[: MAX_EVIDENCE_SNIPPETS * 3]:
+            if not isinstance(document, dict):
+                continue
+            document_text = " — ".join(
+                clean_text(document.get(key))
+                for key in ("description", "short_description", "snippet")
+                if clean_text(document.get(key))
+            )
+            if document_text:
+                records.append(document_text)
+    return bounded_evidence_snippets(records)
+
+
+def candidate_evidence_snippets(candidate: dict[str, Any]) -> list[str]:
+    persisted = candidate.get("evidence_snippets")
+    if isinstance(persisted, list):
+        return bounded_evidence_snippets(persisted)
+    values: list[Any] = []
+    raw = candidate.get("raw")
+    if isinstance(raw, dict):
+        values.extend(result_evidence_snippets(raw))
+    legacy_snippet = clean_text(candidate.get("snippet"))
+    if legacy_snippet:
+        values.append(legacy_snippet)
+    return bounded_evidence_snippets(values)
+
+
+def merge_candidate_evidence(
+    existing: dict[str, Any],
+    incoming: dict[str, Any],
+) -> dict[str, Any]:
+    evidence = bounded_evidence_snippets(
+        candidate_evidence_snippets(existing) + candidate_evidence_snippets(incoming)
+    )
+    existing["evidence_snippets"] = evidence
+    existing["snippet"] = " | ".join(evidence)
+    for key in ("source", "docket_id", "docket_number", "case_name", "court", "date_filed", "parties"):
+        if not clean_text(existing.get(key)) and clean_text(incoming.get(key)):
+            existing[key] = incoming[key]
+    existing_raw = existing.get("raw")
+    incoming_raw = incoming.get("raw")
+    if not isinstance(existing_raw, dict):
+        existing_raw = {}
+    if isinstance(incoming_raw, dict):
+        merged_raw = dict(incoming_raw)
+        merged_raw.update(existing_raw)
+        existing["raw"] = merged_raw
+    return existing
+
+
 def extract_docket_id(data: dict[str, Any]) -> str:
     value = first_value(data, ("courtlistener_docket_id", "docket_id", "docketId", "docket", "id"))
     if isinstance(value, dict):
@@ -409,6 +560,7 @@ def result_to_candidate(result: dict[str, Any], source: str) -> dict[str, Any] |
     )
     if not docket_number or not docket_id or not case_name:
         return None
+    evidence_snippets = result_evidence_snippets(result)
     return {
         "source": source,
         "raw": result,
@@ -420,7 +572,8 @@ def result_to_candidate(result: dict[str, Any], source: str) -> dict[str, Any] |
         ),
         "date_filed": clean_text(first_value(result, ("dateFiled", "date_filed", "date_created", "dateCreated"))),
         "parties": clean_text(first_value(result, ("party", "parties", "party_name", "partyName"))),
-        "snippet": clean_text(first_value(result, ("snippet", "description", "plain_text", "text"))),
+        "evidence_snippets": evidence_snippets,
+        "snippet": " | ".join(evidence_snippets),
     }
 
 
@@ -481,7 +634,8 @@ def validated_search_page_url(
     params = parse_qs(urlparse(absolute).query, keep_blank_values=True)
     expected = {
         "q": query,
-        "type": "d",
+        "type": "r",
+        "highlight": "on",
         "order_by": "score desc",
         "page_size": "20",
     }
@@ -515,7 +669,8 @@ def search_case_page(
 ) -> tuple[list[dict[str, Any]], str]:
     params: dict[str, Any] = {
         "q": query,
-        "type": "d",
+        "type": "r",
+        "highlight": "on",
         "order_by": "score desc",
         "page_size": 20,
     }
@@ -600,16 +755,26 @@ def collect_query_candidates(
                 print(f"Warning: skipped search query after CourtListener rate limit: {query} ({exc})")
                 return candidates_by_docket, index, requested_page_url, True, False
 
+            page_cap_reached = False
             for result in results:
                 candidate = result_to_candidate(result, query)
                 if not candidate:
                     continue
                 key = candidate_identity(candidate)
-                if key not in skipped_dockets:
-                    candidates_by_docket.setdefault(key, candidate)
+                if key in skipped_dockets:
+                    continue
+                if key in candidates_by_docket:
+                    merge_candidate_evidence(candidates_by_docket[key], candidate)
+                elif not limit or len(candidates_by_docket) < limit:
+                    candidates_by_docket[key] = candidate
+                else:
+                    page_cap_reached = True
                 if limit and len(candidates_by_docket) >= limit:
-                    print(f"Warning: discovery candidate collection stopped at {limit} candidates.")
-                    return candidates_by_docket, index, requested_page_url, False, True
+                    page_cap_reached = True
+
+            if page_cap_reached:
+                print(f"Warning: discovery candidate collection stopped at {limit} candidates.")
+                return candidates_by_docket, index, requested_page_url, False, True
 
             if following_page_url:
                 current_page_url = following_page_url
@@ -622,6 +787,13 @@ def collect_query_candidates(
 
 
 def classify_case(client: Anthropic, candidate: dict[str, Any]) -> dict[str, Any]:
+    raw = candidate.get("raw")
+    if not isinstance(raw, dict):
+        raw = {}
+    evidence = candidate_evidence_snippets(candidate)
+    evidence_text = "\n".join(f"- {snippet}" for snippet in evidence)
+    evidence_text = evidence_text[:MAX_CLASSIFIER_EVIDENCE_CHARS] or "(No substantive filing excerpt available.)"
+    cause = clean_text(first_value(raw, ("cause", "suitNature", "nature_of_suit", "natureOfSuit")))
     prompt = f"""You are a legal classifier for an AI/IP litigation tracker.
 
 Case: {candidate["case_name"]}
@@ -629,9 +801,13 @@ Court: {candidate.get("court", "")}
 Docket: {candidate["docket_number"]}
 Filed: {candidate.get("date_filed", "")}
 Parties: {candidate.get("parties", "")}
-Snippet: {candidate.get("snippet", "")}
+Cause / nature of suit: {cause}
+Matching filing evidence:
+{evidence_text}
 
 Is this case primarily or substantially about intellectual property claims (copyright, patent, trade secret, trademark, or right of publicity) arising from or directly involving artificial intelligence systems, AI-generated content, or AI training data?
+
+Treat party names and court instructions requiring attorneys to disclose or certify their use of AI as non-substantive. Require evidence that AI is involved in the claims or accused technology.
 
 Respond ONLY with valid JSON, no preamble:
 {{"relevant": true/false, "confidence": "high"/"medium"/"low", "reason": "one sentence", "claims": ["list"]}}"""
@@ -639,24 +815,31 @@ Respond ONLY with valid JSON, no preamble:
 
 
 def fallback_classification(candidate: dict[str, Any]) -> dict[str, Any]:
-    raw = candidate.get("raw", {})
-    text = " ".join(
+    raw = candidate.get("raw")
+    if not isinstance(raw, dict):
+        raw = {}
+    evidence_text = " ".join(candidate_evidence_snippets(candidate))
+    claim_text = " ".join(
         clean_text(value)
         for value in (
             candidate.get("case_name"),
             candidate.get("court"),
             candidate.get("parties"),
-            candidate.get("snippet"),
-            first_value(raw, ("cause", "suitNature", "caseName", "case_name_full")),
+            evidence_text,
+            first_value(raw, ("cause", "suitNature", "nature_of_suit", "natureOfSuit")),
         )
     ).lower()
-    claims = [claim for claim, terms in IP_CLAIM_TERMS if any(term_in_text(text, term) for term in terms)]
-    ai_tags = [term for term in AI_TERMS if term_in_text(text, term)]
+    claims = [
+        claim
+        for claim, terms in IP_CLAIM_TERMS
+        if any(term_in_text(claim_text, term) for term in terms)
+    ]
+    ai_tags = strong_ai_tags(evidence_text)
     relevant = bool(claims and ai_tags)
     return {
         "relevant": relevant,
         "confidence": "medium" if relevant else "low",
-        "reason": "Deterministic fallback based on AI and IP terms in CourtListener search metadata.",
+        "reason": "Deterministic fallback based on substantive matching filing excerpts and IP metadata.",
         "claims": claims,
     }
 
@@ -822,10 +1005,11 @@ def collect_rss_candidates(
     limit: int,
     start_index: int = 0,
     start_page_url: str = "",
+    initial_candidates: dict[str, dict[str, Any]] | None = None,
 ) -> tuple[dict[str, dict[str, Any]], int, str, bool, bool]:
     """Collect every search page for each RSS docket with a resumable cursor."""
 
-    candidates_by_docket: dict[str, dict[str, Any]] = {}
+    candidates_by_docket = dict(initial_candidates or {})
     next_rss_index, start_index_valid = cursor_index_state(start_index, len(docket_numbers))
     current_page_url = (
         validated_search_page_url(start_page_url, docket_numbers[next_rss_index], None, None)
@@ -848,16 +1032,26 @@ def collect_rss_candidates(
                 print(f"Warning: skipped RSS docket lookup after rate limit: {docket_number} ({exc})")
                 return candidates_by_docket, index, requested_page_url, True, False
 
+            page_cap_reached = False
             for result in results:
                 candidate = result_to_candidate(result, f"rss:{COURTHOUSE_NEWS_FEED}")
                 if not candidate:
                     continue
                 key = candidate_identity(candidate)
-                if key not in skipped_dockets:
-                    candidates_by_docket.setdefault(key, candidate)
+                if key in skipped_dockets:
+                    continue
+                if key in candidates_by_docket:
+                    merge_candidate_evidence(candidates_by_docket[key], candidate)
+                elif not limit or len(candidates_by_docket) < limit:
+                    candidates_by_docket[key] = candidate
+                else:
+                    page_cap_reached = True
                 if limit and len(candidates_by_docket) >= limit:
-                    print(f"Warning: RSS candidate collection stopped at {limit} candidates.")
-                    return candidates_by_docket, index, requested_page_url, False, True
+                    page_cap_reached = True
+
+            if page_cap_reached:
+                print(f"Warning: RSS candidate collection stopped at {limit} candidates.")
+                return candidates_by_docket, index, requested_page_url, False, True
 
             if following_page_url:
                 current_page_url = following_page_url
@@ -923,6 +1117,10 @@ def normalized_pending_candidate_state(value: Any) -> tuple[list[dict[str, Any]]
         if not isinstance(raw_value, dict):
             invalid = True
             raw_value = {}
+        if item.get("evidence_snippets") is not None and not isinstance(
+            item.get("evidence_snippets"), list
+        ):
+            invalid = True
         candidate = {
             "source": clean_text(item.get("source")) or "classifier-retry",
             "raw": raw_value,
@@ -934,10 +1132,19 @@ def normalized_pending_candidate_state(value: Any) -> tuple[list[dict[str, Any]]
             "parties": clean_text(item.get("parties")),
             "snippet": clean_text(item.get("snippet")),
         }
+        if isinstance(item.get("evidence_snippets"), list):
+            candidate["evidence_snippets"] = item["evidence_snippets"]
         if not candidate["docket_id"] or not candidate["docket_number"] or not candidate["case_name"]:
             invalid = True
             continue
-        candidates_by_docket.setdefault(candidate_identity(candidate), candidate)
+        evidence = candidate_evidence_snippets(candidate)
+        candidate["evidence_snippets"] = evidence
+        candidate["snippet"] = " | ".join(evidence)
+        key = candidate_identity(candidate)
+        if key in candidates_by_docket:
+            merge_candidate_evidence(candidates_by_docket[key], candidate)
+        else:
+            candidates_by_docket[key] = candidate
     return list(candidates_by_docket.values()), invalid
 
 
@@ -1229,12 +1436,10 @@ def main() -> None:
         query_page_url = ""
         source_collection_complete = next_rss_index == len(saved_rss_dockets) and not rss_page_url
 
-        rss_limit = 0 if not limit else max(0, source_limit - len(candidates_by_docket))
-        can_collect_rss = not limit or rss_limit > 0
+        can_collect_rss = not limit or len(candidates_by_docket) < source_limit
         if not source_collection_complete and can_collect_rss:
-            rss_skipped_dockets = source_skipped_dockets | set(candidates_by_docket)
             (
-                rss_candidates,
+                candidates_by_docket,
                 next_rss_index,
                 rss_page_url,
                 rss_rate_limited,
@@ -1242,12 +1447,12 @@ def main() -> None:
             ) = collect_rss_candidates(
                 cl,
                 saved_rss_dockets,
-                rss_skipped_dockets,
-                rss_limit,
+                source_skipped_dockets,
+                source_limit,
                 next_rss_index,
                 rss_page_url,
+                candidates_by_docket,
             )
-            candidates_by_docket.update(rss_candidates)
             discovery_candidate_cap_reached = discovery_candidate_cap_reached or rss_cap_reached
             source_collection_complete = bool(
                 not rss_rate_limited

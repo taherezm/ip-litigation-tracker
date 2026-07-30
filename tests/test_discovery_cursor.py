@@ -41,7 +41,8 @@ def search_page_url(
 ) -> str:
     params = {
         "q": query,
-        "type": "d",
+        "type": "r",
+        "highlight": "on",
         "order_by": "score desc",
         "page_size": "20",
         "cursor": cursor,
@@ -410,6 +411,20 @@ class DiscoveryCursorTests(unittest.TestCase):
             ),
             bound_url,
         )
+        for legacy_url in (
+            bound_url.replace("type=r", "type=d"),
+            bound_url.replace("&highlight=on", ""),
+        ):
+            with self.subTest(url=legacy_url):
+                self.assertEqual(
+                    discover_cases.validated_search_page_url(
+                        legacy_url,
+                        "q0",
+                        "2026-07-10",
+                        "2026-07-20",
+                    ),
+                    "",
+                )
         self.assertEqual(
             discover_cases.validated_search_page_url(
                 bound_url,
