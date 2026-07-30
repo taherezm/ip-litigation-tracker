@@ -9099,5 +9099,131 @@
     },
     "plain_language_summary": "NumberAI, Inc. filed patent infringement and trade secret claims against Flai Technologies Inc. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue.",
     "docket_last_checked": "2026-07-30"
+  },
+  {
+    "id": "unwired-global-systems-llc-v-sap-america-inc",
+    "name": "Unwired Global Systems LLC v. SAP America, Inc.",
+    "court": "District Court, D. Delaware",
+    "court_full": "District Court, D. Delaware",
+    "docket_number": "1:26-cv-00926",
+    "courtlistener_docket_id": "73686323",
+    "date_filed": "2026-07-29",
+    "claims": [
+      "patent infringement"
+    ],
+    "legal_theories": [],
+    "status": "active",
+    "procedural_posture": "Filed",
+    "parties": {
+      "plaintiff": "Unwired Global Systems LLC",
+      "defendant": "SAP America, Inc."
+    },
+    "judges": [
+      "Unassigned Judge"
+    ],
+    "key_rulings": [],
+    "docket_entries": [],
+    "source": "courtlistener",
+    "courtlistener_url": "https://www.courtlistener.com/docket/73686323/unwired-global-systems-llc-v-sap-america-inc/",
+    "last_updated": "2026-07-30",
+    "discovered_date": "2026-07-30",
+    "case_intelligence": {
+      "case_theory": "Unwired Global Systems LLC asserts patent infringement claims against SAP America, Inc. involving patented software or technology.",
+      "current_posture": "The case is newly filed.",
+      "why_it_matters": "The case matters because it may affect how patent infringement theories are applied to AI or machine-learning software in a case asserting patent infringement claims.",
+      "latest_change": "Latest meaningful event (2026-07-29): Unwired Global Systems LLC filed the case against SAP America, Inc..",
+      "latest_meaningful_event": "Unwired Global Systems LLC filed the case against SAP America, Inc..",
+      "latest_meaningful_event_date": "2026-07-29",
+      "claim_category": "patent_ai_software",
+      "claims_asserted": [
+        "patent infringement"
+      ],
+      "ai_conduct_alleged": null,
+      "works_or_data_at_issue": "patented software or technology",
+      "technology_or_model_at_issue": null,
+      "procedural_stage": "newly_filed",
+      "pending_motion_or_next_event": null,
+      "related_cases": [],
+      "confidence_level": "low",
+      "missing_information": [
+        "Specific AI-related conduct is not identified in the parsed docket metadata.",
+        "Specific AI system or model is not identified in the parsed materials."
+      ],
+      "source_references": [
+        {
+          "type": "case_metadata",
+          "docket_number": "1:26-cv-00926",
+          "court": "District Court, D. Delaware",
+          "courtlistener_url": "https://www.courtlistener.com/docket/73686323/unwired-global-systems-llc-v-sap-america-inc/"
+        },
+        {
+          "type": "case_metadata",
+          "date_filed": "2026-07-29"
+        }
+      ]
+    },
+    "plain_language_summary": "Unwired Global Systems LLC filed patent infringement claims against SAP America, Inc. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue."
+  },
+  {
+    "id": "wyoming-technology-licensing-llc-v-bmw-of-north-america-llc",
+    "name": "WYOMING TECHNOLOGY LICENSING, LLC v. BMW OF NORTH AMERICA, LLC",
+    "court": "District Court, D. New Jersey",
+    "court_full": "District Court, D. New Jersey",
+    "docket_number": "2:26-cv-09417",
+    "courtlistener_docket_id": "73676038",
+    "date_filed": "2026-07-27",
+    "claims": [
+      "patent infringement"
+    ],
+    "legal_theories": [],
+    "status": "active",
+    "procedural_posture": "Filed",
+    "parties": {
+      "plaintiff": "WYOMING TECHNOLOGY LICENSING, LLC",
+      "defendant": "BMW OF NORTH AMERICA, LLC"
+    },
+    "judges": [],
+    "key_rulings": [],
+    "docket_entries": [],
+    "source": "courtlistener",
+    "courtlistener_url": "https://www.courtlistener.com/docket/73676038/wyoming-technology-licensing-llc-v-bmw-of-north-america-llc/",
+    "last_updated": "2026-07-30",
+    "discovered_date": "2026-07-30",
+    "case_intelligence": {
+      "case_theory": "WYOMING TECHNOLOGY LICENSING, LLC asserts patent infringement claims against BMW OF NORTH AMERICA, LLC involving patented software or technology.",
+      "current_posture": "The case is newly filed.",
+      "why_it_matters": "The case matters because it may affect how patent infringement theories are applied to AI or machine-learning software in a case asserting patent infringement claims.",
+      "latest_change": "Latest meaningful event (2026-07-27): WYOMING TECHNOLOGY LICENSING, LLC filed the case against BMW OF NORTH AMERICA, LLC.",
+      "latest_meaningful_event": "WYOMING TECHNOLOGY LICENSING, LLC filed the case against BMW OF NORTH AMERICA, LLC.",
+      "latest_meaningful_event_date": "2026-07-27",
+      "claim_category": "patent_ai_software",
+      "claims_asserted": [
+        "patent infringement"
+      ],
+      "ai_conduct_alleged": null,
+      "works_or_data_at_issue": "patented software or technology",
+      "technology_or_model_at_issue": null,
+      "procedural_stage": "newly_filed",
+      "pending_motion_or_next_event": null,
+      "related_cases": [],
+      "confidence_level": "low",
+      "missing_information": [
+        "Specific AI-related conduct is not identified in the parsed docket metadata.",
+        "Specific AI system or model is not identified in the parsed materials."
+      ],
+      "source_references": [
+        {
+          "type": "case_metadata",
+          "docket_number": "2:26-cv-09417",
+          "court": "District Court, D. New Jersey",
+          "courtlistener_url": "https://www.courtlistener.com/docket/73676038/wyoming-technology-licensing-llc-v-bmw-of-north-america-llc/"
+        },
+        {
+          "type": "case_metadata",
+          "date_filed": "2026-07-27"
+        }
+      ]
+    },
+    "plain_language_summary": "WYOMING TECHNOLOGY LICENSING, LLC filed patent infringement claims against BMW OF NORTH AMERICA, LLC. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue."
   }
 ]
