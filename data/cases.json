@@ -9320,5 +9320,389 @@
     },
     "plain_language_summary": "WYOMING TECHNOLOGY LICENSING, LLC filed patent infringement claims against BMW OF NORTH AMERICA, LLC. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue.",
     "docket_last_checked": "2026-07-31"
+  },
+  {
+    "id": "evox-production-llc-v-midjourney-inc",
+    "name": "EVOX Production LLC v. Midjourney, Inc.",
+    "court": "District Court, C.D. California",
+    "court_full": "District Court, C.D. California",
+    "docket_number": "2:26-cv-08408",
+    "courtlistener_docket_id": "73698332",
+    "date_filed": "2026-07-30",
+    "claims": [
+      "copyright infringement"
+    ],
+    "legal_theories": [],
+    "status": "active",
+    "procedural_posture": "Filed",
+    "parties": {
+      "plaintiff": "EVOX Production LLC",
+      "defendant": "Midjourney, Inc."
+    },
+    "judges": [],
+    "key_rulings": [],
+    "docket_entries": [],
+    "source": "courtlistener",
+    "courtlistener_url": "https://www.courtlistener.com/docket/73698332/evox-production-llc-v-midjourney-inc/",
+    "last_updated": "2026-07-31",
+    "discovered_date": "2026-07-31",
+    "case_intelligence": {
+      "case_theory": "EVOX Production LLC asserts copyright infringement claims against Midjourney, Inc., but the parsed materials do not yet identify the specific AI conduct at issue.",
+      "current_posture": "The case is newly filed.",
+      "why_it_matters": "The case matters because future filings may clarify the specific AI-related conduct and legal theory in a case asserting copyright infringement claims.",
+      "latest_change": "Latest meaningful event (2026-07-30): EVOX Production LLC filed the case against Midjourney, Inc..",
+      "latest_meaningful_event": "EVOX Production LLC filed the case against Midjourney, Inc..",
+      "latest_meaningful_event_date": "2026-07-30",
+      "claim_category": "unknown",
+      "claims_asserted": [
+        "copyright infringement"
+      ],
+      "ai_conduct_alleged": null,
+      "works_or_data_at_issue": null,
+      "technology_or_model_at_issue": null,
+      "procedural_stage": "newly_filed",
+      "pending_motion_or_next_event": null,
+      "related_cases": [],
+      "confidence_level": "low",
+      "missing_information": [
+        "Specific AI-related conduct is not identified in the parsed docket metadata.",
+        "Specific works, data, or trade secrets at issue are not identified in the parsed materials.",
+        "Specific AI system or model is not identified in the parsed materials."
+      ],
+      "source_references": [
+        {
+          "type": "case_metadata",
+          "docket_number": "2:26-cv-08408",
+          "court": "District Court, C.D. California",
+          "courtlistener_url": "https://www.courtlistener.com/docket/73698332/evox-production-llc-v-midjourney-inc/"
+        },
+        {
+          "type": "case_metadata",
+          "date_filed": "2026-07-30"
+        }
+      ]
+    },
+    "plain_language_summary": "EVOX Production LLC filed copyright infringement claims against Midjourney, Inc. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue."
+  },
+  {
+    "id": "berliner-v-huang",
+    "name": "Berliner v. Huang",
+    "court": "District Court, N.D. Illinois",
+    "court_full": "District Court, N.D. Illinois",
+    "docket_number": "1:26-cv-09153",
+    "courtlistener_docket_id": "73703849",
+    "date_filed": "2026-07-31",
+    "claims": [
+      "copyright infringement",
+      "other AI litigation"
+    ],
+    "legal_theories": [],
+    "status": "active",
+    "procedural_posture": "Filed",
+    "parties": {
+      "plaintiff": "Berliner",
+      "defendant": "Huang"
+    },
+    "judges": [],
+    "key_rulings": [],
+    "docket_entries": [],
+    "source": "courtlistener",
+    "courtlistener_url": "https://www.courtlistener.com/docket/73703849/berliner-v-huang/",
+    "last_updated": "2026-07-31",
+    "discovered_date": "2026-07-31",
+    "case_intelligence": {
+      "case_theory": "Berliner asserts copyright infringement and other AI litigation claims against Huang, but the parsed materials do not yet identify the specific AI conduct at issue.",
+      "current_posture": "The case is newly filed.",
+      "why_it_matters": "The case matters because future filings may clarify the specific AI-related conduct and legal theory in a case asserting copyright infringement and other AI litigation claims.",
+      "latest_change": "Latest meaningful event (2026-07-31): Berliner filed the case against Huang.",
+      "latest_meaningful_event": "Berliner filed the case against Huang.",
+      "latest_meaningful_event_date": "2026-07-31",
+      "claim_category": "unknown",
+      "claims_asserted": [
+        "copyright infringement",
+        "other AI litigation"
+      ],
+      "ai_conduct_alleged": null,
+      "works_or_data_at_issue": null,
+      "technology_or_model_at_issue": null,
+      "procedural_stage": "newly_filed",
+      "pending_motion_or_next_event": null,
+      "related_cases": [],
+      "confidence_level": "low",
+      "missing_information": [
+        "Specific AI-related conduct is not identified in the parsed docket metadata.",
+        "Specific works, data, or trade secrets at issue are not identified in the parsed materials.",
+        "Specific AI system or model is not identified in the parsed materials."
+      ],
+      "source_references": [
+        {
+          "type": "case_metadata",
+          "docket_number": "1:26-cv-09153",
+          "court": "District Court, N.D. Illinois",
+          "courtlistener_url": "https://www.courtlistener.com/docket/73703849/berliner-v-huang/"
+        },
+        {
+          "type": "case_metadata",
+          "date_filed": "2026-07-31"
+        }
+      ]
+    },
+    "plain_language_summary": "Berliner filed copyright infringement and other AI litigation claims against Huang. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue."
+  },
+  {
+    "id": "content-aware-llc-v-myntra-designs-private-limited",
+    "name": "Content Aware, LLC v. Myntra Designs Private Limited",
+    "court": "District Court, E.D. Texas",
+    "court_full": "District Court, E.D. Texas",
+    "docket_number": "2:26-cv-00642",
+    "courtlistener_docket_id": "73695126",
+    "date_filed": "2026-07-30",
+    "claims": [
+      "patent infringement"
+    ],
+    "legal_theories": [],
+    "status": "active",
+    "procedural_posture": "Filed",
+    "parties": {
+      "plaintiff": "Content Aware, LLC",
+      "defendant": "Myntra Designs Private Limited"
+    },
+    "judges": [
+      "Robert William Schroeder III"
+    ],
+    "key_rulings": [],
+    "docket_entries": [],
+    "source": "courtlistener",
+    "courtlistener_url": "https://www.courtlistener.com/docket/73695126/content-aware-llc-v-myntra-designs-private-limited/",
+    "last_updated": "2026-07-31",
+    "discovered_date": "2026-07-31",
+    "case_intelligence": {
+      "case_theory": "Content Aware, LLC asserts patent infringement claims against Myntra Designs Private Limited involving patented software or technology.",
+      "current_posture": "The case is newly filed.",
+      "why_it_matters": "The case matters because it may affect how patent infringement theories are applied to AI or machine-learning software in a case asserting patent infringement claims.",
+      "latest_change": "Latest meaningful event (2026-07-30): Content Aware, LLC filed the case against Myntra Designs Private Limited.",
+      "latest_meaningful_event": "Content Aware, LLC filed the case against Myntra Designs Private Limited.",
+      "latest_meaningful_event_date": "2026-07-30",
+      "claim_category": "patent_ai_software",
+      "claims_asserted": [
+        "patent infringement"
+      ],
+      "ai_conduct_alleged": null,
+      "works_or_data_at_issue": "patented software or technology",
+      "technology_or_model_at_issue": null,
+      "procedural_stage": "newly_filed",
+      "pending_motion_or_next_event": null,
+      "related_cases": [],
+      "confidence_level": "low",
+      "missing_information": [
+        "Specific AI-related conduct is not identified in the parsed docket metadata.",
+        "Specific AI system or model is not identified in the parsed materials."
+      ],
+      "source_references": [
+        {
+          "type": "case_metadata",
+          "docket_number": "2:26-cv-00642",
+          "court": "District Court, E.D. Texas",
+          "courtlistener_url": "https://www.courtlistener.com/docket/73695126/content-aware-llc-v-myntra-designs-private-limited/"
+        },
+        {
+          "type": "case_metadata",
+          "date_filed": "2026-07-30"
+        }
+      ]
+    },
+    "plain_language_summary": "Content Aware, LLC filed patent infringement claims against Myntra Designs Private Limited. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue."
+  },
+  {
+    "id": "content-aware-llc-v-snitch-apparels-private-limited",
+    "name": "Content Aware, LLC v. Snitch Apparels Private Limited",
+    "court": "District Court, E.D. Texas",
+    "court_full": "District Court, E.D. Texas",
+    "docket_number": "2:26-cv-00645",
+    "courtlistener_docket_id": "73695241",
+    "date_filed": "2026-07-30",
+    "claims": [
+      "patent infringement"
+    ],
+    "legal_theories": [],
+    "status": "active",
+    "procedural_posture": "Filed",
+    "parties": {
+      "plaintiff": "Content Aware, LLC",
+      "defendant": "Snitch Apparels Private Limited"
+    },
+    "judges": [
+      "Robert William Schroeder III"
+    ],
+    "key_rulings": [],
+    "docket_entries": [],
+    "source": "courtlistener",
+    "courtlistener_url": "https://www.courtlistener.com/docket/73695241/content-aware-llc-v-snitch-apparels-private-limited/",
+    "last_updated": "2026-07-31",
+    "discovered_date": "2026-07-31",
+    "case_intelligence": {
+      "case_theory": "Content Aware, LLC asserts patent infringement claims against Snitch Apparels Private Limited involving patented software or technology.",
+      "current_posture": "The case is newly filed.",
+      "why_it_matters": "The case matters because it may affect how patent infringement theories are applied to AI or machine-learning software in a case asserting patent infringement claims.",
+      "latest_change": "Latest meaningful event (2026-07-30): Content Aware, LLC filed the case against Snitch Apparels Private Limited.",
+      "latest_meaningful_event": "Content Aware, LLC filed the case against Snitch Apparels Private Limited.",
+      "latest_meaningful_event_date": "2026-07-30",
+      "claim_category": "patent_ai_software",
+      "claims_asserted": [
+        "patent infringement"
+      ],
+      "ai_conduct_alleged": null,
+      "works_or_data_at_issue": "patented software or technology",
+      "technology_or_model_at_issue": null,
+      "procedural_stage": "newly_filed",
+      "pending_motion_or_next_event": null,
+      "related_cases": [],
+      "confidence_level": "low",
+      "missing_information": [
+        "Specific AI-related conduct is not identified in the parsed docket metadata.",
+        "Specific AI system or model is not identified in the parsed materials."
+      ],
+      "source_references": [
+        {
+          "type": "case_metadata",
+          "docket_number": "2:26-cv-00645",
+          "court": "District Court, E.D. Texas",
+          "courtlistener_url": "https://www.courtlistener.com/docket/73695241/content-aware-llc-v-snitch-apparels-private-limited/"
+        },
+        {
+          "type": "case_metadata",
+          "date_filed": "2026-07-30"
+        }
+      ]
+    },
+    "plain_language_summary": "Content Aware, LLC filed patent infringement claims against Snitch Apparels Private Limited. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue."
+  },
+  {
+    "id": "content-aware-llc-v-rakuten-group-inc",
+    "name": "Content Aware, LLC v. Rakuten Group, Inc.",
+    "court": "District Court, E.D. Texas",
+    "court_full": "District Court, E.D. Texas",
+    "docket_number": "2:26-cv-00644",
+    "courtlistener_docket_id": "73695251",
+    "date_filed": "2026-07-30",
+    "claims": [
+      "patent infringement"
+    ],
+    "legal_theories": [],
+    "status": "active",
+    "procedural_posture": "Filed",
+    "parties": {
+      "plaintiff": "Content Aware, LLC",
+      "defendant": "Rakuten Group, Inc."
+    },
+    "judges": [
+      "Robert William Schroeder III"
+    ],
+    "key_rulings": [],
+    "docket_entries": [],
+    "source": "courtlistener",
+    "courtlistener_url": "https://www.courtlistener.com/docket/73695251/content-aware-llc-v-rakuten-group-inc/",
+    "last_updated": "2026-07-31",
+    "discovered_date": "2026-07-31",
+    "case_intelligence": {
+      "case_theory": "Content Aware, LLC asserts patent infringement claims against Rakuten Group, Inc. involving patented software or technology.",
+      "current_posture": "The case is newly filed.",
+      "why_it_matters": "The case matters because it may affect how patent infringement theories are applied to AI or machine-learning software in a case asserting patent infringement claims.",
+      "latest_change": "Latest meaningful event (2026-07-30): Content Aware, LLC filed the case against Rakuten Group, Inc..",
+      "latest_meaningful_event": "Content Aware, LLC filed the case against Rakuten Group, Inc..",
+      "latest_meaningful_event_date": "2026-07-30",
+      "claim_category": "patent_ai_software",
+      "claims_asserted": [
+        "patent infringement"
+      ],
+      "ai_conduct_alleged": null,
+      "works_or_data_at_issue": "patented software or technology",
+      "technology_or_model_at_issue": null,
+      "procedural_stage": "newly_filed",
+      "pending_motion_or_next_event": null,
+      "related_cases": [],
+      "confidence_level": "low",
+      "missing_information": [
+        "Specific AI-related conduct is not identified in the parsed docket metadata.",
+        "Specific AI system or model is not identified in the parsed materials."
+      ],
+      "source_references": [
+        {
+          "type": "case_metadata",
+          "docket_number": "2:26-cv-00644",
+          "court": "District Court, E.D. Texas",
+          "courtlistener_url": "https://www.courtlistener.com/docket/73695251/content-aware-llc-v-rakuten-group-inc/"
+        },
+        {
+          "type": "case_metadata",
+          "date_filed": "2026-07-30"
+        }
+      ]
+    },
+    "plain_language_summary": "Content Aware, LLC filed patent infringement claims against Rakuten Group, Inc. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue."
+  },
+  {
+    "id": "genesis-growth-tech-llc-v-neuroelectrics-barcelona-s-l-u",
+    "name": "Genesis Growth Tech LLC v. Neuroelectrics Barcelona S.L.U.",
+    "court": "District Court, E.D. Texas",
+    "court_full": "District Court, E.D. Texas",
+    "docket_number": "2:26-cv-00641",
+    "courtlistener_docket_id": "73695129",
+    "date_filed": "2026-07-30",
+    "claims": [
+      "patent infringement"
+    ],
+    "legal_theories": [],
+    "status": "active",
+    "procedural_posture": "Filed",
+    "parties": {
+      "plaintiff": "Genesis Growth Tech LLC",
+      "defendant": "Neuroelectrics Barcelona S.L.U."
+    },
+    "judges": [
+      "Robert William Schroeder III"
+    ],
+    "key_rulings": [],
+    "docket_entries": [],
+    "source": "courtlistener",
+    "courtlistener_url": "https://www.courtlistener.com/docket/73695129/genesis-growth-tech-llc-v-neuroelectrics-barcelona-slu/",
+    "last_updated": "2026-07-31",
+    "discovered_date": "2026-07-31",
+    "case_intelligence": {
+      "case_theory": "Genesis Growth Tech LLC asserts patent infringement claims against Neuroelectrics Barcelona S.L.U. involving patented software or technology.",
+      "current_posture": "The case is newly filed.",
+      "why_it_matters": "The case matters because it may affect how patent infringement theories are applied to AI or machine-learning software in a case asserting patent infringement claims.",
+      "latest_change": "Latest meaningful event (2026-07-30): Genesis Growth Tech LLC filed the case against Neuroelectrics Barcelona S.L.U..",
+      "latest_meaningful_event": "Genesis Growth Tech LLC filed the case against Neuroelectrics Barcelona S.L.U..",
+      "latest_meaningful_event_date": "2026-07-30",
+      "claim_category": "patent_ai_software",
+      "claims_asserted": [
+        "patent infringement"
+      ],
+      "ai_conduct_alleged": null,
+      "works_or_data_at_issue": "patented software or technology",
+      "technology_or_model_at_issue": null,
+      "procedural_stage": "newly_filed",
+      "pending_motion_or_next_event": null,
+      "related_cases": [],
+      "confidence_level": "low",
+      "missing_information": [
+        "Specific AI-related conduct is not identified in the parsed docket metadata.",
+        "Specific AI system or model is not identified in the parsed materials."
+      ],
+      "source_references": [
+        {
+          "type": "case_metadata",
+          "docket_number": "2:26-cv-00641",
+          "court": "District Court, E.D. Texas",
+          "courtlistener_url": "https://www.courtlistener.com/docket/73695129/genesis-growth-tech-llc-v-neuroelectrics-barcelona-slu/"
+        },
+        {
+          "type": "case_metadata",
+          "date_filed": "2026-07-30"
+        }
+      ]
+    },
+    "plain_language_summary": "Genesis Growth Tech LLC filed patent infringement claims against Neuroelectrics Barcelona S.L.U. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue."
   }
 ]
