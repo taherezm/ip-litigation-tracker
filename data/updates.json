@@ -1,5 +1,122 @@
 [
   {
+    "case_id": "anthropic-pbc-v-u-s-department-of-war",
+    "case_name": "Anthropic PBC v. U.S. Department of War",
+    "entry_date": "2026-07-30",
+    "summary": "Plaintiff Anthropic PBC, through counsel Michael Mongan, ordered a transcript of proceedings held before Judge Rita F. Lin on July 30, 2026, with court reporter Kelly Shainline.",
+    "significance": "minor_update",
+    "entry_number": "244",
+    "logged_at": "2026-07-31T15:31:08Z"
+  },
+  {
+    "case_id": "anthropic-pbc-v-u-s-department-of-war",
+    "case_name": "Anthropic PBC v. U.S. Department of War",
+    "entry_date": "2026-07-30",
+    "summary": "Judge Rita F. Lin held a hearing on July 30, 2026, on cross-motions for summary judgment and a motion to complete or supplement the administrative record, after which she took all matters under submission for decision.",
+    "significance": "minor_update",
+    "entry_number": "243",
+    "logged_at": "2026-07-31T15:31:08Z"
+  },
+  {
+    "case_id": "s-a-jamendo-v-suno-inc",
+    "case_name": "S.A. Jamendo v. Suno Inc.",
+    "entry_date": "2026-07-30",
+    "summary": "Plaintiff S. A. Jamendo filed an affidavit of service confirming that defendant Suno Inc. was served on July 23, 2026, with Suno's answer to the complaint due by August 13, 2026.",
+    "significance": "minor_update",
+    "entry_number": "16",
+    "logged_at": "2026-07-31T15:31:08Z"
+  },
+  {
+    "case_id": "university-of-tennessee-research-foundation-v-anthropic-pbc",
+    "case_name": "University of Tennessee Research Foundation v. Anthropic PBC",
+    "entry_date": "2026-07-30",
+    "summary": "The court added attorney Daniel P. Hipskind as counsel for the University of Tennessee Research Foundation for electronic notice purposes. Under Local Rule 83. 5(d), Delaware-based counsel remains responsible for filing all papers through the court's electronic filing system.",
+    "significance": "minor_update",
+    "entry_number": "472713810",
+    "logged_at": "2026-07-31T15:31:08Z"
+  },
+  {
+    "case_id": "university-of-tennessee-research-foundation-v-anthropic-pbc",
+    "case_name": "University of Tennessee Research Foundation v. Anthropic PBC",
+    "entry_date": "2026-07-30",
+    "summary": "The court's docketing system added attorney Dorian S. Berger as counsel for the University of Tennessee Research Foundation for electronic notification purposes. Under Local Rule 83. 5(d), Delaware-based counsel remains responsible for filing all documents through the court's electronic filing system.",
+    "significance": "minor_update",
+    "entry_number": "472713811",
+    "logged_at": "2026-07-31T15:31:08Z"
+  },
+  {
+    "case_id": "university-of-tennessee-research-foundation-v-anthropic-pbc",
+    "case_name": "University of Tennessee Research Foundation v. Anthropic PBC",
+    "entry_date": "2026-07-30",
+    "summary": "Attorney Erin E. McCracken was added as a pro hac vice (out-of-state) attorney for the University of Tennessee Research Foundation for purposes of electronic case notifications. Under Local Rule 83. 5(d), Delaware-licensed counsel remains responsible for filing all documents in the case.",
+    "significance": "minor_update",
+    "entry_number": "472713812",
+    "logged_at": "2026-07-31T15:31:08Z"
+  },
+  {
+    "case_id": "unwired-global-systems-llc-v-sap-america-inc",
+    "case_name": "Unwired Global Systems LLC v. SAP America, Inc.",
+    "entry_date": "2026-07-29",
+    "summary": "Attorney Isaac Philip Rabicoff paid the $50 fee required to appear pro hac vice, meaning he was admitted to practice before this court for this case specifically, though the payment receipt does not confirm whether the court has yet formally granted the admission motion.",
+    "significance": "minor_update",
+    "entry_number": "7",
+    "logged_at": "2026-07-31T15:31:08Z"
+  },
+  {
+    "case_id": "unwired-global-systems-llc-v-sap-america-inc",
+    "case_name": "Unwired Global Systems LLC v. SAP America, Inc.",
+    "entry_date": "2026-07-29",
+    "summary": "The court issued a summons to SAP America, Inc. on July 29, 2026, a routine step that formally notifies the defendant of the lawsuit filed against it by Unwired Global Systems LLC.",
+    "significance": "minor_update",
+    "entry_number": "6",
+    "logged_at": "2026-07-31T15:31:08Z"
+  },
+  {
+    "case_id": "unwired-global-systems-llc-v-sap-america-inc",
+    "case_name": "Unwired Global Systems LLC v. SAP America, Inc.",
+    "entry_date": "2026-07-29",
+    "summary": "Plaintiff Unwired Global Systems LLC filed a motion to allow attorney Isaac Philip Rabicoff to appear in this case on a pro hac vice basis, meaning he is licensed outside of Delaware but seeks permission to participate in this proceeding.",
+    "significance": "minor_update",
+    "entry_number": "5",
+    "logged_at": "2026-07-31T15:31:08Z"
+  },
+  {
+    "case_id": "unwired-global-systems-llc-v-sap-america-inc",
+    "case_name": "Unwired Global Systems LLC v. SAP America, Inc.",
+    "entry_date": "2026-07-29",
+    "summary": "Plaintiff Unwired Global Systems LLC filed a corporate disclosure statement under Federal Rule of Civil Procedure 7. 1, reporting that it has no parent companies or corporate affiliates.",
+    "significance": "minor_update",
+    "entry_number": "4",
+    "logged_at": "2026-07-31T15:31:08Z"
+  },
+  {
+    "case_id": "unwired-global-systems-llc-v-sap-america-inc",
+    "case_name": "Unwired Global Systems LLC v. SAP America, Inc.",
+    "entry_date": "2026-07-29",
+    "summary": "The court submitted a report to the Commissioner of Patents and Trademarks concerning Patent No. 8,488,624, which appears to be an administrative notice related to the patent at issue in this case.",
+    "significance": "minor_update",
+    "entry_number": "3",
+    "logged_at": "2026-07-31T15:31:08Z"
+  },
+  {
+    "case_id": "unwired-global-systems-llc-v-sap-america-inc",
+    "case_name": "Unwired Global Systems LLC v. SAP America, Inc.",
+    "entry_date": "2026-07-29",
+    "summary": "The court circulated consent and referral forms asking the parties whether they agree to have a U. S. Magistrate Judge handle jurisdiction over the case. No ruling has been issued; this is an administrative step in the early stages of the litigation.",
+    "significance": "minor_update",
+    "entry_number": "2",
+    "logged_at": "2026-07-31T15:31:08Z"
+  },
+  {
+    "case_id": "unwired-global-systems-llc-v-sap-america-inc",
+    "case_name": "Unwired Global Systems LLC v. SAP America, Inc.",
+    "entry_date": "2026-07-29",
+    "summary": "Unwired Global Systems LLC filed a complaint against SAP America, Inc. in the District of Delaware, alleging patent infringement and requesting a jury trial.",
+    "significance": "minor_update",
+    "entry_number": "1",
+    "logged_at": "2026-07-31T15:31:08Z"
+  },
+  {
     "case_id": "ted-entertainment-inc-v-apple-inc",
     "case_name": "Ted Entertainment, Inc. v. Apple, Inc.",
     "entry_date": "2026-07-28",
