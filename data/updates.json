@@ -1,5 +1,266 @@
 [
   {
+    "case_id": "berliner-v-huang",
+    "case_name": "Berliner v. Huang",
+    "entry_date": "2026-07-31",
+    "summary": "Plaintiff Jessica Berliner filed a verified stockholder derivative complaint against Huang in the Northern District of Illinois, also requesting a jury trial. The filing was accompanied by a $405 filing fee and a civil cover sheet.",
+    "significance": "minor_update",
+    "entry_number": "1",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-myntra-designs-private-limited",
+    "case_name": "Content Aware, LLC v. Myntra Designs Private Limited",
+    "entry_date": "2026-07-30",
+    "summary": "Plaintiff Content Aware, LLC filed this case against Myntra Designs Private Limited on July 30, 2026, and it was assigned to Judge Schroeder; the court's docket also includes a notice providing parties with the form to consent to proceed before a magistrate judge.",
+    "significance": "minor_update",
+    "entry_number": "472780911",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-myntra-designs-private-limited",
+    "case_name": "Content Aware, LLC v. Myntra Designs Private Limited",
+    "entry_date": "2026-07-30",
+    "summary": "The court assigned District Judge Robert W. Schroeder, III to preside over this case in the Eastern District of Texas.",
+    "significance": "minor_update",
+    "entry_number": "472780910",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-myntra-designs-private-limited",
+    "case_name": "Content Aware, LLC v. Myntra Designs Private Limited",
+    "entry_date": "2026-07-30",
+    "summary": "The court issued a summons requiring Myntra Designs Private Limited to respond to the lawsuit filed by Content Aware, LLC. This is a routine early procedural step that formally notifies the defendant of the pending action.",
+    "significance": "minor_update",
+    "entry_number": "5",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-myntra-designs-private-limited",
+    "case_name": "Content Aware, LLC v. Myntra Designs Private Limited",
+    "entry_date": "2026-07-30",
+    "summary": "Plaintiff's counsel filed a standard court form (AO 120) notifying the U. S. Patent and Trademark Office of this pending patent or trademark litigation, as required by federal procedure. The completed form was emailed to the USPTO Director.",
+    "significance": "minor_update",
+    "entry_number": "4",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-myntra-designs-private-limited",
+    "case_name": "Content Aware, LLC v. Myntra Designs Private Limited",
+    "entry_date": "2026-07-30",
+    "summary": "Plaintiff Content Aware, LLC filed a corporate disclosure statement as required by Federal Rule of Civil Procedure 7. 1(a)(1), identifying its organizational and ownership information for the court's records.",
+    "significance": "minor_update",
+    "entry_number": "3",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-myntra-designs-private-limited",
+    "case_name": "Content Aware, LLC v. Myntra Designs Private Limited",
+    "entry_date": "2026-07-30",
+    "summary": "Attorney Isaac Phillip Rabicoff filed a notice of appearance in federal court in the Eastern District of Texas, joining the case as counsel of record on behalf of plaintiff Content Aware, LLC.",
+    "significance": "minor_update",
+    "entry_number": "2",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-myntra-designs-private-limited",
+    "case_name": "Content Aware, LLC v. Myntra Designs Private Limited",
+    "entry_date": "2026-07-30",
+    "summary": "Plaintiff Content Aware, LLC filed a complaint against Myntra Designs Private Limited in the Eastern District of Texas, alleging patent infringement and attaching supporting exhibits and a civil cover sheet.",
+    "significance": "minor_update",
+    "entry_number": "1",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-snitch-apparels-private-limited",
+    "case_name": "Content Aware, LLC v. Snitch Apparels Private Limited",
+    "entry_date": "2026-07-30",
+    "summary": "The court assigned this case to District Judge Robert W. Schroeder, III in the Eastern District of Texas.",
+    "significance": "minor_update",
+    "entry_number": "472780895",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-snitch-apparels-private-limited",
+    "case_name": "Content Aware, LLC v. Snitch Apparels Private Limited",
+    "entry_date": "2026-07-30",
+    "summary": "Plaintiff Content Aware, LLC filed this case against Snitch Apparels Private Limited on July 30, 2026, and it was assigned to Judge Schroeder; the court provided the parties with a form to indicate whether they consent to have a magistrate judge preside over the case.",
+    "significance": "minor_update",
+    "entry_number": "472780896",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-snitch-apparels-private-limited",
+    "case_name": "Content Aware, LLC v. Snitch Apparels Private Limited",
+    "entry_date": "2026-07-30",
+    "summary": "The court issued a summons against defendant Snitch Apparels Private Limited, formally notifying the company that it has been sued and must respond to the complaint filed by Content Aware, LLC.",
+    "significance": "minor_update",
+    "entry_number": "5",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-snitch-apparels-private-limited",
+    "case_name": "Content Aware, LLC v. Snitch Apparels Private Limited",
+    "entry_date": "2026-07-30",
+    "summary": "Plaintiff's counsel filed a required court form (AO 120) notifying the U. S. Patent and Trademark Office of this pending intellectual property lawsuit, as federal rules require when patent or trademark rights are at issue.",
+    "significance": "minor_update",
+    "entry_number": "4",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-snitch-apparels-private-limited",
+    "case_name": "Content Aware, LLC v. Snitch Apparels Private Limited",
+    "entry_date": "2026-07-30",
+    "summary": "Plaintiff Content Aware, LLC filed a corporate disclosure statement as required by Federal Rule of Civil Procedure 7. 1(a)(1), identifying its organizational and financial interests for the court's record.",
+    "significance": "minor_update",
+    "entry_number": "3",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-snitch-apparels-private-limited",
+    "case_name": "Content Aware, LLC v. Snitch Apparels Private Limited",
+    "entry_date": "2026-07-30",
+    "summary": "Attorney Isaac Phillip Rabicoff filed a notice of appearance on behalf of plaintiff Content Aware, LLC, formally entering the case as counsel of record.",
+    "significance": "minor_update",
+    "entry_number": "2",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-snitch-apparels-private-limited",
+    "case_name": "Content Aware, LLC v. Snitch Apparels Private Limited",
+    "entry_date": "2026-07-30",
+    "summary": "Plaintiff Content Aware, LLC filed a complaint against Snitch Apparels Private Limited in the Eastern District of Texas, alleging patent infringement and paying the $405 filing fee. The case was opened on July 30, 2026, with supporting exhibits and a civil cover sheet attached.",
+    "significance": "minor_update",
+    "entry_number": "1",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-rakuten-group-inc",
+    "case_name": "Content Aware, LLC v. Rakuten Group, Inc.",
+    "entry_date": "2026-07-30",
+    "summary": "The court assigned this case to District Judge Robert W. Schroeder, III in the Eastern District of Texas. This is a routine administrative assignment with no substantive rulings or filings at this time.",
+    "significance": "minor_update",
+    "entry_number": "472780893",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-rakuten-group-inc",
+    "case_name": "Content Aware, LLC v. Rakuten Group, Inc.",
+    "entry_date": "2026-07-30",
+    "summary": "Plaintiff Content Aware, LLC filed this case against Rakuten Group, Inc. on July 30, 2026, in the Eastern District of Texas, and the court assigned it to Judge Schroeder; the court also provided the parties with a form to indicate whether they consent to have a magistrate judge handle the case.",
+    "significance": "minor_update",
+    "entry_number": "472780894",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-rakuten-group-inc",
+    "case_name": "Content Aware, LLC v. Rakuten Group, Inc.",
+    "entry_date": "2026-07-30",
+    "summary": "The court's clerk issued a summons to defendant Rakuten Group, Inc. , formally notifying the company that it has been sued by Content Aware, LLC in the Eastern District of Texas.",
+    "significance": "minor_update",
+    "entry_number": "5",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-rakuten-group-inc",
+    "case_name": "Content Aware, LLC v. Rakuten Group, Inc.",
+    "entry_date": "2026-07-30",
+    "summary": "Plaintiff's counsel filed a standard court form (AO 120) notifying the U. S. Patent and Trademark Office of the pending patent or trademark litigation, as required by federal procedural rules.",
+    "significance": "minor_update",
+    "entry_number": "4",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-rakuten-group-inc",
+    "case_name": "Content Aware, LLC v. Rakuten Group, Inc.",
+    "entry_date": "2026-07-30",
+    "summary": "Plaintiff Content Aware, LLC filed a corporate disclosure statement as required by Federal Rule of Civil Procedure 7. 1(a)(1), identifying its organizational and ownership interests for the court's record.",
+    "significance": "minor_update",
+    "entry_number": "3",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-rakuten-group-inc",
+    "case_name": "Content Aware, LLC v. Rakuten Group, Inc.",
+    "entry_date": "2026-07-30",
+    "summary": "Attorney Isaac Phillip Rabicoff filed a notice of appearance in the Eastern District of Texas on behalf of plaintiff Content Aware, LLC, indicating he is joining the legal team representing that party in this case.",
+    "significance": "minor_update",
+    "entry_number": "2",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "content-aware-llc-v-rakuten-group-inc",
+    "case_name": "Content Aware, LLC v. Rakuten Group, Inc.",
+    "entry_date": "2026-07-30",
+    "summary": "Plaintiff Content Aware, LLC filed a complaint against Rakuten Group, Inc. in the Eastern District of Texas, alleging patent infringement and paying the $405 filing fee, with exhibits and a civil cover sheet attached.",
+    "significance": "minor_update",
+    "entry_number": "1",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "genesis-growth-tech-llc-v-neuroelectrics-barcelona-s-l-u",
+    "case_name": "Genesis Growth Tech LLC v. Neuroelectrics Barcelona S.L.U.",
+    "entry_date": "2026-07-30",
+    "summary": "Genesis Growth Tech LLC filed this case against Neuroelectrics Barcelona S. L. U. on July 30, 2026, and it was assigned to Judge Schroeder; the court also provided parties with a form to indicate whether they consent to have a magistrate judge preside over the case.",
+    "significance": "minor_update",
+    "entry_number": "472780898",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "genesis-growth-tech-llc-v-neuroelectrics-barcelona-s-l-u",
+    "case_name": "Genesis Growth Tech LLC v. Neuroelectrics Barcelona S.L.U.",
+    "entry_date": "2026-07-30",
+    "summary": "The court assigned District Judge Robert W. Schroeder, III to preside over this case in the Eastern District of Texas.",
+    "significance": "minor_update",
+    "entry_number": "472780897",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "genesis-growth-tech-llc-v-neuroelectrics-barcelona-s-l-u",
+    "case_name": "Genesis Growth Tech LLC v. Neuroelectrics Barcelona S.L.U.",
+    "entry_date": "2026-07-30",
+    "summary": "The court issued a summons to defendant Neuroelectrics Barcelona S. L. U. , a standard procedural step that formally notifies the defendant of the lawsuit and requires a response.",
+    "significance": "minor_update",
+    "entry_number": "5",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "genesis-growth-tech-llc-v-neuroelectrics-barcelona-s-l-u",
+    "case_name": "Genesis Growth Tech LLC v. Neuroelectrics Barcelona S.L.U.",
+    "entry_date": "2026-07-30",
+    "summary": "Plaintiff's counsel filed the required AO 120 patent/trademark notification form and emailed it to the Director of the U. S. Patent and Trademark Office, as required in cases involving patent or trademark claims.",
+    "significance": "minor_update",
+    "entry_number": "4",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "genesis-growth-tech-llc-v-neuroelectrics-barcelona-s-l-u",
+    "case_name": "Genesis Growth Tech LLC v. Neuroelectrics Barcelona S.L.U.",
+    "entry_date": "2026-07-30",
+    "summary": "Plaintiff Genesis Growth Tech LLC filed a corporate disclosure statement as required by Federal Rule of Civil Procedure 7. 1(a)(1), identifying its organizational and ownership information for the court's records.",
+    "significance": "minor_update",
+    "entry_number": "3",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "genesis-growth-tech-llc-v-neuroelectrics-barcelona-s-l-u",
+    "case_name": "Genesis Growth Tech LLC v. Neuroelectrics Barcelona S.L.U.",
+    "entry_date": "2026-07-30",
+    "summary": "Attorney Isaac Phillip Rabicoff filed a notice of appearance representing plaintiff Genesis Growth Tech LLC in this Eastern District of Texas case.",
+    "significance": "minor_update",
+    "entry_number": "2",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
+    "case_id": "genesis-growth-tech-llc-v-neuroelectrics-barcelona-s-l-u",
+    "case_name": "Genesis Growth Tech LLC v. Neuroelectrics Barcelona S.L.U.",
+    "entry_date": "2026-07-30",
+    "summary": "Plaintiff Genesis Growth Tech LLC filed a complaint against Neuroelectrics Barcelona S. L. U. in the Eastern District of Texas, alleging patent infringement and paying the $405 filing fee. The filing includes two exhibits and a civil cover sheet, and counsel has been reminded to submit a form required by local rules.",
+    "significance": "minor_update",
+    "entry_number": "1",
+    "logged_at": "2026-08-02T14:43:51Z"
+  },
+  {
     "case_id": "anthropic-pbc-v-u-s-department-of-war",
     "case_name": "Anthropic PBC v. U.S. Department of War",
     "entry_date": "2026-07-30",
