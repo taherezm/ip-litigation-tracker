@@ -1,5 +1,41 @@
 [
   {
+    "case_id": "ted-entertainment-inc-v-apple-inc",
+    "case_name": "Ted Entertainment, Inc. v. Apple, Inc.",
+    "entry_date": "2026-08-03",
+    "summary": "Attorney Tom Kherkher filed a certification confirming that the parties discussed their alternative dispute resolution options, as required by the court's local ADR rules.",
+    "significance": "minor_update",
+    "entry_number": "38",
+    "logged_at": "2026-08-03T15:56:25Z"
+  },
+  {
+    "case_id": "ted-entertainment-inc-v-apple-inc",
+    "case_name": "Ted Entertainment, Inc. v. Apple, Inc.",
+    "entry_date": "2026-07-31",
+    "summary": "Both parties filed an ADR Certification confirming they have discussed alternative dispute resolution options, as required by the court's local rules.",
+    "significance": "minor_update",
+    "entry_number": "37",
+    "logged_at": "2026-08-03T15:56:25Z"
+  },
+  {
+    "case_id": "ted-entertainment-inc-v-apple-inc",
+    "case_name": "Ted Entertainment, Inc. v. Apple, Inc.",
+    "entry_date": "2026-07-31",
+    "summary": "The ADR Clerk issued a notice that both parties failed to file an ADR Certification as required by the court's Initial Case Management Scheduling Order, and directed counsel to comply promptly with Local Rule ADR L. R. 3-5(b) by submitting the certification.",
+    "significance": "minor_update",
+    "entry_number": "36",
+    "logged_at": "2026-08-03T15:56:25Z"
+  },
+  {
+    "case_id": "bmg-rights-management-us-llc-v-anthropic-pbc",
+    "case_name": "BMG Rights Management (US) LLC v. Anthropic PBC",
+    "entry_date": "2026-07-31",
+    "summary": "Both parties filed a joint stipulation proposing a schedule for BMG Rights Management to file an amended complaint and for Anthropic to respond, accompanied by a declaration from attorney Nathaniel Bach.",
+    "significance": "minor_update",
+    "entry_number": "31",
+    "logged_at": "2026-08-03T15:56:25Z"
+  },
+  {
     "case_id": "berliner-v-huang",
     "case_name": "Berliner v. Huang",
     "entry_date": "2026-07-31",
