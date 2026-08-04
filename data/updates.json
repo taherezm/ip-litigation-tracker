@@ -1,5 +1,32 @@
 [
   {
+    "case_id": "cruz-v-anthropic-pbc",
+    "case_name": "Cruz v. Anthropic PBC",
+    "entry_date": "2026-08-03",
+    "summary": "The court granted a motion to set a consolidated briefing schedule and hearing date, streamlining the timeline for upcoming filings and arguments in the case. Judge P. Casey Pitts signed the order on August 3, 2026.",
+    "significance": "minor_update",
+    "entry_number": "24",
+    "logged_at": "2026-08-04T15:38:44Z"
+  },
+  {
+    "case_id": "cognella-inc-v-anthropic-pbc",
+    "case_name": "Cognella, Inc. v. Anthropic PBC",
+    "entry_date": "2026-08-03",
+    "summary": "The court granted an administrative motion to set a consolidated briefing schedule and hearing date, with Judge P. Casey Pitts signing the order on August 3, 2026.",
+    "significance": "minor_update",
+    "entry_number": "33",
+    "logged_at": "2026-08-04T15:38:44Z"
+  },
+  {
+    "case_id": "anthropic-pbc-v-u-s-department-of-war",
+    "case_name": "Anthropic PBC v. U.S. Department of War",
+    "entry_date": "2026-08-03",
+    "summary": "Court Reporter Kelly Shainline filed an amended transcript of the July 30, 2026 proceedings before Judge Rita F. Lin. The transcript is currently restricted and available only at the Clerk's Office public terminal or by purchase through the court reporter until November 2, 2026, after which it will be accessible via PACER; any redaction requests are due within 5 business days of this filing.",
+    "significance": "minor_update",
+    "entry_number": "247",
+    "logged_at": "2026-08-04T15:38:44Z"
+  },
+  {
     "case_id": "ted-entertainment-inc-v-apple-inc",
     "case_name": "Ted Entertainment, Inc. v. Apple, Inc.",
     "entry_date": "2026-08-03",

@@ -138,7 +138,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73020880/beaulier-v-meta-platforms-inc/",
     "last_updated": "2026-07-11",
     "discovered_date": "2026-05-27",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Beaulier asserts copyright infringement claims against Meta Platforms, Inc., but the parsed materials do not yet identify the specific AI conduct at issue.",
       "current_posture": "The case is in motion-to-dismiss practice.",
@@ -344,7 +344,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73359710/tanzer-v-adobe-inc/",
     "last_updated": "2026-06-21",
     "discovered_date": "2026-05-27",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Tanzer asserts copyright infringement claims against Adobe Inc., but the parsed materials do not yet identify the specific AI conduct at issue.",
       "current_posture": "The case has a recent significant ruling.",
@@ -483,7 +483,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73352930/kwon-v-anthropic-pbc/",
     "last_updated": "2026-07-11",
     "discovered_date": "2026-05-27",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Kwon asserts copyright infringement claims against Anthropic PBC involving books, educational, or publishing materials.",
       "current_posture": "The case is stayed.",
@@ -807,7 +807,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73034151/beaulier-v-roblox-corporation/",
     "last_updated": "2026-07-17",
     "discovered_date": "2026-05-27",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Beaulier asserts copyright infringement claims against Roblox Corporation, but the parsed materials do not yet identify the specific AI conduct at issue.",
       "current_posture": "The case is in motion-to-dismiss practice.",
@@ -1043,7 +1043,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73043521/beaulier-v-nvidia-corporation/",
     "last_updated": "2026-07-11",
     "discovered_date": "2026-05-27",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Beaulier asserts copyright infringement claims against NVIDIA Corporation, but the parsed materials do not yet identify the specific AI conduct at issue.",
       "current_posture": "The case is in motion-to-dismiss practice.",
@@ -1277,7 +1277,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73061569/beaulier-v-microsoft-corporation/",
     "last_updated": "2026-07-16",
     "discovered_date": "2026-05-27",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Beaulier asserts copyright infringement claims against Microsoft Corporation, but the parsed materials do not yet identify the specific AI conduct at issue.",
       "current_posture": "The case is in motion-to-dismiss practice.",
@@ -1588,7 +1588,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73145933/ted-entertainment-inc-v-apple-inc/",
     "last_updated": "2026-08-03",
     "discovered_date": "2026-05-27",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Ted Entertainment, Inc. asserts copyright infringement claims against Apple, Inc., but the parsed materials do not yet identify the specific AI conduct at issue.",
       "current_posture": "The case is in motion-to-dismiss practice.",
@@ -1724,7 +1724,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/72505713/chicken-soup-for-the-soul-llc-v-meta-platforms-inc/",
     "last_updated": "2026-07-30",
     "discovered_date": "2026-05-27",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Chicken Soup for the Soul, LLC asserts copyright infringement claims against Meta Platforms Inc., but the parsed materials do not yet identify the specific AI conduct at issue.",
       "current_posture": "The case is in motion-to-dismiss practice.",
@@ -1888,21 +1888,28 @@
         "raw_text": "NOTICE by Sean Arbabi, Ascalon, LLC, Martin Atkins, Michael Ault, Jacob Bernstein, Matt Birkbeck, Charles Blackstone, Warren Bobrow, Jim Campbell, Dennis Carstens, Kerry Chance, Sinan Ciddi, Brian Copeland, Angie Cruz, Carolina De Robertis, Jaquira Diaz, Dave Eggers, John Ferejohn, Walter Gmelch, Nicole Gonzalez Van Cleve, Michael Goodrich, Ron Hall, Marla Heller, Daniel James, Lynn Sonberg Book Associates, Lynn Sonberg, Vendela Vida, Aya de Leon (Notice of Administrative Motion to Consider Whether Cases Should be Related (L.R. 3-12(b)) (Attachments: # 1 Exhibit A - Administrative Motion to Consider Whether Cases Should Be Related, # 2 Exhibit B - Joint Stipulation)(Brannen, Elizabeth) (Filed on 6/29/2026) (Entered: 06/29/2026)",
         "summary": "A group of plaintiffs filed a notice of administrative motion asking the court to consider whether this case should be related to one or more other cases pending in the Northern District of California, along with a joint stipulation as an attachment.",
         "significance": "minor_update"
+      },
+      {
+        "entry_number": "24",
+        "date": "2026-08-03",
+        "raw_text": "ORDER Granting 22 Administrative Motion to Set Consolidated Briefing Schedule and Hearing Date. Signed by Judge P. Casey Pitts on 8/3/2026. (nmc, COURT STAFF) (Filed on 8/3/2026) (Entered: 08/03/2026)",
+        "summary": "The court granted a motion to set a consolidated briefing schedule and hearing date, streamlining the timeline for upcoming filings and arguments in the case. Judge P. Casey Pitts signed the order on August 3, 2026.",
+        "significance": "minor_update"
       }
     ],
-    "plain_language_summary": "Cruz asserts copyright infringement claims against Anthropic PBC involving books, educational, or publishing materials. The case is stayed. The case matters because it may affect how related AI litigation is coordinated before merits rulings. Latest meaningful event (2026-06-30): The court approved a joint stipulation by both parties to extend deadlines for amending the pleadings and responding to amended pleadings, and to relate cases against Anthropic PBC. A hearing on Anthropic's motion to dismiss is scheduled for December 10, 2026, at 10:00 AM before Judge P. Casey Pitts in San Jose.",
+    "plain_language_summary": "Cruz asserts copyright infringement claims against Anthropic PBC involving books, educational, or publishing materials. The case is stayed. The case matters because it may affect how related AI litigation is coordinated before merits rulings. Latest meaningful event (2026-08-03): The court granted a motion to set a consolidated briefing schedule and hearing date, streamlining the timeline for upcoming filings and arguments in the case. Judge P. Casey Pitts signed the order on August 3, 2026.",
     "source": "courtlistener",
     "courtlistener_url": "https://www.courtlistener.com/docket/73339887/cruz-v-anthropic-pbc/",
-    "last_updated": "2026-07-11",
+    "last_updated": "2026-08-04",
     "discovered_date": "2026-05-27",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Cruz asserts copyright infringement claims against Anthropic PBC involving books, educational, or publishing materials.",
       "current_posture": "The case is stayed.",
       "why_it_matters": "The case matters because it may affect how related AI litigation is coordinated before merits rulings.",
-      "latest_change": "Latest meaningful event (2026-06-30): The court approved a joint stipulation by both parties to extend deadlines for amending the pleadings and responding to amended pleadings, and to relate cases against Anthropic PBC. A hearing on Anthropic's motion to dismiss is scheduled for December 10, 2026, at 10:00 AM before Judge P. Casey Pitts in San Jose.",
-      "latest_meaningful_event": "The court approved a joint stipulation by both parties to extend deadlines for amending the pleadings and responding to amended pleadings, and to relate cases against Anthropic PBC. A hearing on Anthropic's motion to dismiss is scheduled for December 10, 2026, at 10:00 AM before Judge P. Casey Pitts in San Jose.",
-      "latest_meaningful_event_date": "2026-06-30",
+      "latest_change": "Latest meaningful event (2026-08-03): The court granted a motion to set a consolidated briefing schedule and hearing date, streamlining the timeline for upcoming filings and arguments in the case. Judge P. Casey Pitts signed the order on August 3, 2026.",
+      "latest_meaningful_event": "The court granted a motion to set a consolidated briefing schedule and hearing date, streamlining the timeline for upcoming filings and arguments in the case. Judge P. Casey Pitts signed the order on August 3, 2026.",
+      "latest_meaningful_event_date": "2026-08-03",
       "claim_category": "copyright_news_or_publishing",
       "claims_asserted": [
         "copyright infringement"
@@ -1911,7 +1918,7 @@
       "works_or_data_at_issue": "books, educational, or publishing materials",
       "technology_or_model_at_issue": null,
       "procedural_stage": "stayed",
-      "pending_motion_or_next_event": null,
+      "pending_motion_or_next_event": "briefing schedule",
       "related_cases": [
         "5:25-cv-10897-PCP",
         "25-cv-10897-PCP"
@@ -1930,8 +1937,8 @@
         },
         {
           "type": "docket_entry",
-          "entry_number": "18",
-          "date": "2026-06-30"
+          "entry_number": "24",
+          "date": "2026-08-03"
         }
       ]
     }
@@ -2019,21 +2026,28 @@
         "raw_text": "OPPOSITION/RESPONSE (re 31 ADMINISTRATIVE MOTION TO SET CONSOLIDATED BRIEFING SCHEDULE AND HEARING DATE ) filed byAnthropic PBC. (Chaikovsky, Yar) (Filed on 7/28/2026) (Entered: 07/28/2026)",
         "summary": "Anthropic PBC filed a response opposing Cognella's administrative motion to set a consolidated briefing schedule and hearing date.",
         "significance": "minor_update"
+      },
+      {
+        "entry_number": "33",
+        "date": "2026-08-03",
+        "raw_text": "ORDER Granting 31 Administrative Motion to Set Consolidated Briefing Schedule and Hearing Date. Signed by Judge P. Casey Pitts on 8/3/2026. (nmc, COURT STAFF) (Filed on 8/3/2026) (Entered: 08/03/2026)",
+        "summary": "The court granted an administrative motion to set a consolidated briefing schedule and hearing date, with Judge P. Casey Pitts signing the order on August 3, 2026.",
+        "significance": "minor_update"
       }
     ],
-    "plain_language_summary": "Cognella, Inc. asserts copyright infringement claims against Anthropic PBC involving books, educational, or publishing materials. The case is stayed. The case matters because the stay controls when the parties can reach merits discovery or dispositive motions. Latest meaningful event (2026-07-28): Anthropic PBC filed a response opposing Cognella's administrative motion to set a consolidated briefing schedule and hearing date.",
+    "plain_language_summary": "Cognella, Inc. asserts copyright infringement claims against Anthropic PBC involving books, educational, or publishing materials. The case is stayed. The case matters because the stay controls when the parties can reach merits discovery or dispositive motions. Latest meaningful event (2026-08-03): The court granted an administrative motion to set a consolidated briefing schedule and hearing date, with Judge P. Casey Pitts signing the order on August 3, 2026.",
     "source": "courtlistener",
     "courtlistener_url": "https://www.courtlistener.com/docket/73294478/cognella-inc-v-anthropic-pbc/",
-    "last_updated": "2026-07-29",
+    "last_updated": "2026-08-04",
     "discovered_date": "2026-05-27",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Cognella, Inc. asserts copyright infringement claims against Anthropic PBC involving books, educational, or publishing materials.",
       "current_posture": "The case is stayed.",
       "why_it_matters": "The case matters because the stay controls when the parties can reach merits discovery or dispositive motions.",
-      "latest_change": "Latest meaningful event (2026-07-28): Anthropic PBC filed a response opposing Cognella's administrative motion to set a consolidated briefing schedule and hearing date.",
-      "latest_meaningful_event": "Anthropic PBC filed a response opposing Cognella's administrative motion to set a consolidated briefing schedule and hearing date.",
-      "latest_meaningful_event_date": "2026-07-28",
+      "latest_change": "Latest meaningful event (2026-08-03): The court granted an administrative motion to set a consolidated briefing schedule and hearing date, with Judge P. Casey Pitts signing the order on August 3, 2026.",
+      "latest_meaningful_event": "The court granted an administrative motion to set a consolidated briefing schedule and hearing date, with Judge P. Casey Pitts signing the order on August 3, 2026.",
+      "latest_meaningful_event_date": "2026-08-03",
       "claim_category": "copyright_news_or_publishing",
       "claims_asserted": [
         "copyright infringement"
@@ -2058,8 +2072,8 @@
         },
         {
           "type": "docket_entry",
-          "entry_number": "32",
-          "date": "2026-07-28"
+          "entry_number": "33",
+          "date": "2026-08-03"
         }
       ]
     }
@@ -2126,7 +2140,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73391100/david-vance-gardner-v-runway-ai-inc/",
     "last_updated": "2026-06-06",
     "discovered_date": "2026-05-27",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "David Vance Gardner asserts copyright infringement claims against Runway AI, Inc., but the parsed materials do not yet identify the specific AI conduct at issue.",
       "current_posture": "The case is in motion practice.",
@@ -2281,7 +2295,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73314131/chicken-soup-for-the-soul-llc-v-anthropic-pbc/",
     "last_updated": "2026-07-01",
     "discovered_date": "2026-05-27",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Chicken Soup for the Soul, LLC asserts copyright infringement claims against Anthropic PBC, but the parsed materials do not yet identify the specific AI conduct at issue.",
       "current_posture": "The case is stayed: Court staff terminated Docket No. 14, a stipulation with proposed order to stay all deadlines and proceedings, because it was re-filed as Docket No. 16.",
@@ -2396,7 +2410,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/72344359/businessing-llc-v-runway-ai-inc/",
     "last_updated": "2026-07-01",
     "discovered_date": "2026-05-27",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Businessing LLC asserts copyright infringement claims against Runway AI, Inc., but the parsed materials do not yet identify the specific AI conduct at issue.",
       "current_posture": "The case is in motion practice.",
@@ -2583,7 +2597,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73328849/poseidon-wave-media-llc-v-suno-inc/",
     "last_updated": "2026-07-01",
     "discovered_date": "2026-05-27",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Poseidon Wave Media LLC asserts copyright infringement claims against Suno, Inc., but the parsed materials do not yet identify the specific AI conduct at issue.",
       "current_posture": "The case is in motion practice.",
@@ -2908,7 +2922,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73294740/elsevier-inc-v-meta-platforms-inc/",
     "last_updated": "2026-07-27",
     "discovered_date": "2026-05-27",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Elsevier Inc. asserts copyright infringement claims against Meta Platforms, Inc. involving books, educational, or publishing materials.",
       "current_posture": "The case is in motion practice.",
@@ -3057,7 +3071,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73284844/carreyrou-v-openai-inc/",
     "last_updated": "2026-06-11",
     "discovered_date": "2026-05-31",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Carreyrou asserts copyright infringement claims against OpenAI, Inc. involving news or journalism content and Project Giraffe.",
       "current_posture": "The case has a recent significant ruling.",
@@ -3146,7 +3160,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73384790/hobbs-v-meta-platforms-inc/",
     "last_updated": "2026-06-11",
     "discovered_date": "2026-05-31",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Hobbs asserts copyright infringement claims against Meta Platforms, Inc., but the parsed materials do not yet identify the specific AI conduct at issue.",
       "current_posture": "The case is newly filed.",
@@ -3394,7 +3408,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73145732/ted-entertainment-inc-v-openai-inc/",
     "last_updated": "2026-07-29",
     "discovered_date": "2026-05-31",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Ted Entertainment, Inc. asserts copyright infringement claims against OpenAI Inc., but the parsed materials do not yet identify the specific AI conduct at issue.",
       "current_posture": "The case is on appeal.",
@@ -3467,7 +3481,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73243293/seiu-pension-plan-master-trust-v-adobe-inc/",
     "last_updated": "2026-07-06",
     "discovered_date": "2026-05-31",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "SEIU Pension Plan Master Trust asserts copyright infringement claims against Adobe Inc., but the parsed materials do not yet identify the specific AI conduct at issue.",
       "current_posture": "The case is in early service or case-administration steps.",
@@ -3855,7 +3869,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/72492986/encyclopaedia-britannica-inc-v-openai-inc/",
     "last_updated": "2026-07-06",
     "discovered_date": "2026-05-31",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Encyclopaedia Britannica, Inc. asserts copyright infringement claims against OpenAI, Inc. over alleged AI-generated output involving news or journalism content and Project Giraffe.",
       "current_posture": "The case is stayed.",
@@ -3977,7 +3991,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73399431/tesseract-systems-llc-v-soundhound-inc/",
     "last_updated": "2026-06-06",
     "discovered_date": "2026-06-01",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Tesseract Systems LLC asserts patent infringement claims against SoundHound, Inc. involving patented software or technology.",
       "current_posture": "The case is newly filed.",
@@ -4091,7 +4105,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/72392052/poulin-holdings-llc-v-databricks-inc/",
     "last_updated": "2026-06-11",
     "discovered_date": "2026-06-01",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Poulin Holdings, LLC asserts patent infringement claims against Databricks, Inc. involving patented software or technology.",
       "current_posture": "The case is newly filed.",
@@ -4233,7 +4247,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/72377338/kogon-v-google-llc/",
     "last_updated": "2026-07-29",
     "discovered_date": "2026-06-01",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Kogon asserts copyright infringement claims against Google, LLC, but the parsed materials do not yet identify the specific AI conduct at issue.",
       "current_posture": "The case is on appeal.",
@@ -4313,7 +4327,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73446028/american-federation-of-musicians-of-the-united-states-and-canada-v/",
     "last_updated": "2026-07-23",
     "discovered_date": "2026-06-06",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "American Federation of Musicians of the United States and Canada asserts copyright infringement claims against UNIVERSAL MUSIC GROUP, INC. involving music, audio, or sound-recording works.",
       "current_posture": "The case is in motion practice.",
@@ -4455,7 +4469,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73166286/valtrus-innovations-limited-v-lumen-technologies-inc/",
     "last_updated": "2026-06-11",
     "discovered_date": "2026-06-06",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Valtrus Innovations Limited asserts patent infringement claims against Lumen Technologies, Inc. involving patented software or technology.",
       "current_posture": "The case is in early service or case-administration steps.",
@@ -4758,7 +4772,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/72505829/bmg-rights-management-us-llc-v-anthropic-pbc/",
     "last_updated": "2026-08-03",
     "discovered_date": "2026-06-06",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "BMG Rights Management (US) LLC asserts copyright infringement claims against Anthropic PBC, but the parsed materials do not yet identify the specific AI conduct at issue.",
       "current_posture": "The case is in motion-to-dismiss practice.",
@@ -5419,14 +5433,21 @@
         "raw_text": "Minute Entry for proceedings held before Judge Rita F. Lin: Motion Hearing held on 7/30/2026 re 166 MOTION for Summary Judgment, 169 MOTION to Complete the Administrative Record and to Consider Evidence Outside the Administrative Record, and 215 Cross MOTION for Summary Judgment. Proffers heard. Matter taken under submission. Total Time in Court: 1 hour, 39 minutes. Court Reporter: Kelly Shainline. Plaintiff Attorneys: Joshua Geltzer, Lauren Moxley Beatty, Susan Hennessey, Emily Barnet, Bardia Vaseghi, Dakota Foster, Michael Mongan,Jeffrey Bleich, Devon Cook. Defendant Attorneys: James Harlow, Christian Dibblee. (This is a text-only entry generated by the court. There is no document associated with this entry.) (bxl, COURT STAFF) (Date Filed: 7/30/2026) (Entered: 07/30/2026)",
         "summary": "Judge Rita F. Lin held a hearing on July 30, 2026, on cross-motions for summary judgment and a motion to complete or supplement the administrative record, after which she took all matters under submission for decision.",
         "significance": "minor_update"
+      },
+      {
+        "entry_number": "247",
+        "date": "2026-08-03",
+        "raw_text": "Amended Transcript of Proceedings held on 7/30/2026, before Judge Rita F. Lin. Court Reporter/Transcriber Kelly Shainline, telephone number (510)828-9404, Email: kelly_shainline@cand.uscourts.gov. Per General Order No. 59 and Judicial Conference policy, this transcript may be viewed only at the Clerk's Office public terminal or may be purchased through the Court Reporter/Transcriber until the deadline for the Release of Transcript Restriction. After that date it may be obtained through PACER. Any Notice of Intent to Request Redaction, if required, is due no later than 5 business days from date of this filing. Release of Transcript Restriction set for 11/2/2026. (Shainline, Kelly) (Filed on 8/3/2026) (Entered: 08/03/2026)",
+        "summary": "Court Reporter Kelly Shainline filed an amended transcript of the July 30, 2026 proceedings before Judge Rita F. Lin. The transcript is currently restricted and available only at the Clerk's Office public terminal or by purchase through the court reporter until November 2, 2026, after which it will be accessible via PACER; any redaction requests are due within 5 business days of this filing.",
+        "significance": "minor_update"
       }
     ],
     "plain_language_summary": "Anthropic PBC asserts copyright infringement claims against U.S. Department of War involving music, audio, or sound-recording works. The case is in motion practice. The case matters because it may affect how administrative-law or public-records rules apply to AI-related information requests in a case asserting copyright infringement claims. Latest meaningful event (2026-07-30): Judge Rita F. Lin held a hearing on July 30, 2026, on cross-motions for summary judgment and a motion to complete or supplement the administrative record, after which she took all matters under submission for decision.",
     "source": "courtlistener",
     "courtlistener_url": "https://www.courtlistener.com/docket/72379655/anthropic-pbc-v-us-department-of-war/",
-    "last_updated": "2026-07-31",
+    "last_updated": "2026-08-04",
     "discovered_date": "2026-06-06",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Anthropic PBC asserts copyright infringement claims against U.S. Department of War involving music, audio, or sound-recording works.",
       "current_posture": "The case is in motion practice.",
@@ -5854,7 +5875,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/72502129/amazoncom-services-llc-v-perplexity-ai-inc/",
     "last_updated": "2026-07-10",
     "discovered_date": "2026-06-06",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Amazon.com Services, LLC asserts copyright infringement claims against Perplexity AI, Inc. involving music, audio, or sound-recording works and Perplexity AI.",
       "current_posture": "The case is on appeal.",
@@ -6002,7 +6023,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73402641/cable-news-network-inc-v-perplexity-ai-inc/",
     "last_updated": "2026-07-10",
     "discovered_date": "2026-06-06",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Cable News Network Inc asserts copyright infringement claims against Perplexity AI, Inc. involving news or journalism content and Perplexity AI.",
       "current_posture": "The case has a recent significant ruling.",
@@ -6108,7 +6129,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73231690/true-footage-inc-v-automax-ai-inc/",
     "last_updated": "2026-07-10",
     "discovered_date": "2026-06-06",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "True Footage Inc. asserts copyright infringement claims against Automax AI Inc., but the parsed materials do not yet identify the specific AI conduct at issue.",
       "current_posture": "The case is in motion practice.",
@@ -6356,7 +6377,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/72518947/xai-llc-v-bonta/",
     "last_updated": "2026-07-28",
     "discovered_date": "2026-06-06",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "X.AI LLC asserts trade secret claims against Bonta involving confidential or trade-secret information.",
       "current_posture": "The case is on appeal.",
@@ -6831,7 +6852,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/72384605/gracenote-media-services-llc-v-openai-foundation/",
     "last_updated": "2026-07-11",
     "discovered_date": "2026-06-06",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Gracenote Media Services, LLC asserts copyright infringement claims against OpenAI Foundation over alleged AI-generated output involving news or journalism content and Project Giraffe.",
       "current_posture": "The case is stayed.",
@@ -6981,7 +7002,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/72495765/doe-1-v-xai-corp/",
     "last_updated": "2026-07-17",
     "discovered_date": "2026-06-06",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Doe 1 asserts privacy or consumer protection claims against X.AI Corp. over alleged collection or use of personal data in AI systems involving personal or biometric data.",
       "current_posture": "The case has a recent significant ruling.",
@@ -7049,7 +7070,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73237887/semantic-engines-llc-v-microsoft-corporation/",
     "last_updated": "2026-06-06",
     "discovered_date": "2026-06-06",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Semantic Engines LLC asserts patent infringement claims against Microsoft Corporation involving patented software or technology.",
       "current_posture": "The case is newly filed.",
@@ -7176,7 +7197,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73488419/apress-media-llc-v-welib/",
     "last_updated": "2026-07-10",
     "discovered_date": "2026-06-16",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Apress Media, LLC asserts copyright infringement claims against WeLib involving books, educational, or publishing materials.",
       "current_posture": "The case is in motion practice.",
@@ -7367,7 +7388,7 @@
     "courtlistener_url": "https://www.courtlistener.com/docket/73494355/shakespeare-v-anthropic-pbc/",
     "last_updated": "2026-07-24",
     "discovered_date": "2026-06-21",
-    "docket_last_checked": "2026-08-03",
+    "docket_last_checked": "2026-08-04",
     "case_intelligence": {
       "case_theory": "Shakespeare asserts copyright infringement claims against Anthropic PBC involving books, educational, or publishing materials.",
       "current_posture": "The case is newly filed.",
@@ -7809,7 +7830,7 @@
         }
       ]
     },
-    "docket_last_checked": "2026-08-03"
+    "docket_last_checked": "2026-08-04"
   },
   {
     "id": "s-a-jamendo-v-suno-inc",
@@ -7975,7 +7996,7 @@
       ]
     },
     "plain_language_summary": "S.A. Jamendo filed copyright infringement claims against Suno Inc. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue.",
-    "docket_last_checked": "2026-08-03"
+    "docket_last_checked": "2026-08-04"
   },
   {
     "id": "dow-jones-company-inc-v-abbeel",
@@ -8112,7 +8133,7 @@
       ]
     },
     "plain_language_summary": "Dow Jones & Company, Inc. asserts copyright infringement claims against Abbeel involving Perplexity AI. The case is in discovery. The case matters because future filings may clarify the specific AI-related conduct and legal theory in a case asserting copyright infringement claims. Latest meaningful event (2026-06-29): Plaintiffs Dow Jones & Company, Inc. and NYP Holdings, Inc. filed a certificate of service confirming that their motion to compel was served on the opposing party.",
-    "docket_last_checked": "2026-08-03"
+    "docket_last_checked": "2026-08-04"
   },
   {
     "id": "evox-productions-llc-a-delaware-limited-liability-company-v-stability-ai-inc",
@@ -8255,7 +8276,7 @@
       ]
     },
     "plain_language_summary": "EVOX PRODUCTIONS LLC, a Delaware limited liability company filed copyright infringement claims against Stability AI, Inc. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue.",
-    "docket_last_checked": "2026-08-03"
+    "docket_last_checked": "2026-08-04"
   },
   {
     "id": "anthropic-pbc-v-abnormal-ai-inc",
@@ -8442,7 +8463,7 @@
       ]
     },
     "plain_language_summary": "Anthropic, PBC filed trademark claims against Abnormal AI, Inc. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue.",
-    "docket_last_checked": "2026-08-03"
+    "docket_last_checked": "2026-08-04"
   },
   {
     "id": "hachette-book-group-inc-v-google-llc",
@@ -8656,7 +8677,7 @@
       ]
     },
     "plain_language_summary": "Hachette Book Group, Inc. filed copyright infringement and other AI litigation claims against Google LLC. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue.",
-    "docket_last_checked": "2026-08-03"
+    "docket_last_checked": "2026-08-04"
   },
   {
     "id": "sony-music-entertainment-v-uncharted-labs-inc-d-b-a-udio-com",
@@ -8906,7 +8927,7 @@
       ]
     },
     "plain_language_summary": "Sony Music Entertainment asserts copyright infringement claims against Uncharted Labs, Inc. d/b/a Udio.com involving music, audio, or sound-recording works. The case is in motion practice. The case matters because it may affect how copyright and music-rights claims are applied to AI tools and audio works in a case asserting copyright infringement claims. Latest meaningful event (2026-07-21): The court referred this case to Judge Alvin K. Hellerstein as possibly related to a previously filed case, No. 1:24cv4777.",
-    "docket_last_checked": "2026-08-03"
+    "docket_last_checked": "2026-08-04"
   },
   {
     "id": "university-of-tennessee-research-foundation-v-anthropic-pbc",
@@ -9064,7 +9085,7 @@
       ]
     },
     "plain_language_summary": "University of Tennessee Research Foundation asserts patent infringement claims against Anthropic PBC involving patented software or technology. The case has a recent significant ruling. The case matters because it may affect how patent infringement theories are applied to AI or machine-learning software in a case asserting patent infringement claims. Latest meaningful event (2026-07-24): The court granted the University of Tennessee Research Foundation's motion to allow three outside attorneys—Dorian S. Berger, Daniel P. Hipskind, and Erin E. McCracken—to appear in this case on its behalf. Judge Jennifer L. Hall signed the order on July 24, 2026.",
-    "docket_last_checked": "2026-08-03"
+    "docket_last_checked": "2026-08-04"
   },
   {
     "id": "numberai-inc-v-flai-technologies-inc",
@@ -9486,7 +9507,7 @@
       ]
     },
     "plain_language_summary": "Berliner filed copyright infringement and other AI litigation claims against Huang. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue.",
-    "docket_last_checked": "2026-08-02"
+    "docket_last_checked": "2026-08-04"
   },
   {
     "id": "content-aware-llc-v-myntra-designs-private-limited",
@@ -9602,7 +9623,7 @@
       ]
     },
     "plain_language_summary": "Content Aware, LLC filed patent infringement claims against Myntra Designs Private Limited. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue.",
-    "docket_last_checked": "2026-08-02"
+    "docket_last_checked": "2026-08-04"
   },
   {
     "id": "content-aware-llc-v-snitch-apparels-private-limited",
@@ -9718,7 +9739,7 @@
       ]
     },
     "plain_language_summary": "Content Aware, LLC filed patent infringement claims against Snitch Apparels Private Limited. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue.",
-    "docket_last_checked": "2026-08-02"
+    "docket_last_checked": "2026-08-04"
   },
   {
     "id": "content-aware-llc-v-rakuten-group-inc",
@@ -9834,7 +9855,7 @@
       ]
     },
     "plain_language_summary": "Content Aware, LLC filed patent infringement claims against Rakuten Group, Inc. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue.",
-    "docket_last_checked": "2026-08-02"
+    "docket_last_checked": "2026-08-04"
   },
   {
     "id": "genesis-growth-tech-llc-v-neuroelectrics-barcelona-s-l-u",
@@ -9950,6 +9971,6 @@
       ]
     },
     "plain_language_summary": "Genesis Growth Tech LLC filed patent infringement claims against Neuroelectrics Barcelona S.L.U. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue.",
-    "docket_last_checked": "2026-08-02"
+    "docket_last_checked": "2026-08-04"
   }
 ]
