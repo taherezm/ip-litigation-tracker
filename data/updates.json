@@ -2,6 +2,114 @@
   {
     "case_id": "cruz-v-anthropic-pbc",
     "case_name": "Cruz v. Anthropic PBC",
+    "entry_date": "2026-08-04",
+    "summary": "Plaintiffs Brian Copeland and Sinan Ciddi, through their attorney Elizabeth Brannen, filed certifications confirming that they have been informed of and discussed the court's alternative dispute resolution (ADR) options, as required by the court's local rules.",
+    "significance": "minor_update",
+    "entry_number": "25",
+    "logged_at": "2026-08-05T15:30:47Z"
+  },
+  {
+    "case_id": "bmg-rights-management-us-llc-v-anthropic-pbc",
+    "case_name": "BMG Rights Management (US) LLC v. Anthropic PBC",
+    "entry_date": "2026-08-04",
+    "summary": "The court granted a joint stipulation submitted by both parties, setting a schedule for BMG to file an amended complaint and for Anthropic to respond to it.",
+    "significance": "minor_update",
+    "entry_number": "32",
+    "logged_at": "2026-08-05T15:30:47Z"
+  },
+  {
+    "case_id": "amazon-com-services-llc-v-perplexity-ai-inc",
+    "case_name": "Amazon.com Services, LLC v. Perplexity AI, Inc.",
+    "entry_date": "2026-08-04",
+    "summary": "Appellee Amazon. com Services, LLC filed its answering brief and excerpts of record in the Ninth Circuit appeal, responding to Perplexity AI's opening brief. No paper copies were required.",
+    "significance": "minor_update",
+    "entry_number": "63",
+    "logged_at": "2026-08-05T15:30:47Z"
+  },
+  {
+    "case_id": "amazon-com-services-llc-v-perplexity-ai-inc",
+    "case_name": "Amazon.com Services, LLC v. Perplexity AI, Inc.",
+    "entry_date": "2026-08-04",
+    "summary": "Appellant Perplexity AI, Inc. submitted its opening brief and excerpts of record (Docket Entries 26, 27, and 29) with the Ninth Circuit clerk, with Volume 4 filed under seal; no paper copies are required.",
+    "significance": "minor_update",
+    "entry_number": "62",
+    "logged_at": "2026-08-05T15:30:47Z"
+  },
+  {
+    "case_id": "amazon-com-services-llc-v-perplexity-ai-inc",
+    "case_name": "Amazon.com Services, LLC v. Perplexity AI, Inc.",
+    "entry_date": "2026-08-04",
+    "summary": "A three-judge Ninth Circuit panel vacated the district court's preliminary injunction against Perplexity AI, holding that Amazon is unlikely to succeed on the 'access' element of its claims under the Computer Fraud and Abuse Act (CFAA) and California's equivalent statute (CDAFA), and that the equitable factors do not strongly favor injunctive relief; the panel remanded the case for further proceedings. The court also granted Perplexity's motion to file certain documents under seal.",
+    "significance": "significant_ruling",
+    "entry_number": "61",
+    "logged_at": "2026-08-05T15:30:47Z"
+  },
+  {
+    "case_id": "hachette-book-group-inc-v-google-llc",
+    "case_name": "Hachette Book Group, Inc. v. Google LLC",
+    "entry_date": "2026-08-05",
+    "summary": "The Clerk's Office reviewed and approved the pro hac vice admission paperwork for attorney Derek William Loeser, finding no deficiencies in the filing. A $200 filing fee was paid in connection with the motion.",
+    "significance": "minor_update",
+    "entry_number": "473298922",
+    "logged_at": "2026-08-05T15:30:47Z"
+  },
+  {
+    "case_id": "hachette-book-group-inc-v-google-llc",
+    "case_name": "Hachette Book Group, Inc. v. Google LLC",
+    "entry_date": "2026-08-05",
+    "summary": "The Clerk's Office reviewed a motion to allow attorney Paul J. Sampson to appear pro hac vice in this case and found no deficiencies in the filing. A $200 filing fee was paid in connection with the motion.",
+    "significance": "minor_update",
+    "entry_number": "473298923",
+    "logged_at": "2026-08-05T15:30:47Z"
+  },
+  {
+    "case_id": "hachette-book-group-inc-v-google-llc",
+    "case_name": "Hachette Book Group, Inc. v. Google LLC",
+    "entry_date": "2026-08-05",
+    "summary": "The Clerk's Office issued a notice that attorney Chris Nathaniel Ryder's pro hac vice motion (Document No. 20) was deficient and must be re-filed because the required affidavit was not notarized; the re-filed motion must also include a properly signed PDF, valid Certificates of Good Standing issued within the past 30 days, and a proposed order.",
+    "significance": "minor_update",
+    "entry_number": "473298924",
+    "logged_at": "2026-08-05T15:30:47Z"
+  },
+  {
+    "case_id": "hachette-book-group-inc-v-google-llc",
+    "case_name": "Hachette Book Group, Inc. v. Google LLC",
+    "entry_date": "2026-08-04",
+    "summary": "Google LLC filed a letter motion requesting a conference with Judge Loretta A. Preska to discuss its anticipated motion to transfer this case from the Southern District of New York to the Northern District of California.",
+    "significance": "minor_update",
+    "entry_number": "21",
+    "logged_at": "2026-08-05T15:30:47Z"
+  },
+  {
+    "case_id": "hachette-book-group-inc-v-google-llc",
+    "case_name": "Hachette Book Group, Inc. v. Google LLC",
+    "entry_date": "2026-08-04",
+    "summary": "Plaintiffs Cengage Learning, Elsevier, Hachette Book Group, S. C. R. I. B. E. , and Scott Turow filed a motion to admit attorney Chris Nathaniel Ryder pro hac vice, paying the $200 filing fee, but the clerk's office flagged the entry as deficient and is reviewing the motion and supporting documents before it can be processed.",
+    "significance": "minor_update",
+    "entry_number": "20",
+    "logged_at": "2026-08-05T15:30:47Z"
+  },
+  {
+    "case_id": "hachette-book-group-inc-v-google-llc",
+    "case_name": "Hachette Book Group, Inc. v. Google LLC",
+    "entry_date": "2026-08-04",
+    "summary": "Google LLC moved to admit attorney Paul J. Sampson pro hac vice, paying the $200 filing fee and submitting supporting documents including his affidavit and certificates of good standing from the District of Columbia and Utah bars. The motion is pending review by the Clerk's Office.",
+    "significance": "minor_update",
+    "entry_number": "19",
+    "logged_at": "2026-08-05T15:30:47Z"
+  },
+  {
+    "case_id": "hachette-book-group-inc-v-google-llc",
+    "case_name": "Hachette Book Group, Inc. v. Google LLC",
+    "entry_date": "2026-08-04",
+    "summary": "Plaintiffs Cengage Learning, Elsevier, Hachette Book Group, S. C. R. I. B. E. , and Scott Turow filed a motion seeking permission for attorney Derek William Loeser, a Washington State lawyer, to appear in this case before the Southern District of New York, along with a $200 filing fee and supporting certificates of good standing.",
+    "significance": "minor_update",
+    "entry_number": "18",
+    "logged_at": "2026-08-05T15:30:47Z"
+  },
+  {
+    "case_id": "cruz-v-anthropic-pbc",
+    "case_name": "Cruz v. Anthropic PBC",
     "entry_date": "2026-08-03",
     "summary": "The court granted a motion to set a consolidated briefing schedule and hearing date, streamlining the timeline for upcoming filings and arguments in the case. Judge P. Casey Pitts signed the order on August 3, 2026.",
     "significance": "minor_update",
