@@ -1,5 +1,68 @@
 [
   {
+    "case_id": "tanzer-v-adobe-inc",
+    "case_name": "Tanzer v. Adobe Inc.",
+    "entry_date": "2026-08-05",
+    "summary": "The court's clerk issued a notice setting a Joint Case Management Statement deadline of August 13, 2026, with a Case Management Conference scheduled for August 20, 2026, at 10:00 AM in San Francisco Courtroom 08.",
+    "significance": "minor_update",
+    "entry_number": "36",
+    "logged_at": "2026-08-06T15:30:59Z"
+  },
+  {
+    "case_id": "tanzer-v-adobe-inc",
+    "case_name": "Tanzer v. Adobe Inc.",
+    "entry_date": "2026-08-04",
+    "summary": "Attorney Anushka Parihar filed a notice of appearance in federal court indicating she will represent Adobe Inc. in this case.",
+    "significance": "minor_update",
+    "entry_number": "35",
+    "logged_at": "2026-08-06T15:30:59Z"
+  },
+  {
+    "case_id": "chicken-soup-for-the-soul-llc-v-meta-platforms-inc",
+    "case_name": "Chicken Soup for the Soul, LLC v. Meta Platforms Inc.",
+    "entry_date": "2026-08-04",
+    "summary": "Meta Platforms filed a status report with the court, attaching a party communication and a redlined version of proposed status reports as exhibits.",
+    "significance": "minor_update",
+    "entry_number": "87",
+    "logged_at": "2026-08-06T15:30:59Z"
+  },
+  {
+    "case_id": "chicken-soup-for-the-soul-llc-v-meta-platforms-inc",
+    "case_name": "Chicken Soup for the Soul, LLC v. Meta Platforms Inc.",
+    "entry_date": "2026-08-03",
+    "summary": "A transcript order was filed on August 3, 2026, requesting the official transcript of proceedings held before Judge Vince Chhabria on July 31, 2026, to be prepared by court reporter Layli Phillips.",
+    "significance": "minor_update",
+    "entry_number": "86",
+    "logged_at": "2026-08-06T15:30:59Z"
+  },
+  {
+    "case_id": "chicken-soup-for-the-soul-llc-v-meta-platforms-inc",
+    "case_name": "Chicken Soup for the Soul, LLC v. Meta Platforms Inc.",
+    "entry_date": "2026-08-03",
+    "summary": "The court reporter filed the official transcript of proceedings held before Judge Vince Chhabria on July 31, 2026. The transcript is currently restricted and available only at the Clerk's Office public terminal or by purchase from the court reporter until November 2, 2026, after which it will be accessible through PACER.",
+    "significance": "minor_update",
+    "entry_number": "85",
+    "logged_at": "2026-08-06T15:30:59Z"
+  },
+  {
+    "case_id": "hachette-book-group-inc-v-google-llc",
+    "case_name": "Hachette Book Group, Inc. v. Google LLC",
+    "entry_date": "2026-08-05",
+    "summary": "The Clerk's Office reviewed a motion for attorney Chris Nathaniel Ryder to appear pro hac vice (Document No. 22) and found no deficiencies, allowing the motion to proceed.",
+    "significance": "minor_update",
+    "entry_number": "473454867",
+    "logged_at": "2026-08-06T15:30:59Z"
+  },
+  {
+    "case_id": "hachette-book-group-inc-v-google-llc",
+    "case_name": "Hachette Book Group, Inc. v. Google LLC",
+    "entry_date": "2026-08-05",
+    "summary": "Plaintiffs Hachette Book Group, Cengage Learning, Elsevier, S. C. R. I. B. E. , and Scott Turow filed a motion seeking permission for attorney Chris Nathaniel Ryder to appear in this case pro hac vice, meaning he is licensed outside the district and needs special admission to participate; the motion and supporting documents are pending review by the Clerk's Office.",
+    "significance": "minor_update",
+    "entry_number": "22",
+    "logged_at": "2026-08-06T15:30:59Z"
+  },
+  {
     "case_id": "cruz-v-anthropic-pbc",
     "case_name": "Cruz v. Anthropic PBC",
     "entry_date": "2026-08-04",
