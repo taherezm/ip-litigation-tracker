@@ -1,5 +1,68 @@
 [
   {
+    "case_id": "hachette-book-group-inc-v-google-llc",
+    "case_name": "Hachette Book Group, Inc. v. Google LLC",
+    "entry_date": "2026-08-07",
+    "summary": "The Clerk's Office issued a notice that attorney Benjamin Blystad Gould's pending motion to appear as visiting counsel (pro hac vice) is deficient because it is missing a Certificate of Good Standing from the California Supreme Court issued within the last 30 days; counsel must re-file the motion with the correct documentation and a proposed order.",
+    "significance": "minor_update",
+    "entry_number": "473624677",
+    "logged_at": "2026-08-08T13:59:29Z"
+  },
+  {
+    "case_id": "hachette-book-group-inc-v-google-llc",
+    "case_name": "Hachette Book Group, Inc. v. Google LLC",
+    "entry_date": "2026-08-06",
+    "summary": "Plaintiffs Cengage Learning, Elsevier, Hachette Book Group, S. C. R. I. B. E. , and Scott Turow filed a motion to admit attorney Benjamin Blystad Gould pro hac vice (allowing him to appear in this case despite not being admitted in the Southern District of New York), but the clerk flagged the filing as deficient and noted it requires review before it can be accepted.",
+    "significance": "minor_update",
+    "entry_number": "24",
+    "logged_at": "2026-08-08T13:59:29Z"
+  },
+  {
+    "case_id": "hachette-book-group-inc-v-google-llc",
+    "case_name": "Hachette Book Group, Inc. v. Google LLC",
+    "entry_date": "2026-08-06",
+    "summary": "The court granted three motions allowing attorneys Derek W. Loeser, Paul J. Sampson, and Chris Nathaniel Ryder to appear as additional counsel for the plaintiffs in this case, even though they are not members of the Southern District of New York bar.",
+    "significance": "minor_update",
+    "entry_number": "23",
+    "logged_at": "2026-08-08T13:59:29Z"
+  },
+  {
+    "case_id": "sony-music-entertainment-v-uncharted-labs-inc-d-b-a-udio-com",
+    "case_name": "Sony Music Entertainment v. Uncharted Labs, Inc. d/b/a Udio.com",
+    "entry_date": "2026-08-07",
+    "summary": "Plaintiffs — a group of record labels including Sony Music Entertainment and Arista Records — filed proof that defendant Uncharted Labs, Inc. (d/b/a Udio. com) was successfully served with the summons and complaint on August 6, 2026, through its registered agent Cogency Global, Inc. , with an answer due by August 27, 2026.",
+    "significance": "minor_update",
+    "entry_number": "21",
+    "logged_at": "2026-08-08T13:59:29Z"
+  },
+  {
+    "case_id": "sony-music-entertainment-v-uncharted-labs-inc-d-b-a-udio-com",
+    "case_name": "Sony Music Entertainment v. Uncharted Labs, Inc. d/b/a Udio.com",
+    "entry_date": "2026-08-05",
+    "summary": "The court issued an amended summons against defendant Uncharted Labs, Inc. , the company that operates Udio. com, in this music copyright case brought by Sony Music Entertainment.",
+    "significance": "minor_update",
+    "entry_number": "20",
+    "logged_at": "2026-08-08T13:59:29Z"
+  },
+  {
+    "case_id": "sony-music-entertainment-v-uncharted-labs-inc-d-b-a-udio-com",
+    "case_name": "Sony Music Entertainment v. Uncharted Labs, Inc. d/b/a Udio.com",
+    "entry_date": "2026-08-04",
+    "summary": "Plaintiffs—including Sony Music Entertainment and multiple affiliated record labels—filed a request asking the court to issue an amended summons directed at defendant Uncharted Labs, Inc. , doing business as Udio. com, in connection with the original complaint.",
+    "significance": "minor_update",
+    "entry_number": "19",
+    "logged_at": "2026-08-08T13:59:29Z"
+  },
+  {
+    "case_id": "elsevier-inc-v-meta-platforms-inc",
+    "case_name": "Elsevier Inc. v. Meta Platforms, Inc.",
+    "entry_date": "2026-08-07",
+    "summary": "Attorney Anna M. Rennich filed a notice of appearance in the Southern District of New York, joining the case as counsel of record on behalf of all plaintiffs, including Elsevier Inc. , Cengage Learning, and several other publishers and authors.",
+    "significance": "minor_update",
+    "entry_number": "91",
+    "logged_at": "2026-08-08T13:59:29Z"
+  },
+  {
     "case_id": "anthropic-pbc-v-u-s-department-of-war",
     "case_name": "Anthropic PBC v. U.S. Department of War",
     "entry_date": "2026-08-04",
