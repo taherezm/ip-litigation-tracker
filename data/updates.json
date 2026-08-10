@@ -1,5 +1,41 @@
 [
   {
+    "case_id": "ted-entertainment-inc-v-apple-inc",
+    "case_name": "Ted Entertainment, Inc. v. Apple, Inc.",
+    "entry_date": "2026-08-07",
+    "summary": "The court granted a joint request by the parties to adjust the briefing schedule, setting response deadlines for August 25, 2026, and reply deadlines for September 9, 2026.",
+    "significance": "minor_update",
+    "entry_number": "41",
+    "logged_at": "2026-08-10T14:32:43Z"
+  },
+  {
+    "case_id": "ted-entertainment-inc-v-apple-inc",
+    "case_name": "Ted Entertainment, Inc. v. Apple, Inc.",
+    "entry_date": "2026-08-07",
+    "summary": "Apple filed a stipulation and proposed order asking the court to modify the existing briefing schedule, supported by a declaration from attorney Nicole C. Valco. This is a joint filing between the parties and requires court approval before taking effect.",
+    "significance": "minor_update",
+    "entry_number": "40",
+    "logged_at": "2026-08-10T14:32:43Z"
+  },
+  {
+    "case_id": "elsevier-inc-v-meta-platforms-inc",
+    "case_name": "Elsevier Inc. v. Meta Platforms, Inc.",
+    "entry_date": "2026-08-07",
+    "summary": "Meta Platforms filed a letter to Judge P. Kevin Castel on August 7, 2026, responding to Elsevier's pre-motion letter in which Elsevier indicated its intent to file a motion to strike.",
+    "significance": "minor_update",
+    "entry_number": "92",
+    "logged_at": "2026-08-10T14:32:43Z"
+  },
+  {
+    "case_id": "hachette-book-group-inc-v-google-llc",
+    "case_name": "Hachette Book Group, Inc. v. Google LLC",
+    "entry_date": "2026-08-07",
+    "summary": "Plaintiffs Hachette Book Group, Cengage Learning, Elsevier, S. C. R. I. B. E. , and Scott Turow filed a letter response, through attorney Jeffrey M. Gould, opposing Google's earlier letter motion requesting a conference to discuss Google's anticipated motion to transfer this case to the Northern District of California.",
+    "significance": "minor_update",
+    "entry_number": "25",
+    "logged_at": "2026-08-10T14:32:43Z"
+  },
+  {
     "case_id": "hachette-book-group-inc-v-google-llc",
     "case_name": "Hachette Book Group, Inc. v. Google LLC",
     "entry_date": "2026-08-07",
