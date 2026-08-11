@@ -10202,5 +10202,68 @@
     },
     "plain_language_summary": "Genesis Growth Tech LLC filed patent infringement claims against Neuroelectrics Barcelona S.L.U. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue.",
     "docket_last_checked": "2026-08-10"
+  },
+  {
+    "id": "vladimir-gusinsky-revocable-trust-v-nadella",
+    "name": "Vladimir Gusinsky Revocable Trust v. Nadella",
+    "court": "District Court, W.D. Washington",
+    "court_full": "District Court, W.D. Washington",
+    "docket_number": "2:26-cv-02837",
+    "courtlistener_docket_id": "73744515",
+    "date_filed": "2026-08-10",
+    "claims": [
+      "copyright infringement"
+    ],
+    "legal_theories": [],
+    "status": "active",
+    "procedural_posture": "Filed",
+    "parties": {
+      "plaintiff": "Vladimir Gusinsky Revocable Trust",
+      "defendant": "Nadella"
+    },
+    "judges": [],
+    "key_rulings": [],
+    "docket_entries": [],
+    "source": "courtlistener",
+    "courtlistener_url": "https://www.courtlistener.com/docket/73744515/vladimir-gusinsky-revocable-trust-v-nadella/",
+    "last_updated": "2026-08-11",
+    "discovered_date": "2026-08-11",
+    "case_intelligence": {
+      "case_theory": "Vladimir Gusinsky Revocable Trust asserts copyright infringement claims against Nadella, but the parsed materials do not yet identify the specific AI conduct at issue.",
+      "current_posture": "The case is newly filed.",
+      "why_it_matters": "The case matters because future filings may clarify the specific AI-related conduct and legal theory in a case asserting copyright infringement claims.",
+      "latest_change": "Latest meaningful event (2026-08-10): Vladimir Gusinsky Revocable Trust filed the case against Nadella.",
+      "latest_meaningful_event": "Vladimir Gusinsky Revocable Trust filed the case against Nadella.",
+      "latest_meaningful_event_date": "2026-08-10",
+      "claim_category": "unknown",
+      "claims_asserted": [
+        "copyright infringement"
+      ],
+      "ai_conduct_alleged": null,
+      "works_or_data_at_issue": null,
+      "technology_or_model_at_issue": null,
+      "procedural_stage": "newly_filed",
+      "pending_motion_or_next_event": null,
+      "related_cases": [],
+      "confidence_level": "low",
+      "missing_information": [
+        "Specific AI-related conduct is not identified in the parsed docket metadata.",
+        "Specific works, data, or trade secrets at issue are not identified in the parsed materials.",
+        "Specific AI system or model is not identified in the parsed materials."
+      ],
+      "source_references": [
+        {
+          "type": "case_metadata",
+          "docket_number": "2:26-cv-02837",
+          "court": "District Court, W.D. Washington",
+          "courtlistener_url": "https://www.courtlistener.com/docket/73744515/vladimir-gusinsky-revocable-trust-v-nadella/"
+        },
+        {
+          "type": "case_metadata",
+          "date_filed": "2026-08-10"
+        }
+      ]
+    },
+    "plain_language_summary": "Vladimir Gusinsky Revocable Trust filed copyright infringement claims against Nadella. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue."
   }
 ]
