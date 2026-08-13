@@ -1,5 +1,23 @@
 [
   {
+    "case_id": "shakespeare-v-anthropic-pbc",
+    "case_name": "Shakespeare v. Anthropic PBC",
+    "entry_date": "2026-08-10",
+    "summary": "Both parties filed a stipulation asking the court to extend the deadline for Anthropic to respond to the complaint, joining a large group of individual and entity plaintiffs in the request.",
+    "significance": "minor_update",
+    "entry_number": "32",
+    "logged_at": "2026-08-13T14:33:52Z"
+  },
+  {
+    "case_id": "evox-productions-llc-a-delaware-limited-liability-company-v-stability-ai-inc",
+    "case_name": "EVOX PRODUCTIONS LLC, a Delaware limited liability company v. Stability AI, Inc.",
+    "entry_date": "2026-08-12",
+    "summary": "Defendant DeviantArt, Inc. filed a Corporate Disclosure Statement and Notice of Interested Parties identifying Wix. com, Inc. as its corporate parent, as required by local court rules.",
+    "significance": "minor_update",
+    "entry_number": "39",
+    "logged_at": "2026-08-13T14:33:52Z"
+  },
+  {
     "case_id": "beaulier-v-nvidia-corporation",
     "case_name": "Beaulier v. NVIDIA Corporation",
     "entry_date": "2026-08-11",
