@@ -2,6 +2,42 @@
   {
     "case_id": "shakespeare-v-anthropic-pbc",
     "case_name": "Shakespeare v. Anthropic PBC",
+    "entry_date": "2026-08-13",
+    "summary": "Attorney Amir Jabbari filed a notice of appearance in the district court on August 13, 2026, indicating that he is joining the legal team representing defendant Anthropic PBC in this case.",
+    "significance": "minor_update",
+    "entry_number": "35",
+    "logged_at": "2026-08-14T14:27:26Z"
+  },
+  {
+    "case_id": "shakespeare-v-anthropic-pbc",
+    "case_name": "Shakespeare v. Anthropic PBC",
+    "entry_date": "2026-08-13",
+    "summary": "Attorney Andy M. LeGolvan filed a notice of appearance in federal court indicating that he will represent Anthropic PBC in this case.",
+    "significance": "minor_update",
+    "entry_number": "34",
+    "logged_at": "2026-08-14T14:27:26Z"
+  },
+  {
+    "case_id": "shakespeare-v-anthropic-pbc",
+    "case_name": "Shakespeare v. Anthropic PBC",
+    "entry_date": "2026-08-13",
+    "summary": "Attorney Yar R. Chaikovsky filed a notice of appearance in federal court in the Northern District of California, joining the case as counsel of record on behalf of defendant Anthropic PBC.",
+    "significance": "minor_update",
+    "entry_number": "33",
+    "logged_at": "2026-08-14T14:27:26Z"
+  },
+  {
+    "case_id": "s-a-jamendo-v-suno-inc",
+    "case_name": "S.A. Jamendo v. Suno Inc.",
+    "entry_date": "2026-08-13",
+    "summary": "Plaintiff S. A. Jamendo filed a notice of voluntary dismissal, indicating that Jamendo has chosen to withdraw its claims against Suno Inc. without a court ruling on the merits.",
+    "significance": "case_resolved",
+    "entry_number": "17",
+    "logged_at": "2026-08-14T14:27:26Z"
+  },
+  {
+    "case_id": "shakespeare-v-anthropic-pbc",
+    "case_name": "Shakespeare v. Anthropic PBC",
     "entry_date": "2026-08-10",
     "summary": "Both parties filed a stipulation asking the court to extend the deadline for Anthropic to respond to the complaint, joining a large group of individual and entity plaintiffs in the request.",
     "significance": "minor_update",
