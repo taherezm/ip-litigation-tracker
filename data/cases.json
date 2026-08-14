@@ -10322,5 +10322,69 @@
     },
     "plain_language_summary": "Vladimir Gusinsky Revocable Trust filed copyright infringement claims against Nadella. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue.",
     "docket_last_checked": "2026-08-14"
+  },
+  {
+    "id": "fintegrity-llc-v-paypal-inc",
+    "name": "FinTegrity LLC v. Paypal Inc.",
+    "court": "District Court, W.D. Texas",
+    "court_full": "District Court, W.D. Texas",
+    "docket_number": "7:26-cv-00311",
+    "courtlistener_docket_id": "74646616",
+    "date_filed": "2026-08-13",
+    "claims": [
+      "patent infringement"
+    ],
+    "legal_theories": [],
+    "status": "active",
+    "procedural_posture": "Filed",
+    "parties": {
+      "plaintiff": "FinTegrity LLC",
+      "defendant": "Paypal Inc."
+    },
+    "judges": [
+      "Walter David Counts III"
+    ],
+    "key_rulings": [],
+    "docket_entries": [],
+    "source": "courtlistener",
+    "courtlistener_url": "https://www.courtlistener.com/docket/74646616/fintegrity-llc-v-paypal-inc/",
+    "last_updated": "2026-08-14",
+    "discovered_date": "2026-08-14",
+    "case_intelligence": {
+      "case_theory": "FinTegrity LLC asserts patent infringement claims against Paypal Inc. involving patented software or technology.",
+      "current_posture": "The case is newly filed.",
+      "why_it_matters": "The case matters because it may affect how patent infringement theories are applied to AI or machine-learning software in a case asserting patent infringement claims.",
+      "latest_change": "Latest meaningful event (2026-08-13): FinTegrity LLC filed the case against Paypal Inc..",
+      "latest_meaningful_event": "FinTegrity LLC filed the case against Paypal Inc..",
+      "latest_meaningful_event_date": "2026-08-13",
+      "claim_category": "patent_ai_software",
+      "claims_asserted": [
+        "patent infringement"
+      ],
+      "ai_conduct_alleged": null,
+      "works_or_data_at_issue": "patented software or technology",
+      "technology_or_model_at_issue": null,
+      "procedural_stage": "newly_filed",
+      "pending_motion_or_next_event": null,
+      "related_cases": [],
+      "confidence_level": "low",
+      "missing_information": [
+        "Specific AI-related conduct is not identified in the parsed docket metadata.",
+        "Specific AI system or model is not identified in the parsed materials."
+      ],
+      "source_references": [
+        {
+          "type": "case_metadata",
+          "docket_number": "7:26-cv-00311",
+          "court": "District Court, W.D. Texas",
+          "courtlistener_url": "https://www.courtlistener.com/docket/74646616/fintegrity-llc-v-paypal-inc/"
+        },
+        {
+          "type": "case_metadata",
+          "date_filed": "2026-08-13"
+        }
+      ]
+    },
+    "plain_language_summary": "FinTegrity LLC filed patent infringement claims against Paypal Inc. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue."
   }
 ]
