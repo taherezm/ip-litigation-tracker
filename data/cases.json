@@ -10438,5 +10438,133 @@
     },
     "plain_language_summary": "FinTegrity LLC filed patent infringement claims against Paypal Inc. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue.",
     "docket_last_checked": "2026-08-15"
+  },
+  {
+    "id": "rosen-v-cook",
+    "name": "Rosen v. Cook",
+    "court": "District Court, N.D. California",
+    "court_full": "District Court, N.D. California",
+    "docket_number": "5:26-cv-08463",
+    "courtlistener_docket_id": "74653939",
+    "date_filed": "2026-08-14",
+    "claims": [
+      "copyright infringement",
+      "trademark"
+    ],
+    "legal_theories": [],
+    "status": "active",
+    "procedural_posture": "Filed",
+    "parties": {
+      "plaintiff": "Rosen",
+      "defendant": "Cook"
+    },
+    "judges": [],
+    "key_rulings": [],
+    "docket_entries": [],
+    "source": "courtlistener",
+    "courtlistener_url": "https://www.courtlistener.com/docket/74653939/rosen-v-cook/",
+    "last_updated": "2026-08-15",
+    "discovered_date": "2026-08-15",
+    "case_intelligence": {
+      "case_theory": "Rosen asserts copyright infringement and trademark claims against Cook, but the parsed materials do not yet identify the specific AI conduct at issue.",
+      "current_posture": "The case is newly filed.",
+      "why_it_matters": "The case matters because future filings may clarify the specific AI-related conduct and legal theory in a case asserting copyright infringement and trademark claims.",
+      "latest_change": "Latest meaningful event (2026-08-14): Rosen filed the case against Cook.",
+      "latest_meaningful_event": "Rosen filed the case against Cook.",
+      "latest_meaningful_event_date": "2026-08-14",
+      "claim_category": "unknown",
+      "claims_asserted": [
+        "copyright infringement",
+        "trademark"
+      ],
+      "ai_conduct_alleged": null,
+      "works_or_data_at_issue": null,
+      "technology_or_model_at_issue": null,
+      "procedural_stage": "newly_filed",
+      "pending_motion_or_next_event": null,
+      "related_cases": [],
+      "confidence_level": "low",
+      "missing_information": [
+        "Specific AI-related conduct is not identified in the parsed docket metadata.",
+        "Specific works, data, or trade secrets at issue are not identified in the parsed materials.",
+        "Specific AI system or model is not identified in the parsed materials."
+      ],
+      "source_references": [
+        {
+          "type": "case_metadata",
+          "docket_number": "5:26-cv-08463",
+          "court": "District Court, N.D. California",
+          "courtlistener_url": "https://www.courtlistener.com/docket/74653939/rosen-v-cook/"
+        },
+        {
+          "type": "case_metadata",
+          "date_filed": "2026-08-14"
+        }
+      ]
+    },
+    "plain_language_summary": "Rosen filed copyright infringement and trademark claims against Cook. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue."
+  },
+  {
+    "id": "sullivan-v-openai-foundation-f-k-a-openai-inc",
+    "name": "Sullivan v. OpenAI Foundation (f/k/a OpenAI Inc.)",
+    "court": "District Court, S.D. New York",
+    "court_full": "District Court, S.D. New York",
+    "docket_number": "1:26-cv-06966",
+    "courtlistener_docket_id": "74652896",
+    "date_filed": "2026-08-14",
+    "claims": [
+      "copyright infringement"
+    ],
+    "legal_theories": [],
+    "status": "active",
+    "procedural_posture": "Filed",
+    "parties": {
+      "plaintiff": "Sullivan",
+      "defendant": "OpenAI Foundation (f/k/a OpenAI Inc.)"
+    },
+    "judges": [],
+    "key_rulings": [],
+    "docket_entries": [],
+    "source": "courtlistener",
+    "courtlistener_url": "https://www.courtlistener.com/docket/74652896/sullivan-v-openai-foundation-fka-openai-inc/",
+    "last_updated": "2026-08-15",
+    "discovered_date": "2026-08-15",
+    "case_intelligence": {
+      "case_theory": "Sullivan asserts copyright infringement claims against OpenAI Foundation (f/k/a OpenAI Inc.), but the parsed materials do not yet identify the specific AI conduct at issue.",
+      "current_posture": "The case is newly filed.",
+      "why_it_matters": "The case matters because future filings may clarify the specific AI-related conduct and legal theory in a case asserting copyright infringement claims.",
+      "latest_change": "Latest meaningful event (2026-08-14): Sullivan filed the case against OpenAI Foundation (f/k/a OpenAI Inc.).",
+      "latest_meaningful_event": "Sullivan filed the case against OpenAI Foundation (f/k/a OpenAI Inc.).",
+      "latest_meaningful_event_date": "2026-08-14",
+      "claim_category": "unknown",
+      "claims_asserted": [
+        "copyright infringement"
+      ],
+      "ai_conduct_alleged": null,
+      "works_or_data_at_issue": null,
+      "technology_or_model_at_issue": null,
+      "procedural_stage": "newly_filed",
+      "pending_motion_or_next_event": null,
+      "related_cases": [],
+      "confidence_level": "low",
+      "missing_information": [
+        "Specific AI-related conduct is not identified in the parsed docket metadata.",
+        "Specific works, data, or trade secrets at issue are not identified in the parsed materials.",
+        "Specific AI system or model is not identified in the parsed materials."
+      ],
+      "source_references": [
+        {
+          "type": "case_metadata",
+          "docket_number": "1:26-cv-06966",
+          "court": "District Court, S.D. New York",
+          "courtlistener_url": "https://www.courtlistener.com/docket/74652896/sullivan-v-openai-foundation-fka-openai-inc/"
+        },
+        {
+          "type": "case_metadata",
+          "date_filed": "2026-08-14"
+        }
+      ]
+    },
+    "plain_language_summary": "Sullivan filed copyright infringement claims against OpenAI Foundation (f/k/a OpenAI Inc.). Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue."
   }
 ]
