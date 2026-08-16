@@ -1,7 +1,7 @@
 # Litigation Tracker For Undergraduate Technology Law
 
 [![Production Pipeline](https://github.com/taherezm/litigationtracker/actions/workflows/scheduled_update.yml/badge.svg?branch=main)](https://github.com/taherezm/litigationtracker/actions/workflows/scheduled_update.yml?query=branch%3Amain)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 
 Automated litigation data pipeline for Undergraduate Technology Law at IU. The system discovers federal cases involving artificial intelligence and intellectual property, monitors docket activity through CourtListener, summarizes new entries with legal-precision guardrails, and publishes normalized JSON data to the static website served from `taherezm/undergradtechlaw`.
@@ -575,4 +575,4 @@ The tracker is an automated research aid. It is not legal advice, and docket sum
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache License 2.0](LICENSE).
