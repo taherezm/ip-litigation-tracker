@@ -1,5 +1,14 @@
 [
   {
+    "case_id": "rosen-v-cook",
+    "case_name": "Rosen v. Cook",
+    "entry_date": "2026-08-14",
+    "summary": "Plaintiff Phil Rosen filed a verified stockholder derivative complaint against Apple Inc. and numerous current and former Apple officers and directors, including CEO Tim Cook, alleging claims on behalf of the company. The filing was accompanied by a $405 filing fee.",
+    "significance": "minor_update",
+    "entry_number": "1",
+    "logged_at": "2026-08-16T13:46:32Z"
+  },
+  {
     "case_id": "fintegrity-llc-v-paypal-inc",
     "case_name": "FinTegrity LLC v. Paypal Inc.",
     "entry_date": "2026-08-13",
