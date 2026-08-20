@@ -1,5 +1,104 @@
 [
   {
+    "case_id": "sullivan-v-openai-foundation-f-k-a-openai-inc",
+    "case_name": "Sullivan v. OpenAI Foundation (f/k/a OpenAI Inc.)",
+    "entry_date": "2026-08-17",
+    "summary": "The court designated this case for Electronic Case Filing (ECF), meaning all documents must be submitted and accessed through the federal court's online filing system.",
+    "significance": "minor_update",
+    "entry_number": "474883304",
+    "logged_at": "2026-08-20T14:01:43Z"
+  },
+  {
+    "case_id": "sullivan-v-openai-foundation-f-k-a-openai-inc",
+    "case_name": "Sullivan v. OpenAI Foundation (f/k/a OpenAI Inc.)",
+    "entry_date": "2026-08-17",
+    "summary": "The court's clerk assigned this newly filed case, Sullivan v. OpenAI Foundation, to the Southern District of New York docket, with a judge not yet designated.",
+    "significance": "minor_update",
+    "entry_number": "474883303",
+    "logged_at": "2026-08-20T14:01:43Z"
+  },
+  {
+    "case_id": "sullivan-v-openai-foundation-f-k-a-openai-inc",
+    "case_name": "Sullivan v. OpenAI Foundation (f/k/a OpenAI Inc.)",
+    "entry_date": "2026-08-17",
+    "summary": "The court clerk updated the party record for OpenAI Foundation (formerly known as OpenAI Inc. ) to correct an administrative error in how the alias party type was entered.",
+    "significance": "minor_update",
+    "entry_number": "474883301",
+    "logged_at": "2026-08-20T14:01:43Z"
+  },
+  {
+    "case_id": "sullivan-v-openai-foundation-f-k-a-openai-inc",
+    "case_name": "Sullivan v. OpenAI Foundation (f/k/a OpenAI Inc.)",
+    "entry_date": "2026-08-17",
+    "summary": "The court's administrative staff corrected a data entry error in the case opening records, changing the county code from 'New York' to 'XX Out of State' for attorney David Neal Slarskey's case file.",
+    "significance": "minor_update",
+    "entry_number": "474883302",
+    "logged_at": "2026-08-20T14:01:43Z"
+  },
+  {
+    "case_id": "sullivan-v-openai-foundation-f-k-a-openai-inc",
+    "case_name": "Sullivan v. OpenAI Foundation (f/k/a OpenAI Inc.)",
+    "entry_date": "2026-08-17",
+    "summary": "The court clerk submitted the required AO 121 copyright case-opening form to the U. S. Copyright Office, notifying the Register of Copyrights that a copyright action has been filed in the Southern District of New York, as required by federal statute (17 U. S. C. § 508).",
+    "significance": "minor_update",
+    "entry_number": "11",
+    "logged_at": "2026-08-20T14:01:43Z"
+  },
+  {
+    "case_id": "sullivan-v-openai-foundation-f-k-a-openai-inc",
+    "case_name": "Sullivan v. OpenAI Foundation (f/k/a OpenAI Inc.)",
+    "entry_date": "2026-08-17",
+    "summary": "The court issued electronic summonses to ten named defendants, including Microsoft Corporation and multiple OpenAI-affiliated entities, formally initiating the process of serving those parties with notice of the lawsuit.",
+    "significance": "minor_update",
+    "entry_number": "10",
+    "logged_at": "2026-08-20T14:01:43Z"
+  },
+  {
+    "case_id": "round-hill-music-lp-v-anthropic-pbc",
+    "case_name": "Round Hill Music LP v. Anthropic PBC",
+    "entry_date": "2026-08-17",
+    "summary": "Court staff directed a party to re-file a Report on the Filing of an Action Regarding Copyright as a standalone docket entry, rather than as part of another filing.",
+    "significance": "minor_update",
+    "entry_number": "474870340",
+    "logged_at": "2026-08-20T14:01:43Z"
+  },
+  {
+    "case_id": "round-hill-music-lp-v-anthropic-pbc",
+    "case_name": "Round Hill Music LP v. Anthropic PBC",
+    "entry_date": "2026-08-18",
+    "summary": "Plaintiff filed a report notifying the court and the U. S. Copyright Office of the filing or determination of a copyright action, with a copy of the required form mailed to the Copyright Register. This is a standard administrative step in federal copyright cases and does not reflect any ruling or finding on the merits.",
+    "significance": "minor_update",
+    "entry_number": "5",
+    "logged_at": "2026-08-20T14:01:43Z"
+  },
+  {
+    "case_id": "round-hill-music-lp-v-anthropic-pbc",
+    "case_name": "Round Hill Music LP v. Anthropic PBC",
+    "entry_date": "2026-08-17",
+    "summary": "The court issued a scheduling order setting a Case Management Statement deadline of November 11, 2026, and an Initial Case Management Conference for November 18, 2026, to be held by videoconference in San Jose.",
+    "significance": "minor_update",
+    "entry_number": "4",
+    "logged_at": "2026-08-20T14:01:43Z"
+  },
+  {
+    "case_id": "round-hill-music-lp-v-anthropic-pbc",
+    "case_name": "Round Hill Music LP v. Anthropic PBC",
+    "entry_date": "2026-08-17",
+    "summary": "Attorney Jeffrey E. Faucette filed a notice of appearance on behalf of six plaintiff entities — GFP Co-Invest, LP; RH Carlin Holdings LLC; Round Hill Music LP; Round Hill Music Royalty Fund II, LP; Round Hill Music Royalty Fund III, LP; and Round Hill Royalty Fund III Plus, LP — indicating he will serve as counsel of record for those parties in this case.",
+    "significance": "minor_update",
+    "entry_number": "3",
+    "logged_at": "2026-08-20T14:01:43Z"
+  },
+  {
+    "case_id": "round-hill-music-lp-v-anthropic-pbc",
+    "case_name": "Round Hill Music LP v. Anthropic PBC",
+    "entry_date": "2026-08-17",
+    "summary": "The court assigned this case to Magistrate Judge Nathanael M. Cousins and issued standard administrative instructions requiring plaintiff's counsel to serve the complaint, summons, and standing orders on the opposing party. A consent or declination regarding magistrate judge jurisdiction is due by August 31, 2026, and a scheduling order will follow within two business days.",
+    "significance": "minor_update",
+    "entry_number": "2",
+    "logged_at": "2026-08-20T14:01:43Z"
+  },
+  {
     "case_id": "round-hill-music-lp-v-suno-inc",
     "case_name": "Round Hill Music LP v. Suno, Inc.",
     "entry_date": "2026-08-17",
