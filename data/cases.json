@@ -11262,5 +11262,133 @@
     },
     "plain_language_summary": "Neural AI, LLC asserts patent infringement claims against Tesla Inc. involving patented software or technology. The case is in discovery. The case matters because it may affect how patent infringement theories are applied to AI or machine-learning software in a case asserting patent infringement claims. Latest meaningful event (2026-08-18): The court clerk issued a deficiency notice for Neural AI's motion to compel a third-party subpoena directed at Tesla, Inc. , finding that the filing's header did not identify the Midland/Odessa Division as required. Neural AI must correct and refile the motion before it will be forwarded to the assigned judge for consideration.",
     "docket_last_checked": "2026-08-19"
+  },
+  {
+    "id": "taasera-licensing-llc-v-arctic-wolf-networks-inc",
+    "name": "Taasera Licensing LLC v. Arctic Wolf Networks, Inc.",
+    "court": "District Court, W.D. Texas",
+    "court_full": "District Court, W.D. Texas",
+    "docket_number": "7:26-cv-00330",
+    "courtlistener_docket_id": "74673781",
+    "date_filed": "2026-08-19",
+    "claims": [
+      "patent infringement"
+    ],
+    "legal_theories": [],
+    "status": "active",
+    "procedural_posture": "Filed",
+    "parties": {
+      "plaintiff": "Taasera Licensing LLC",
+      "defendant": "Arctic Wolf Networks, Inc."
+    },
+    "judges": [
+      "Walter David Counts III"
+    ],
+    "key_rulings": [],
+    "docket_entries": [],
+    "source": "courtlistener",
+    "courtlistener_url": "https://www.courtlistener.com/docket/74673781/taasera-licensing-llc-v-arctic-wolf-networks-inc/",
+    "last_updated": "2026-08-20",
+    "discovered_date": "2026-08-20",
+    "case_intelligence": {
+      "case_theory": "Taasera Licensing LLC asserts patent infringement claims against Arctic Wolf Networks, Inc. involving patented software or technology.",
+      "current_posture": "The case is newly filed.",
+      "why_it_matters": "The case matters because it may affect how patent infringement theories are applied to AI or machine-learning software in a case asserting patent infringement claims.",
+      "latest_change": "Latest meaningful event (2026-08-19): Taasera Licensing LLC filed the case against Arctic Wolf Networks, Inc..",
+      "latest_meaningful_event": "Taasera Licensing LLC filed the case against Arctic Wolf Networks, Inc..",
+      "latest_meaningful_event_date": "2026-08-19",
+      "claim_category": "patent_ai_software",
+      "claims_asserted": [
+        "patent infringement"
+      ],
+      "ai_conduct_alleged": null,
+      "works_or_data_at_issue": "patented software or technology",
+      "technology_or_model_at_issue": null,
+      "procedural_stage": "newly_filed",
+      "pending_motion_or_next_event": null,
+      "related_cases": [],
+      "confidence_level": "low",
+      "missing_information": [
+        "Specific AI-related conduct is not identified in the parsed docket metadata.",
+        "Specific AI system or model is not identified in the parsed materials."
+      ],
+      "source_references": [
+        {
+          "type": "case_metadata",
+          "docket_number": "7:26-cv-00330",
+          "court": "District Court, W.D. Texas",
+          "courtlistener_url": "https://www.courtlistener.com/docket/74673781/taasera-licensing-llc-v-arctic-wolf-networks-inc/"
+        },
+        {
+          "type": "case_metadata",
+          "date_filed": "2026-08-19"
+        }
+      ]
+    },
+    "plain_language_summary": "Taasera Licensing LLC filed patent infringement claims against Arctic Wolf Networks, Inc. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue."
+  },
+  {
+    "id": "fali-rehab-equipment-llc-v-210-innovation-llc",
+    "name": "FALI Rehab Equipment, LLC v. 210 Innovation, LLC",
+    "court": "District Court, D. Connecticut",
+    "court_full": "District Court, D. Connecticut",
+    "docket_number": "3:26-cv-01329",
+    "courtlistener_docket_id": "74668509",
+    "date_filed": "2026-08-19",
+    "claims": [
+      "patent infringement"
+    ],
+    "legal_theories": [],
+    "status": "active",
+    "procedural_posture": "Filed",
+    "parties": {
+      "plaintiff": "FALI Rehab Equipment, LLC",
+      "defendant": "210 Innovation, LLC"
+    },
+    "judges": [
+      "Kari Anne Dooley"
+    ],
+    "key_rulings": [],
+    "docket_entries": [],
+    "source": "courtlistener",
+    "courtlistener_url": "https://www.courtlistener.com/docket/74668509/fali-rehab-equipment-llc-v-210-innovation-llc/",
+    "last_updated": "2026-08-20",
+    "discovered_date": "2026-08-20",
+    "case_intelligence": {
+      "case_theory": "FALI Rehab Equipment, LLC asserts patent infringement claims against 210 Innovation, LLC involving patented software or technology.",
+      "current_posture": "The case is newly filed.",
+      "why_it_matters": "The case matters because it may affect how patent infringement theories are applied to AI or machine-learning software in a case asserting patent infringement claims.",
+      "latest_change": "Latest meaningful event (2026-08-19): FALI Rehab Equipment, LLC filed the case against 210 Innovation, LLC.",
+      "latest_meaningful_event": "FALI Rehab Equipment, LLC filed the case against 210 Innovation, LLC.",
+      "latest_meaningful_event_date": "2026-08-19",
+      "claim_category": "patent_ai_software",
+      "claims_asserted": [
+        "patent infringement"
+      ],
+      "ai_conduct_alleged": null,
+      "works_or_data_at_issue": "patented software or technology",
+      "technology_or_model_at_issue": null,
+      "procedural_stage": "newly_filed",
+      "pending_motion_or_next_event": null,
+      "related_cases": [],
+      "confidence_level": "low",
+      "missing_information": [
+        "Specific AI-related conduct is not identified in the parsed docket metadata.",
+        "Specific AI system or model is not identified in the parsed materials."
+      ],
+      "source_references": [
+        {
+          "type": "case_metadata",
+          "docket_number": "3:26-cv-01329",
+          "court": "District Court, D. Connecticut",
+          "courtlistener_url": "https://www.courtlistener.com/docket/74668509/fali-rehab-equipment-llc-v-210-innovation-llc/"
+        },
+        {
+          "type": "case_metadata",
+          "date_filed": "2026-08-19"
+        }
+      ]
+    },
+    "plain_language_summary": "FALI Rehab Equipment, LLC filed patent infringement claims against 210 Innovation, LLC. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue."
   }
 ]
