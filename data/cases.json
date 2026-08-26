@@ -12429,5 +12429,69 @@
     },
     "plain_language_summary": "Wyoming Technology Licensing Inc filed patent infringement claims against Hyundai Motor America. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue.",
     "docket_last_checked": "2026-08-26"
+  },
+  {
+    "id": "convergence-llc-v-kialo-gmbh",
+    "name": "Convergence LLC v. Kialo GmbH",
+    "court": "District Court, E.D. Texas",
+    "court_full": "District Court, E.D. Texas",
+    "docket_number": "2:26-cv-00750",
+    "courtlistener_docket_id": "74697348",
+    "date_filed": "2026-08-25",
+    "claims": [
+      "patent infringement"
+    ],
+    "legal_theories": [],
+    "status": "active",
+    "procedural_posture": "Filed",
+    "parties": {
+      "plaintiff": "Convergence LLC",
+      "defendant": "Kialo GmbH"
+    },
+    "judges": [
+      "Robert William Schroeder III"
+    ],
+    "key_rulings": [],
+    "docket_entries": [],
+    "source": "courtlistener",
+    "courtlistener_url": "https://www.courtlistener.com/docket/74697348/convergence-llc-v-kialo-gmbh/",
+    "last_updated": "2026-08-26",
+    "discovered_date": "2026-08-26",
+    "case_intelligence": {
+      "case_theory": "Convergence LLC asserts patent infringement claims against Kialo GmbH involving patented software or technology.",
+      "current_posture": "The case is newly filed.",
+      "why_it_matters": "The case matters because it may affect how patent infringement theories are applied to AI or machine-learning software in a case asserting patent infringement claims.",
+      "latest_change": "Latest meaningful event (2026-08-25): Convergence LLC filed the case against Kialo GmbH.",
+      "latest_meaningful_event": "Convergence LLC filed the case against Kialo GmbH.",
+      "latest_meaningful_event_date": "2026-08-25",
+      "claim_category": "patent_ai_software",
+      "claims_asserted": [
+        "patent infringement"
+      ],
+      "ai_conduct_alleged": null,
+      "works_or_data_at_issue": "patented software or technology",
+      "technology_or_model_at_issue": null,
+      "procedural_stage": "newly_filed",
+      "pending_motion_or_next_event": null,
+      "related_cases": [],
+      "confidence_level": "low",
+      "missing_information": [
+        "Specific AI-related conduct is not identified in the parsed docket metadata.",
+        "Specific AI system or model is not identified in the parsed materials."
+      ],
+      "source_references": [
+        {
+          "type": "case_metadata",
+          "docket_number": "2:26-cv-00750",
+          "court": "District Court, E.D. Texas",
+          "courtlistener_url": "https://www.courtlistener.com/docket/74697348/convergence-llc-v-kialo-gmbh/"
+        },
+        {
+          "type": "case_metadata",
+          "date_filed": "2026-08-25"
+        }
+      ]
+    },
+    "plain_language_summary": "Convergence LLC filed patent infringement claims against Kialo GmbH. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue."
   }
 ]

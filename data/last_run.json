@@ -1,5 +1,5 @@
 {
-  "cases_discovered": 3,
+  "cases_discovered": 1,
   "discovery_complete": true,
   "rejected_dockets": [
     "1:26-cv-00086",
@@ -292,18 +292,27 @@
     "id:74692264",
     "id:74693796",
     "id:74695798",
-    "id:74693349"
+    "id:74693349",
+    "id:74701505",
+    "id:74697454",
+    "id:74697270",
+    "id:74696982",
+    "id:74698133",
+    "id:74696695",
+    "id:74700187",
+    "id:74698239",
+    "id:74697875"
   ],
   "entries_updated": 40,
   "docket_update_complete": false,
   "summaries_generated": 40,
   "docket_last_run_date": "2026-08-05",
-  "courtlistener_rate_limited": true,
+  "courtlistener_rate_limited": false,
   "docket_entry_cap_reached": false,
   "summaries_deferred": 0,
   "max_summaries_per_run": 100,
   "discovery_candidate_cap_reached": false,
-  "discovery_last_run_date": "2026-08-25",
+  "discovery_last_run_date": "2026-08-26",
   "max_docket_update_passes": 2,
   "discovery_queries_completed": 38,
   "discovery_queries_total": 38,
@@ -311,7 +320,7 @@
   "discovery_rss_dockets_total": 0,
   "discovery_phase": "complete",
   "last_run_date": "2026-07-31",
-  "discovery_passes_run": 2,
+  "discovery_passes_run": 3,
   "max_discovery_passes_per_job": 20,
   "discovery_job_stop_reason": "complete"
 }
