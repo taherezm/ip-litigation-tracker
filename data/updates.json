@@ -1,5 +1,338 @@
 [
   {
+    "case_id": "convergence-llc-v-kialo-gmbh",
+    "case_name": "Convergence LLC v. Kialo GmbH",
+    "entry_date": "2026-08-25",
+    "summary": "The court assigned this case to District Judge Robert W. Schroeder, III in the Eastern District of Texas.",
+    "significance": "minor_update",
+    "entry_number": "475806448",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "convergence-llc-v-kialo-gmbh",
+    "case_name": "Convergence LLC v. Kialo GmbH",
+    "entry_date": "2026-08-25",
+    "summary": "Convergence LLC filed a new lawsuit against Kialo GmbH on August 25, 2026, in the Eastern District of Texas, with the case assigned to Judge Schroeder; the court also issued a notice asking the parties whether they consent to have a magistrate judge handle the case.",
+    "significance": "minor_update",
+    "entry_number": "475806449",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "convergence-llc-v-kialo-gmbh",
+    "case_name": "Convergence LLC v. Kialo GmbH",
+    "entry_date": "2026-08-25",
+    "summary": "The clerk issued a summons directed at defendant Kialo GmbH, formally initiating the service of process step that notifies the defendant of the lawsuit against it.",
+    "significance": "minor_update",
+    "entry_number": "5",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "convergence-llc-v-kialo-gmbh",
+    "case_name": "Convergence LLC v. Kialo GmbH",
+    "entry_date": "2026-08-25",
+    "summary": "Plaintiff's counsel filed a standard court form (AO 120) notifying the U. S. Patent and Trademark Office of the pending patent or trademark litigation, as required by federal court rules.",
+    "significance": "minor_update",
+    "entry_number": "4",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "convergence-llc-v-kialo-gmbh",
+    "case_name": "Convergence LLC v. Kialo GmbH",
+    "entry_date": "2026-08-25",
+    "summary": "Plaintiff Convergence LLC filed a corporate disclosure statement as required by Federal Rule of Civil Procedure 7. 1(a)(1), identifying its organizational and ownership interests for the court's records.",
+    "significance": "minor_update",
+    "entry_number": "3",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "convergence-llc-v-kialo-gmbh",
+    "case_name": "Convergence LLC v. Kialo GmbH",
+    "entry_date": "2026-08-25",
+    "summary": "Attorney Isaac Phillip Rabicoff filed a notice of appearance with the court indicating he is now representing plaintiff Convergence LLC in this case.",
+    "significance": "minor_update",
+    "entry_number": "2",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "convergence-llc-v-kialo-gmbh",
+    "case_name": "Convergence LLC v. Kialo GmbH",
+    "entry_date": "2026-08-25",
+    "summary": "Plaintiff Convergence LLC filed a complaint against Kialo GmbH in the Eastern District of Texas, alleging patent infringement and paying the $405 filing fee. The filing includes two exhibits and a civil cover sheet, and counsel has been reminded to submit the form required by Local Rule CV-4(a).",
+    "significance": "minor_update",
+    "entry_number": "1",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "shakespeare-v-anthropic-pbc",
+    "case_name": "Shakespeare v. Anthropic PBC",
+    "entry_date": "2026-08-27",
+    "summary": "Attorney Yar Chaikovsky filed a certification confirming that the parties discussed available alternative dispute resolution (ADR) options, as required by the court's local rules.",
+    "significance": "minor_update",
+    "entry_number": "44",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "shakespeare-v-anthropic-pbc",
+    "case_name": "Shakespeare v. Anthropic PBC",
+    "entry_date": "2026-08-25",
+    "summary": "Plaintiffs and their counsel filed an ADR certification on August 25, 2026, confirming that they discussed available alternative dispute resolution options as required by the court's local rules.",
+    "significance": "minor_update",
+    "entry_number": "43",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "shakespeare-v-anthropic-pbc",
+    "case_name": "Shakespeare v. Anthropic PBC",
+    "entry_date": "2026-08-25",
+    "summary": "Attorney Grace Yang filed an ADR certification on behalf of Benjamin Mann, confirming that the required discussion of alternative dispute resolution options took place as required by the court's local rules.",
+    "significance": "minor_update",
+    "entry_number": "42",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "shakespeare-v-anthropic-pbc",
+    "case_name": "Shakespeare v. Anthropic PBC",
+    "entry_date": "2026-08-25",
+    "summary": "Grace Yang filed an ADR Certification on behalf of Dario Amodei confirming that Amodei has been advised of the court's available alternative dispute resolution options, as required by the Northern District of California's local ADR rules.",
+    "significance": "minor_update",
+    "entry_number": "41",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "shakespeare-v-anthropic-pbc",
+    "case_name": "Shakespeare v. Anthropic PBC",
+    "entry_date": "2026-08-25",
+    "summary": "Attorney Hayk Esaghoulyan filed a notice of appearance in federal court in the Northern District of California, formally entering the case as counsel of record for defendants Dario Amodei and Benjamin Mann.",
+    "significance": "minor_update",
+    "entry_number": "40",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "shakespeare-v-anthropic-pbc",
+    "case_name": "Shakespeare v. Anthropic PBC",
+    "entry_date": "2026-08-25",
+    "summary": "Attorney Grace Yu-Ting Yang filed a notice of appearance in federal court in the Northern District of California, indicating she will represent defendants Dario Amodei and Benjamin Mann in this case.",
+    "significance": "minor_update",
+    "entry_number": "39",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "round-hill-music-lp-v-suno-inc",
+    "case_name": "Round Hill Music LP v. Suno, Inc.",
+    "entry_date": "2026-08-26",
+    "summary": "The court granted a motion allowing attorney David M. Niemierzycki to appear in this case on a pro hac vice basis, meaning he is licensed in another jurisdiction but has received permission to participate in this proceeding.",
+    "significance": "minor_update",
+    "entry_number": "24",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "round-hill-music-lp-v-suno-inc",
+    "case_name": "Round Hill Music LP v. Suno, Inc.",
+    "entry_date": "2026-08-26",
+    "summary": "Plaintiffs Round Hill Music LP and related entities filed a motion seeking permission for attorney David Niemierzycki to appear in this case as outside counsel admitted in another jurisdiction, along with the required $328 filing fee.",
+    "significance": "minor_update",
+    "entry_number": "23",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "round-hill-music-lp-v-suno-inc",
+    "case_name": "Round Hill Music LP v. Suno, Inc.",
+    "entry_date": "2026-08-24",
+    "summary": "Suno, Inc. filed an opposition to an administrative motion that sought to have this case deemed related to another pending case under Civil Local Rule 7-11, attaching one exhibit in support of its position.",
+    "significance": "minor_update",
+    "entry_number": "22",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "round-hill-music-lp-v-suno-inc",
+    "case_name": "Round Hill Music LP v. Suno, Inc.",
+    "entry_date": "2026-08-24",
+    "summary": "Suno, Inc. filed a Certificate of Interested Entities, disclosing the parties and entities with a financial interest in the outcome of this case, as required by local court rules.",
+    "significance": "minor_update",
+    "entry_number": "21",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "round-hill-music-lp-v-suno-inc",
+    "case_name": "Round Hill Music LP v. Suno, Inc.",
+    "entry_date": "2026-08-24",
+    "summary": "Suno, Inc. filed its Rule 7. 1 corporate disclosure statement, a routine filing that identifies any parent corporations and publicly held companies owning 10% or more of Suno's stock.",
+    "significance": "minor_update",
+    "entry_number": "20",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "round-hill-music-lp-v-suno-inc",
+    "case_name": "Round Hill Music LP v. Suno, Inc.",
+    "entry_date": "2026-08-24",
+    "summary": "Attorney Brittany Nichole Lovejoy filed a notice of appearance in federal court indicating she is now representing defendant Suno, Inc. in this case.",
+    "significance": "minor_update",
+    "entry_number": "19",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "round-hill-music-lp-v-suno-inc",
+    "case_name": "Round Hill Music LP v. Suno, Inc.",
+    "entry_date": "2026-08-24",
+    "summary": "Attorney Andrew Michael Gass filed a notice of appearance on behalf of defendant Suno, Inc. , indicating he is joining the legal team representing Suno in this case.",
+    "significance": "minor_update",
+    "entry_number": "18",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "round-hill-music-lp-v-suno-inc",
+    "case_name": "Round Hill Music LP v. Suno, Inc.",
+    "entry_date": "2026-08-24",
+    "summary": "Anthropic PBC filed a notice submitting its response to an administrative motion asking the court to determine whether this case should be treated as related to another case, attaching one exhibit in support.",
+    "significance": "minor_update",
+    "entry_number": "17",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "round-hill-music-lp-v-suno-inc",
+    "case_name": "Round Hill Music LP v. Suno, Inc.",
+    "entry_date": "2026-08-24",
+    "summary": "Attorney Sonal N. Mehta filed a notice of appearance on behalf of Anthropic PBC, indicating that Anthropic is now represented by counsel in this case.",
+    "significance": "minor_update",
+    "entry_number": "16",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "round-hill-music-lp-v-suno-inc",
+    "case_name": "Round Hill Music LP v. Suno, Inc.",
+    "entry_date": "2026-08-24",
+    "summary": "The plaintiffs filed a returned waiver of service confirming that defendant Suno, Inc. agreed to waive formal service of process, with the waiver sent on August 21, 2026, making Suno's answer due by October 20, 2026.",
+    "significance": "minor_update",
+    "entry_number": "15",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "neural-ai-llc-v-tesla-inc",
+    "case_name": "Neural AI, LLC v. Tesla Inc.",
+    "entry_date": "2026-08-24",
+    "summary": "Tesla Inc. filed a response opposing Neural AI, LLC's corrected motion to compel Tesla—a third party—to comply with a subpoena, attaching a supporting declaration from Ashraf Fawzy, two exhibits, and a proposed order.",
+    "significance": "minor_update",
+    "entry_number": "11",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "wikihow-inc-v-openai-inc",
+    "case_name": "wikiHow, Inc. v. OpenAI , Inc.",
+    "entry_date": "2026-08-25",
+    "summary": "The court issued electronic summonses to nine named OpenAI-related entities, formally notifying them of the lawsuit filed by wikiHow, Inc. This is a standard administrative step that begins the process of bringing the defendants into the case.",
+    "significance": "minor_update",
+    "entry_number": "9",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "beaulier-v-meta-platforms-inc",
+    "case_name": "Beaulier v. Meta Platforms, Inc.",
+    "entry_date": "2026-08-26",
+    "summary": "The court granted Meta's motion to dismiss, with Judge Charles R. Breyer signing the order on August 26, 2026. This ruling ends the case at the district court level, at least as to the claims subject to the motion.",
+    "significance": "significant_ruling",
+    "entry_number": "32",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "beaulier-v-meta-platforms-inc",
+    "case_name": "Beaulier v. Meta Platforms, Inc.",
+    "entry_date": "2026-08-26",
+    "summary": "The court canceled the August 28, 2026 hearing on Meta's motion to dismiss and will decide the motion based on the written briefs alone, without oral argument.",
+    "significance": "minor_update",
+    "entry_number": "31",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "beaulier-v-roblox-corporation",
+    "case_name": "Beaulier v. Roblox Corporation",
+    "entry_date": "2026-08-26",
+    "summary": "Roblox Corporation filed a Statement of Recent Decision under Civil Local Rule 7-3(d), attaching as an exhibit a decision from a related case, Beaulier v. Meta Platforms, likely to inform the court of potentially relevant authority in connection with a pending motion.",
+    "significance": "minor_update",
+    "entry_number": "40",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "beaulier-v-nvidia-corporation",
+    "case_name": "Beaulier v. NVIDIA Corporation",
+    "entry_date": "2026-08-27",
+    "summary": "NVIDIA Corporation filed a statement notifying the court of a recent decision from another case, as permitted under Civil Local Rule 7-3(d), which allows parties to bring newly issued legal authority to the court's attention.",
+    "significance": "minor_update",
+    "entry_number": "31",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "beaulier-v-microsoft-corporation",
+    "case_name": "Beaulier v. Microsoft Corporation",
+    "entry_date": "2026-08-25",
+    "summary": "The court admitted attorneys Annette L. Hurst and Amanda H. Schwartz to appear pro hac vice on behalf of defendant Microsoft Corporation, allowing them to participate in this case despite not being locally barred. Local counsel remains responsible for signing all filings and handling the matter if either visiting attorney is unavailable.",
+    "significance": "minor_update",
+    "entry_number": "29",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "beaulier-v-microsoft-corporation",
+    "case_name": "Beaulier v. Microsoft Corporation",
+    "entry_date": "2026-08-24",
+    "summary": "Attorney Amanda H. Schwartz applied for permission to appear as a visiting attorney (pro hac vice) on behalf of defendant Microsoft Corporation, with the required fee paid and the application entered into the record.",
+    "significance": "minor_update",
+    "entry_number": "28",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "beaulier-v-microsoft-corporation",
+    "case_name": "Beaulier v. Microsoft Corporation",
+    "entry_date": "2026-08-24",
+    "summary": "Attorney Annette Louise Hurst applied for permission to appear pro hac vice, meaning to participate in this case without being a member of the local bar, on behalf of defendant Microsoft Corporation, with the required fee paid.",
+    "significance": "minor_update",
+    "entry_number": "27",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "beaulier-v-microsoft-corporation",
+    "case_name": "Beaulier v. Microsoft Corporation",
+    "entry_date": "2026-08-24",
+    "summary": "Microsoft Corporation filed a corporate disclosure statement, as required by Federal Rule of Civil Procedure 7. 1(a)(1), indicating that it has no parent companies or affiliated corporate entities.",
+    "significance": "minor_update",
+    "entry_number": "26",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "ted-entertainment-inc-v-openai-inc",
+    "case_name": "Ted Entertainment, Inc. v. OpenAI Inc.",
+    "entry_date": "2026-08-25",
+    "summary": "Plaintiffs Ted Entertainment, Inc. and Golfholics, Inc. , along with attorney Matt Fisher, moved for permission to allow an out-of-state attorney to appear in this case, submitting certificates of good standing from Texas and Louisiana along with the required $328 filing fee.",
+    "significance": "minor_update",
+    "entry_number": "31",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "ted-entertainment-inc-v-openai-inc",
+    "case_name": "Ted Entertainment, Inc. v. OpenAI Inc.",
+    "entry_date": "2026-08-24",
+    "summary": "Plaintiff Ted Entertainment, Inc. filed an opposition to OpenAI's motion to dismiss the class action complaint, pushing back against OpenAI's arguments for dismissal.",
+    "significance": "minor_update",
+    "entry_number": "30",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "bmg-rights-management-us-llc-v-anthropic-pbc",
+    "case_name": "BMG Rights Management (US) LLC v. Anthropic PBC",
+    "entry_date": "2026-08-26",
+    "summary": "The court granted a motion allowing attorney Alex W. Miller to appear in this case on a pro hac vice basis, permitting him to practice before the court in this matter despite not being a member of the Northern District of California bar. Judge Eumi K. Lee signed the order on August 26, 2026.",
+    "significance": "minor_update",
+    "entry_number": "36",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
+    "case_id": "cable-news-network-inc-v-perplexity-ai-inc",
+    "case_name": "Cable News Network Inc v. Perplexity AI, Inc.",
+    "entry_date": "2026-08-27",
+    "summary": "Plaintiff Cable News Network Inc. filed a letter motion asking Judge Loretta A. Preska to grant an extension of time, submitted by attorney Steven Lieberman on August 27, 2026.",
+    "significance": "minor_update",
+    "entry_number": "33",
+    "logged_at": "2026-08-27T22:58:51Z"
+  },
+  {
     "case_id": "druyan-sagan-associates-inc-v-luma-ai-inc",
     "case_name": "Druyan-Sagan Associates, Inc. v. Luma AI, Inc.",
     "entry_date": "2026-08-25",
