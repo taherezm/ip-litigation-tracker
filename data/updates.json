@@ -1,5 +1,86 @@
 [
   {
+    "case_id": "wikihow-inc-v-openai-inc",
+    "case_name": "wikiHow, Inc. v. OpenAI , Inc.",
+    "entry_date": "2026-08-28",
+    "summary": "The court accepted this case as related to a multidistrict litigation proceeding (1:25-md-03143-SHS-OTW) and will issue a formal notice of assignment to follow.",
+    "significance": "minor_update",
+    "entry_number": "476359693",
+    "logged_at": "2026-08-31T19:31:19Z"
+  },
+  {
+    "case_id": "wikihow-inc-v-openai-inc",
+    "case_name": "wikiHow, Inc. v. OpenAI , Inc.",
+    "entry_date": "2026-08-28",
+    "summary": "The court clerk administratively linked this case to a consolidated multidistrict litigation (MDL) docket, case number 1:25-md-03143-SHS-OTW, centralizing it with related cases for coordinated proceedings.",
+    "significance": "minor_update",
+    "entry_number": "476359694",
+    "logged_at": "2026-08-31T19:31:19Z"
+  },
+  {
+    "case_id": "wikihow-inc-v-openai-inc",
+    "case_name": "wikiHow, Inc. v. OpenAI , Inc.",
+    "entry_date": "2026-08-28",
+    "summary": "The court reassigned this case to Judge Sidney H. Stein, who will now preside over the matter in place of the previously unassigned judge.",
+    "significance": "minor_update",
+    "entry_number": "476359695",
+    "logged_at": "2026-08-31T19:31:19Z"
+  },
+  {
+    "case_id": "wikihow-inc-v-openai-inc",
+    "case_name": "wikiHow, Inc. v. OpenAI , Inc.",
+    "entry_date": "2026-08-28",
+    "summary": "The court designated Magistrate Judge Ona T. Wang to handle referred matters in this case and notified the parties that they may consent to have a magistrate judge oversee the full case, subject to the district judge's approval.",
+    "significance": "minor_update",
+    "entry_number": "476359696",
+    "logged_at": "2026-08-31T19:31:19Z"
+  },
+  {
+    "case_id": "wikihow-inc-v-openai-inc",
+    "case_name": "wikiHow, Inc. v. OpenAI , Inc.",
+    "entry_date": "2026-08-31",
+    "summary": "The court ordered wikiHow to explain in writing by September 11, 2026, why this case should not be paused while summary judgment motions are resolved in other related cases within the same multidistrict litigation; OpenAI may file a response by September 18, 2026.",
+    "significance": "significant_ruling",
+    "entry_number": "10",
+    "logged_at": "2026-08-31T19:31:19Z"
+  },
+  {
+    "case_id": "sony-music-publishing-us-llc-v-anthropic-pbc",
+    "case_name": "Sony Music Publishing (US) LLC v. Anthropic PBC",
+    "entry_date": "2026-08-28",
+    "summary": "Several Warner Chappell Music publishing entities filed a Corporate Disclosure Statement identifying Warner Music Group Corp. as their corporate parent and AI Entertainment Holdings LLC as an affiliate, as required by court rules.",
+    "significance": "minor_update",
+    "entry_number": "4",
+    "logged_at": "2026-08-31T19:31:19Z"
+  },
+  {
+    "case_id": "sony-music-publishing-us-llc-v-anthropic-pbc",
+    "case_name": "Sony Music Publishing (US) LLC v. Anthropic PBC",
+    "entry_date": "2026-08-28",
+    "summary": "The plaintiffs filed a Corporate Disclosure Statement identifying Sony Group Corporation as the ultimate corporate parent of all twenty named plaintiff entities, and Sakura Melody LLC as an additional affiliate of those entities.",
+    "significance": "minor_update",
+    "entry_number": "3",
+    "logged_at": "2026-08-31T19:31:19Z"
+  },
+  {
+    "case_id": "bmg-rights-management-us-llc-v-anthropic-pbc",
+    "case_name": "BMG Rights Management (US) LLC v. Anthropic PBC",
+    "entry_date": "2026-08-28",
+    "summary": "A group of plaintiffs—GFP Co-Invest, LP, RH Carlin Holdings LLC, and several Round Hill Music entities—filed a notice opposing an administrative motion that asked the court to consider whether this case should be related to another case pending before the court.",
+    "significance": "minor_update",
+    "entry_number": "38",
+    "logged_at": "2026-08-31T19:31:19Z"
+  },
+  {
+    "case_id": "bmg-rights-management-us-llc-v-anthropic-pbc",
+    "case_name": "BMG Rights Management (US) LLC v. Anthropic PBC",
+    "entry_date": "2026-08-28",
+    "summary": "Attorney Richard Steven Busch filed a notice of appearance on behalf of six Round Hill Music entities, entering the case as counsel for those parties.",
+    "significance": "minor_update",
+    "entry_number": "37",
+    "logged_at": "2026-08-31T19:31:19Z"
+  },
+  {
     "case_id": "sony-music-publishing-us-llc-v-anthropic-pbc",
     "case_name": "Sony Music Publishing (US) LLC v. Anthropic PBC",
     "entry_date": "2026-08-28",
