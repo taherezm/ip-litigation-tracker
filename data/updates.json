@@ -1,5 +1,95 @@
 [
   {
+    "case_id": "gerencia-360-music-inc-v-suno-inc",
+    "case_name": "Gerencia 360 Music, Inc. v. Suno, Inc.",
+    "entry_date": "2026-08-31",
+    "summary": "Court staff flagged an electronic filing error, instructing Gerencia 360 Music, Inc. to consolidate its three separately filed proposed summonses into a single summons listing all defendants and re-file the corrected document.",
+    "significance": "minor_update",
+    "entry_number": "476502873",
+    "logged_at": "2026-09-01T17:20:27Z"
+  },
+  {
+    "case_id": "gerencia-360-music-inc-v-suno-inc",
+    "case_name": "Gerencia 360 Music, Inc. v. Suno, Inc.",
+    "entry_date": "2026-08-31",
+    "summary": "The court issued an initial scheduling order setting a Case Management Statement deadline of November 24, 2026, and scheduling an Initial Case Management Conference for December 1, 2026, to be held by videoconference in San Jose.",
+    "significance": "minor_update",
+    "entry_number": "9",
+    "logged_at": "2026-09-01T17:20:27Z"
+  },
+  {
+    "case_id": "gerencia-360-music-inc-v-suno-inc",
+    "case_name": "Gerencia 360 Music, Inc. v. Suno, Inc.",
+    "entry_date": "2026-08-31",
+    "summary": "Plaintiff Gerencia 360 Music, Inc. filed a motion seeking court permission for an attorney to appear in this case on a temporary basis from outside the court's jurisdiction, paying the required $328 filing fee.",
+    "significance": "minor_update",
+    "entry_number": "8",
+    "logged_at": "2026-09-01T17:20:27Z"
+  },
+  {
+    "case_id": "gerencia-360-music-inc-v-suno-inc",
+    "case_name": "Gerencia 360 Music, Inc. v. Suno, Inc.",
+    "entry_date": "2026-08-31",
+    "summary": "Plaintiff Gerencia 360 Music, Inc. filed a form indicating whether it consents to or declines having a U. S. Magistrate Judge preside over the case instead of a District Court Judge.",
+    "significance": "minor_update",
+    "entry_number": "7",
+    "logged_at": "2026-09-01T17:20:27Z"
+  },
+  {
+    "case_id": "gerencia-360-music-inc-v-suno-inc",
+    "case_name": "Gerencia 360 Music, Inc. v. Suno, Inc.",
+    "entry_date": "2026-08-31",
+    "summary": "The court clerk issued a notice instructing the parties to file a Report on the Filing or Determination of an Action or Appeal Regarding a Copyright (Form AO 121) with the U. S. Copyright Office within five days, as required by 17 U. S. C. § 508 whenever a copyright action is filed in federal court.",
+    "significance": "minor_update",
+    "entry_number": "6",
+    "logged_at": "2026-09-01T17:20:27Z"
+  },
+  {
+    "case_id": "gerencia-360-music-inc-v-suno-inc",
+    "case_name": "Gerencia 360 Music, Inc. v. Suno, Inc.",
+    "entry_date": "2026-08-31",
+    "summary": "The court assigned this case to Magistrate Judge Virginia K. DeMarchi and issued standard new-case administrative instructions, directing plaintiff's counsel to serve the complaint, summons, and judge's standing orders on the opposing party. A consent or declination regarding magistrate judge jurisdiction is due by September 14, 2026, and a scheduling order will follow within two business days.",
+    "significance": "minor_update",
+    "entry_number": "5",
+    "logged_at": "2026-09-01T17:20:27Z"
+  },
+  {
+    "case_id": "gerencia-360-music-inc-v-suno-inc",
+    "case_name": "Gerencia 360 Music, Inc. v. Suno, Inc.",
+    "entry_date": "2026-08-31",
+    "summary": "Plaintiff Gerencia 360 Music, Inc. filed a proposed summons against defendant Suno, Inc. , a routine early-stage document used to formally notify the defendant of the lawsuit.",
+    "significance": "minor_update",
+    "entry_number": "4",
+    "logged_at": "2026-09-01T17:20:27Z"
+  },
+  {
+    "case_id": "gerencia-360-music-inc-v-suno-inc",
+    "case_name": "Gerencia 360 Music, Inc. v. Suno, Inc.",
+    "entry_date": "2026-08-31",
+    "summary": "Plaintiff Gerencia 360 Music, Inc. filed a proposed summons against defendant Suno, Inc. , a routine administrative step early in the lawsuit that precedes formal service of process on the defendant.",
+    "significance": "minor_update",
+    "entry_number": "3",
+    "logged_at": "2026-09-01T17:20:27Z"
+  },
+  {
+    "case_id": "gerencia-360-music-inc-v-suno-inc",
+    "case_name": "Gerencia 360 Music, Inc. v. Suno, Inc.",
+    "entry_date": "2026-08-31",
+    "summary": "Plaintiff Gerencia 360 Music, Inc. filed a proposed summons against defendant Suno, Inc. , a standard early procedural step taken after a complaint is filed to formally notify the defendant of the lawsuit.",
+    "significance": "minor_update",
+    "entry_number": "2",
+    "logged_at": "2026-09-01T17:20:27Z"
+  },
+  {
+    "case_id": "gerencia-360-music-inc-v-suno-inc",
+    "case_name": "Gerencia 360 Music, Inc. v. Suno, Inc.",
+    "entry_date": "2026-08-31",
+    "summary": "Plaintiff Gerencia 360 Music, Inc. filed a complaint against Suno, Inc. and all defendants in the Northern District of California, along with two exhibits and a civil cover sheet, initiating this lawsuit.",
+    "significance": "minor_update",
+    "entry_number": "1",
+    "logged_at": "2026-09-01T17:20:27Z"
+  },
+  {
     "case_id": "wikihow-inc-v-openai-inc",
     "case_name": "wikiHow, Inc. v. OpenAI , Inc.",
     "entry_date": "2026-08-28",
