@@ -13247,5 +13247,134 @@
     },
     "plain_language_summary": "Gerencia 360 Music, Inc. asserts copyright infringement claims against Suno, Inc. involving music, audio, or sound-recording works. The case is in motion practice. The case matters because it may affect how copyright and music-rights claims are applied to AI tools and audio works in a case asserting copyright infringement claims. Latest meaningful event (2026-08-31): Court staff flagged an electronic filing error, instructing Gerencia 360 Music, Inc. to consolidate its three separately filed proposed summonses into a single summons listing all defendants and re-file the corrected document.",
     "docket_last_checked": "2026-09-01"
+  },
+  {
+    "id": "lowery-v-suno-inc",
+    "name": "Lowery v. Suno, Inc.",
+    "court": "District Court, D. Massachusetts",
+    "court_full": "District Court, D. Massachusetts",
+    "docket_number": "1:26-cv-14005",
+    "courtlistener_docket_id": "74728439",
+    "date_filed": "2026-08-31",
+    "claims": [
+      "copyright infringement"
+    ],
+    "legal_theories": [],
+    "status": "active",
+    "procedural_posture": "Filed",
+    "parties": {
+      "plaintiff": "Lowery",
+      "defendant": "Suno, Inc."
+    },
+    "judges": [
+      "Paul G. Levenson"
+    ],
+    "key_rulings": [],
+    "docket_entries": [],
+    "source": "courtlistener",
+    "courtlistener_url": "https://www.courtlistener.com/docket/74728439/lowery-v-suno-inc/",
+    "last_updated": "2026-09-01",
+    "discovered_date": "2026-09-01",
+    "case_intelligence": {
+      "case_theory": "Lowery asserts copyright infringement claims against Suno, Inc., but the parsed materials do not yet identify the specific AI conduct at issue.",
+      "current_posture": "The case is newly filed.",
+      "why_it_matters": "The case matters because future filings may clarify the specific AI-related conduct and legal theory in a case asserting copyright infringement claims.",
+      "latest_change": "Latest meaningful event (2026-08-31): Lowery filed the case against Suno, Inc..",
+      "latest_meaningful_event": "Lowery filed the case against Suno, Inc..",
+      "latest_meaningful_event_date": "2026-08-31",
+      "claim_category": "unknown",
+      "claims_asserted": [
+        "copyright infringement"
+      ],
+      "ai_conduct_alleged": null,
+      "works_or_data_at_issue": null,
+      "technology_or_model_at_issue": null,
+      "procedural_stage": "newly_filed",
+      "pending_motion_or_next_event": null,
+      "related_cases": [],
+      "confidence_level": "low",
+      "missing_information": [
+        "Specific AI-related conduct is not identified in the parsed docket metadata.",
+        "Specific works, data, or trade secrets at issue are not identified in the parsed materials.",
+        "Specific AI system or model is not identified in the parsed materials."
+      ],
+      "source_references": [
+        {
+          "type": "case_metadata",
+          "docket_number": "1:26-cv-14005",
+          "court": "District Court, D. Massachusetts",
+          "courtlistener_url": "https://www.courtlistener.com/docket/74728439/lowery-v-suno-inc/"
+        },
+        {
+          "type": "case_metadata",
+          "date_filed": "2026-08-31"
+        }
+      ]
+    },
+    "plain_language_summary": "Lowery filed copyright infringement claims against Suno, Inc. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue."
+  },
+  {
+    "id": "many-worlds-2t-innovations-llc-v-openai-opco-llc",
+    "name": "Many Worlds 2T Innovations LLC v. OpenAI OpCo, LLC",
+    "court": "District Court, E.D. Texas",
+    "court_full": "District Court, E.D. Texas",
+    "docket_number": "2:26-cv-00774",
+    "courtlistener_docket_id": "74727267",
+    "date_filed": "2026-08-31",
+    "claims": [
+      "patent infringement"
+    ],
+    "legal_theories": [],
+    "status": "active",
+    "procedural_posture": "Filed",
+    "parties": {
+      "plaintiff": "Many Worlds 2T Innovations LLC",
+      "defendant": "OpenAI OpCo, LLC"
+    },
+    "judges": [
+      "James Rodney Gilstrap"
+    ],
+    "key_rulings": [],
+    "docket_entries": [],
+    "source": "courtlistener",
+    "courtlistener_url": "https://www.courtlistener.com/docket/74727267/many-worlds-2t-innovations-llc-v-openai-opco-llc/",
+    "last_updated": "2026-09-01",
+    "discovered_date": "2026-09-01",
+    "case_intelligence": {
+      "case_theory": "Many Worlds 2T Innovations LLC asserts patent infringement claims against OpenAI OpCo, LLC involving patented software or technology.",
+      "current_posture": "The case is newly filed.",
+      "why_it_matters": "The case matters because it may affect how patent infringement theories are applied to AI or machine-learning software in a case asserting patent infringement claims.",
+      "latest_change": "Latest meaningful event (2026-08-31): Many Worlds 2T Innovations LLC filed the case against OpenAI OpCo, LLC.",
+      "latest_meaningful_event": "Many Worlds 2T Innovations LLC filed the case against OpenAI OpCo, LLC.",
+      "latest_meaningful_event_date": "2026-08-31",
+      "claim_category": "patent_ai_software",
+      "claims_asserted": [
+        "patent infringement"
+      ],
+      "ai_conduct_alleged": null,
+      "works_or_data_at_issue": "patented software or technology",
+      "technology_or_model_at_issue": null,
+      "procedural_stage": "newly_filed",
+      "pending_motion_or_next_event": null,
+      "related_cases": [],
+      "confidence_level": "low",
+      "missing_information": [
+        "Specific AI-related conduct is not identified in the parsed docket metadata.",
+        "Specific AI system or model is not identified in the parsed materials."
+      ],
+      "source_references": [
+        {
+          "type": "case_metadata",
+          "docket_number": "2:26-cv-00774",
+          "court": "District Court, E.D. Texas",
+          "courtlistener_url": "https://www.courtlistener.com/docket/74727267/many-worlds-2t-innovations-llc-v-openai-opco-llc/"
+        },
+        {
+          "type": "case_metadata",
+          "date_filed": "2026-08-31"
+        }
+      ]
+    },
+    "plain_language_summary": "Many Worlds 2T Innovations LLC filed patent infringement claims against OpenAI OpCo, LLC. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue."
   }
 ]
