@@ -1,5 +1,140 @@
 [
   {
+    "case_id": "lowery-v-suno-inc",
+    "case_name": "Lowery v. Suno, Inc.",
+    "entry_date": "2026-09-01",
+    "summary": "The court issued summons against Suno, Inc. and unnamed defendants, directing plaintiff's counsel to serve each defendant in accordance with the Federal Rules of Civil Procedure and the court's local rules.",
+    "significance": "minor_update",
+    "entry_number": "3",
+    "logged_at": "2026-09-02T17:11:36Z"
+  },
+  {
+    "case_id": "lowery-v-suno-inc",
+    "case_name": "Lowery v. Suno, Inc.",
+    "entry_date": "2026-09-01",
+    "summary": "The court assigned Magistrate Judge Paul G. Levenson to the case and directed the parties to promptly file a form indicating whether they consent to have the magistrate judge preside over the case; until a consent form is filed or the case is reassigned to a district judge, the magistrate judge will handle pretrial non-dispositive matters and issue recommendations on dispositive matters.",
+    "significance": "minor_update",
+    "entry_number": "2",
+    "logged_at": "2026-09-02T17:11:36Z"
+  },
+  {
+    "case_id": "lowery-v-suno-inc",
+    "case_name": "Lowery v. Suno, Inc.",
+    "entry_date": "2026-08-31",
+    "summary": "Plaintiffs David Lowery, Jason Isbell, and Eduardo Calle filed a complaint against all defendants in the District of Massachusetts, accompanied by a civil cover sheet, category form, and 42 exhibits and supplements; the filing fee of $405 was paid at the time of filing.",
+    "significance": "minor_update",
+    "entry_number": "1",
+    "logged_at": "2026-09-02T17:11:36Z"
+  },
+  {
+    "case_id": "many-worlds-2t-innovations-llc-v-openai-opco-llc",
+    "case_name": "Many Worlds 2T Innovations LLC v. OpenAI OpCo, LLC",
+    "entry_date": "2026-08-31",
+    "summary": "The court assigned District Judge Rodney Gilstrap to preside over this case in the Eastern District of Texas.",
+    "significance": "minor_update",
+    "entry_number": "476441525",
+    "logged_at": "2026-09-02T17:11:36Z"
+  },
+  {
+    "case_id": "many-worlds-2t-innovations-llc-v-openai-opco-llc",
+    "case_name": "Many Worlds 2T Innovations LLC v. OpenAI OpCo, LLC",
+    "entry_date": "2026-08-31",
+    "summary": "Many Worlds 2T Innovations LLC filed this case against OpenAI OpCo, LLC on August 31, 2026, in the Eastern District of Texas, where it was assigned to Judge Gilstrap; the court also attached a form asking the parties whether they consent to have a magistrate judge handle the case.",
+    "significance": "minor_update",
+    "entry_number": "476441526",
+    "logged_at": "2026-09-02T17:11:36Z"
+  },
+  {
+    "case_id": "many-worlds-2t-innovations-llc-v-openai-opco-llc",
+    "case_name": "Many Worlds 2T Innovations LLC v. OpenAI OpCo, LLC",
+    "entry_date": "2026-08-31",
+    "summary": "The court issued a summons to OpenAI OpCo, LLC through its registered agent, CT Corporation System, formally initiating the process of notifying the defendant of the lawsuit filed against it.",
+    "significance": "minor_update",
+    "entry_number": "6",
+    "logged_at": "2026-09-02T17:11:36Z"
+  },
+  {
+    "case_id": "many-worlds-2t-innovations-llc-v-openai-opco-llc",
+    "case_name": "Many Worlds 2T Innovations LLC v. OpenAI OpCo, LLC",
+    "entry_date": "2026-08-31",
+    "summary": "Plaintiff Many Worlds 2T Innovations LLC filed a corporate disclosure statement as required by Federal Rule of Civil Procedure 7. 1(a)(1), identifying its ownership and financial interests for the court's conflict-of-interest review.",
+    "significance": "minor_update",
+    "entry_number": "5",
+    "logged_at": "2026-09-02T17:11:36Z"
+  },
+  {
+    "case_id": "many-worlds-2t-innovations-llc-v-openai-opco-llc",
+    "case_name": "Many Worlds 2T Innovations LLC v. OpenAI OpCo, LLC",
+    "entry_date": "2026-08-31",
+    "summary": "Plaintiff Many Worlds 2T Innovations LLC filed a formal demand for a jury trial, requesting that its claims against OpenAI OpCo, LLC be decided by a jury rather than a judge.",
+    "significance": "minor_update",
+    "entry_number": "4",
+    "logged_at": "2026-09-02T17:11:36Z"
+  },
+  {
+    "case_id": "many-worlds-2t-innovations-llc-v-openai-opco-llc",
+    "case_name": "Many Worlds 2T Innovations LLC v. OpenAI OpCo, LLC",
+    "entry_date": "2026-08-31",
+    "summary": "Plaintiff Many Worlds 2T Innovations LLC asked the court clerk to issue a summons, a standard procedural step taken early in a lawsuit to formally notify the defendant of the pending case.",
+    "significance": "minor_update",
+    "entry_number": "3",
+    "logged_at": "2026-09-02T17:11:36Z"
+  },
+  {
+    "case_id": "many-worlds-2t-innovations-llc-v-openai-opco-llc",
+    "case_name": "Many Worlds 2T Innovations LLC v. OpenAI OpCo, LLC",
+    "entry_date": "2026-08-31",
+    "summary": "The court's clerk filed a standard administrative form (AO 120) notifying the U. S. Patent and Trademark Office of this pending patent-related litigation, as required by federal procedure.",
+    "significance": "minor_update",
+    "entry_number": "2",
+    "logged_at": "2026-09-02T17:11:36Z"
+  },
+  {
+    "case_id": "many-worlds-2t-innovations-llc-v-openai-opco-llc",
+    "case_name": "Many Worlds 2T Innovations LLC v. OpenAI OpCo, LLC",
+    "entry_date": "2026-08-31",
+    "summary": "Plaintiff Many Worlds 2T Innovations LLC filed a complaint against OpenAI OpCo, LLC alleging patent infringement, initiating the lawsuit in the Eastern District of Texas.",
+    "significance": "minor_update",
+    "entry_number": "1",
+    "logged_at": "2026-09-02T17:11:36Z"
+  },
+  {
+    "case_id": "bmg-rights-management-us-llc-v-anthropic-pbc",
+    "case_name": "BMG Rights Management (US) LLC v. Anthropic PBC",
+    "entry_date": "2026-09-01",
+    "summary": "Attorney Savannah Levin filed a notice of appearance in the Northern District of California, formally entering the case as counsel for plaintiff BMG Rights Management (US) LLC.",
+    "significance": "minor_update",
+    "entry_number": "40",
+    "logged_at": "2026-09-02T17:11:36Z"
+  },
+  {
+    "case_id": "bmg-rights-management-us-llc-v-anthropic-pbc",
+    "case_name": "BMG Rights Management (US) LLC v. Anthropic PBC",
+    "entry_date": "2026-08-31",
+    "summary": "Sony Music Publishing (US) LLC and Warner Chappell Music, Inc. filed a notice supporting an administrative motion asking the court to consider whether this case and one or more other cases should be treated as related. The notice includes an exhibit, but no court ruling has been issued on the motion.",
+    "significance": "minor_update",
+    "entry_number": "39",
+    "logged_at": "2026-09-02T17:11:36Z"
+  },
+  {
+    "case_id": "neural-ai-llc-v-tesla-inc",
+    "case_name": "Neural AI, LLC v. Tesla Inc.",
+    "entry_date": "2026-08-31",
+    "summary": "Neural AI, LLC filed a reply brief in support of its corrected motion to compel Tesla, Inc. —a third party—to comply with a subpoena, attaching one exhibit in support of its arguments.",
+    "significance": "minor_update",
+    "entry_number": "12",
+    "logged_at": "2026-09-02T17:11:36Z"
+  },
+  {
+    "case_id": "beaulier-v-nvidia-corporation",
+    "case_name": "Beaulier v. NVIDIA Corporation",
+    "entry_date": "2026-09-01",
+    "summary": "NVIDIA filed a Statement of Recent Decision, attaching Exhibit A, to bring a newly issued court decision to the court's attention.",
+    "significance": "minor_update",
+    "entry_number": "32",
+    "logged_at": "2026-09-02T17:11:36Z"
+  },
+  {
     "case_id": "gerencia-360-music-inc-v-suno-inc",
     "case_name": "Gerencia 360 Music, Inc. v. Suno, Inc.",
     "entry_date": "2026-08-31",
