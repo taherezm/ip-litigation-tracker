@@ -1,5 +1,86 @@
 [
   {
+    "case_id": "btf-ip-holdings-llc-v-eleven-labs-inc",
+    "case_name": "BTF IP Holdings LLC v. Eleven Labs Inc.",
+    "entry_date": "2026-09-01",
+    "summary": "Plaintiff BTF IP Holdings LLC filed a request asking the court to issue a summons to defendant Eleven Labs Inc. , a standard procedural step following the filing of the initial complaint that formally initiates the process of serving the defendant with notice of the lawsuit.",
+    "significance": "minor_update",
+    "entry_number": "5",
+    "logged_at": "2026-09-03T17:03:53Z"
+  },
+  {
+    "case_id": "btf-ip-holdings-llc-v-eleven-labs-inc",
+    "case_name": "BTF IP Holdings LLC v. Eleven Labs Inc.",
+    "entry_date": "2026-09-01",
+    "summary": "Plaintiff BTF IP Holdings LLC filed a required corporate disclosure statement, reporting that it has no parent corporation.",
+    "significance": "minor_update",
+    "entry_number": "4",
+    "logged_at": "2026-09-03T17:03:53Z"
+  },
+  {
+    "case_id": "btf-ip-holdings-llc-v-eleven-labs-inc",
+    "case_name": "BTF IP Holdings LLC v. Eleven Labs Inc.",
+    "entry_date": "2026-09-01",
+    "summary": "Attorney Douglas Chin submitted an AO 120 form to the court to report the filing of a patent case, as required by federal procedural rules when a new patent or trademark case is opened.",
+    "significance": "minor_update",
+    "entry_number": "3",
+    "logged_at": "2026-09-03T17:03:53Z"
+  },
+  {
+    "case_id": "btf-ip-holdings-llc-v-eleven-labs-inc",
+    "case_name": "BTF IP Holdings LLC v. Eleven Labs Inc.",
+    "entry_date": "2026-09-01",
+    "summary": "Plaintiff BTF IP Holdings LLC filed a civil cover sheet in the Southern District of New York, marking the administrative initiation of this lawsuit against Eleven Labs Inc.",
+    "significance": "minor_update",
+    "entry_number": "2",
+    "logged_at": "2026-09-03T17:03:53Z"
+  },
+  {
+    "case_id": "btf-ip-holdings-llc-v-eleven-labs-inc",
+    "case_name": "BTF IP Holdings LLC v. Eleven Labs Inc.",
+    "entry_date": "2026-09-01",
+    "summary": "Plaintiff BTF IP Holdings LLC filed a complaint against Eleven Labs Inc. in the Southern District of New York, initiating the lawsuit and paying the $405 filing fee; the complaint is accompanied by 24 exhibits (Exhibits A through X).",
+    "significance": "minor_update",
+    "entry_number": "1",
+    "logged_at": "2026-09-03T17:03:53Z"
+  },
+  {
+    "case_id": "sullivan-v-openai-foundation-f-k-a-openai-inc",
+    "case_name": "Sullivan v. OpenAI Foundation (f/k/a OpenAI Inc.)",
+    "entry_date": "2026-09-02",
+    "summary": "The Clerk's Office reviewed a motion to admit attorney Randolph Gaw to appear in this case on a pro hac vice basis and found no deficiencies in the submission.",
+    "significance": "minor_update",
+    "entry_number": "476650265",
+    "logged_at": "2026-09-03T17:03:53Z"
+  },
+  {
+    "case_id": "sullivan-v-openai-foundation-f-k-a-openai-inc",
+    "case_name": "Sullivan v. OpenAI Foundation (f/k/a OpenAI Inc.)",
+    "entry_date": "2026-09-01",
+    "summary": "Plaintiffs Zvi Bodie, Lion Den Inc. , Dana Loewy, Alan J. Marcus, Kevin T. Patton, Kenneth S. Saladin, and Michael Sullivan filed a motion seeking permission for attorney Randolph Gaw to appear in this case as visiting counsel from outside the Southern District of New York, with supporting materials submitted for review by the Clerk's Office.",
+    "significance": "minor_update",
+    "entry_number": "16",
+    "logged_at": "2026-09-03T17:03:53Z"
+  },
+  {
+    "case_id": "sullivan-v-openai-foundation-f-k-a-openai-inc",
+    "case_name": "Sullivan v. OpenAI Foundation (f/k/a OpenAI Inc.)",
+    "entry_date": "2026-09-01",
+    "summary": "The United States government filed a letter with Judge Sidney H. Stein dated September 1, 2026, submitting a Statement of Interest in this multidistrict litigation, signaling the federal government's position on one or more legal issues in the case.",
+    "significance": "minor_update",
+    "entry_number": "15",
+    "logged_at": "2026-09-03T17:03:53Z"
+  },
+  {
+    "case_id": "round-hill-music-lp-v-anthropic-pbc",
+    "case_name": "Round Hill Music LP v. Anthropic PBC",
+    "entry_date": "2026-09-01",
+    "summary": "The court ordered that Case No. 26-cv-8505-CRB is related to the existing case Round Hill Music LP v. Anthropic PBC (No. 24-cv-3811-EKL) and reassigned the newer case to Judge Eumi K. Lee, who signed the order on September 1, 2026.",
+    "significance": "minor_update",
+    "entry_number": "27",
+    "logged_at": "2026-09-03T17:03:53Z"
+  },
+  {
     "case_id": "lowery-v-suno-inc",
     "case_name": "Lowery v. Suno, Inc.",
     "entry_date": "2026-09-01",
