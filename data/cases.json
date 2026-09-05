@@ -13815,5 +13815,68 @@
     },
     "plain_language_summary": "BTF IP Holdings LLC filed patent infringement claims against Eleven Labs Inc. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue.",
     "docket_last_checked": "2026-09-05"
+  },
+  {
+    "id": "the-seattle-times-company-v-openai-inc",
+    "name": "The Seattle Times Company v. OpenAI Inc.",
+    "court": "District Court, S.D. New York",
+    "court_full": "District Court, S.D. New York",
+    "docket_number": "1:26-cv-07644",
+    "courtlistener_docket_id": "74754553",
+    "date_filed": "2026-09-04",
+    "claims": [
+      "copyright infringement"
+    ],
+    "legal_theories": [],
+    "status": "active",
+    "procedural_posture": "Filed",
+    "parties": {
+      "plaintiff": "The Seattle Times Company",
+      "defendant": "OpenAI Inc."
+    },
+    "judges": [],
+    "key_rulings": [],
+    "docket_entries": [],
+    "source": "courtlistener",
+    "courtlistener_url": "https://www.courtlistener.com/docket/74754553/the-seattle-times-company-v-openai-inc/",
+    "last_updated": "2026-09-05",
+    "discovered_date": "2026-09-05",
+    "case_intelligence": {
+      "case_theory": "The Seattle Times Company asserts copyright infringement claims against OpenAI Inc., but the parsed materials do not yet identify the specific AI conduct at issue.",
+      "current_posture": "The case is newly filed.",
+      "why_it_matters": "The case matters because future filings may clarify the specific AI-related conduct and legal theory in a case asserting copyright infringement claims.",
+      "latest_change": "Latest meaningful event (2026-09-04): The Seattle Times Company filed the case against OpenAI Inc..",
+      "latest_meaningful_event": "The Seattle Times Company filed the case against OpenAI Inc..",
+      "latest_meaningful_event_date": "2026-09-04",
+      "claim_category": "unknown",
+      "claims_asserted": [
+        "copyright infringement"
+      ],
+      "ai_conduct_alleged": null,
+      "works_or_data_at_issue": null,
+      "technology_or_model_at_issue": null,
+      "procedural_stage": "newly_filed",
+      "pending_motion_or_next_event": null,
+      "related_cases": [],
+      "confidence_level": "low",
+      "missing_information": [
+        "Specific AI-related conduct is not identified in the parsed docket metadata.",
+        "Specific works, data, or trade secrets at issue are not identified in the parsed materials.",
+        "Specific AI system or model is not identified in the parsed materials."
+      ],
+      "source_references": [
+        {
+          "type": "case_metadata",
+          "docket_number": "1:26-cv-07644",
+          "court": "District Court, S.D. New York",
+          "courtlistener_url": "https://www.courtlistener.com/docket/74754553/the-seattle-times-company-v-openai-inc/"
+        },
+        {
+          "type": "case_metadata",
+          "date_filed": "2026-09-04"
+        }
+      ]
+    },
+    "plain_language_summary": "The Seattle Times Company filed copyright infringement claims against OpenAI Inc. Newly filed case. The complaint has been docketed, but the available parsed materials do not yet identify the specific AI system, works, data, or training/output theory at issue."
   }
 ]
