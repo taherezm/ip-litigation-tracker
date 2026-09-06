@@ -1,5 +1,131 @@
 [
   {
+    "case_id": "the-seattle-times-company-v-openai-inc",
+    "case_name": "The Seattle Times Company v. OpenAI Inc.",
+    "entry_date": "2026-09-04",
+    "summary": "Plaintiffs Newsday LLC and The Seattle Times Company filed a request asking the court clerk to issue summonses against all named defendants—including multiple OpenAI entities and Microsoft Corporation—so that those defendants can be formally served with the complaint.",
+    "significance": "minor_update",
+    "entry_number": "7",
+    "logged_at": "2026-09-06T16:19:23Z"
+  },
+  {
+    "case_id": "the-seattle-times-company-v-openai-inc",
+    "case_name": "The Seattle Times Company v. OpenAI Inc.",
+    "entry_date": "2026-09-04",
+    "summary": "Attorney Brendan Kehoe submitted an AO 120 patent/trademark form to the court as part of the case opening process. This is a standard administrative filing required by federal courts to notify the U. S. Patent and Trademark Office of litigation involving trademark or patent matters.",
+    "significance": "minor_update",
+    "entry_number": "6",
+    "logged_at": "2026-09-06T16:19:23Z"
+  },
+  {
+    "case_id": "the-seattle-times-company-v-openai-inc",
+    "case_name": "The Seattle Times Company v. OpenAI Inc.",
+    "entry_date": "2026-09-04",
+    "summary": "Attorney Brendan Kehoe submitted the AO 121 copyright reporting form to the court in connection with the opening of this case. This is a standard administrative filing required by federal courts when a new copyright case is initiated.",
+    "significance": "minor_update",
+    "entry_number": "5",
+    "logged_at": "2026-09-06T16:19:23Z"
+  },
+  {
+    "case_id": "the-seattle-times-company-v-openai-inc",
+    "case_name": "The Seattle Times Company v. OpenAI Inc.",
+    "entry_date": "2026-09-04",
+    "summary": "Plaintiff The Seattle Times Company filed a required corporate disclosure statement, as mandated by Federal Rule of Civil Procedure 7. 1, stating that it has no parent corporation.",
+    "significance": "minor_update",
+    "entry_number": "4",
+    "logged_at": "2026-09-06T16:19:23Z"
+  },
+  {
+    "case_id": "the-seattle-times-company-v-openai-inc",
+    "case_name": "The Seattle Times Company v. OpenAI Inc.",
+    "entry_date": "2026-09-04",
+    "summary": "Newsday LLC filed a required corporate disclosure statement under Federal Rule of Civil Procedure 7. 1, identifying that it has no corporate parent.",
+    "significance": "minor_update",
+    "entry_number": "3",
+    "logged_at": "2026-09-06T16:19:23Z"
+  },
+  {
+    "case_id": "the-seattle-times-company-v-openai-inc",
+    "case_name": "The Seattle Times Company v. OpenAI Inc.",
+    "entry_date": "2026-09-04",
+    "summary": "Plaintiff The Seattle Times Company filed a Civil Cover Sheet in the Southern District of New York, marking an administrative step associated with the initiation of this lawsuit against OpenAI Inc.",
+    "significance": "minor_update",
+    "entry_number": "2",
+    "logged_at": "2026-09-06T16:19:23Z"
+  },
+  {
+    "case_id": "the-seattle-times-company-v-openai-inc",
+    "case_name": "The Seattle Times Company v. OpenAI Inc.",
+    "entry_date": "2026-09-04",
+    "summary": "Plaintiffs Newsday LLC and The Seattle Times Company filed a complaint against Microsoft Corporation and numerous OpenAI entities, initiating the lawsuit with four attached exhibits and payment of the $405 filing fee.",
+    "significance": "minor_update",
+    "entry_number": "1",
+    "logged_at": "2026-09-06T16:19:23Z"
+  },
+  {
+    "case_id": "encyclopaedia-britannica-inc-v-openai-inc",
+    "case_name": "Encyclopaedia Britannica, Inc. v. OpenAI, Inc.",
+    "entry_date": "2026-09-04",
+    "summary": "Plaintiffs Daily News LP, The New York Times Company, and Ziff Davis Inc. filed a redacted version of their previously submitted motion for summary judgment in the consolidated multidistrict litigation.",
+    "significance": "minor_update",
+    "entry_number": "62",
+    "logged_at": "2026-09-06T16:19:23Z"
+  },
+  {
+    "case_id": "encyclopaedia-britannica-inc-v-openai-inc",
+    "case_name": "Encyclopaedia Britannica, Inc. v. OpenAI, Inc.",
+    "entry_date": "2026-09-03",
+    "summary": "The court ordered a detailed sealing procedure governing how the parties may temporarily file confidential materials under seal during upcoming summary judgment and Daubert briefing, setting a staged schedule of deadlines from September 2026 through January 2027 for motions to seal, supporting statements, and public re-filing of any materials that no party seeks to keep sealed.",
+    "significance": "minor_update",
+    "entry_number": "61",
+    "logged_at": "2026-09-06T16:19:23Z"
+  },
+  {
+    "case_id": "bmg-rights-management-us-llc-v-anthropic-pbc",
+    "case_name": "BMG Rights Management (US) LLC v. Anthropic PBC",
+    "entry_date": "2026-09-03",
+    "summary": "Plaintiff BMG Rights Management ordered a transcript of the September 2, 2026 court proceedings held before Judge Eumi K. Lee, with the request filed by attorney Evan Cooper the following day.",
+    "significance": "minor_update",
+    "entry_number": "42",
+    "logged_at": "2026-09-06T16:19:23Z"
+  },
+  {
+    "case_id": "bmg-rights-management-us-llc-v-anthropic-pbc",
+    "case_name": "BMG Rights Management (US) LLC v. Anthropic PBC",
+    "entry_date": "2026-09-02",
+    "summary": "The court held a 51-minute status conference on September 2, 2026, during which Judge Eumi K. Lee adopted a tentative ruling on phased discovery and issued several orders requiring the parties to meet and confer on discovery coordination, book-scanning-related discovery, and which pending Daubert motions are tied to the pending summary judgment motions, with various filings and notifications due by September 11 and September 23, 2026.",
+    "significance": "minor_update",
+    "entry_number": "41",
+    "logged_at": "2026-09-06T16:19:23Z"
+  },
+  {
+    "case_id": "x-ai-llc-v-bonta",
+    "case_name": "X.AI LLC v. Bonta",
+    "entry_date": "2026-09-04",
+    "summary": "Appellant X. AI LLC submitted its reply brief to the Ninth Circuit, completing the final round of briefing in the appeal.",
+    "significance": "minor_update",
+    "entry_number": "49",
+    "logged_at": "2026-09-06T16:19:23Z"
+  },
+  {
+    "case_id": "x-ai-llc-v-bonta",
+    "case_name": "X.AI LLC v. Bonta",
+    "entry_date": "2026-09-04",
+    "summary": "Attorney Stephany S. Kim filed a motion to withdraw as counsel for amicus curiae Knight First Amendment Institute at Columbia University in this Ninth Circuit appeal.",
+    "significance": "minor_update",
+    "entry_number": "48",
+    "logged_at": "2026-09-06T16:19:23Z"
+  },
+  {
+    "case_id": "neural-ai-llc-v-oai-international-inc",
+    "case_name": "Neural AI, LLC v. OAI International, Inc.",
+    "entry_date": "2026-09-04",
+    "summary": "OAI International filed an administrative motion asking the court for permission to submit a supplemental opposition brief, attaching a supporting declaration from attorney Matthew S. Warren and three exhibits; any responses to the motion are due by September 8, 2026.",
+    "significance": "minor_update",
+    "entry_number": "11",
+    "logged_at": "2026-09-06T16:19:23Z"
+  },
+  {
     "case_id": "druyan-sagan-associates-inc-v-luma-ai-inc",
     "case_name": "Druyan-Sagan Associates, Inc. v. Luma AI, Inc.",
     "entry_date": "2026-09-04",
